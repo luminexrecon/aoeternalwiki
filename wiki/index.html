@@ -3,6 +3,12 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600&family=Eczar:wght@600;700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
+/* The Claude Artifact platform normally injects this rule automatically -
+   self-hosted, it's missing, so any element's own display:flex/grid/block
+   class (e.g. .merc-split, .collection-grid) wins over a plain [hidden]
+   attribute and the "hidden" view stays visible/stacked with whatever else
+   is showing. Must stay !important and defined here, not rely on the host. */
+[hidden]{display:none!important;}
 :root{
   --paper:#e9edec; --paper-raised:#dde3e2; --paper-sunken:#d2d9d8;
   --ink:#16232a; --ink-soft:#4c5e63; --ink-faint:#7c8b8d;
@@ -28780,23 +28786,6 @@ const TREE = [
       ]},
     ],
   },
-  { id:'equipment', label:'Equipment', prov:'client',
-    cols:[
-      {k:'id', h:'ID', cls:'code num', w:70}, {k:'name_en', h:'Name', cls:'name-en'}, {k:'name_kr', h:'KR', cls:'name-kr'},
-      {k:'equip_category', h:'Category', cls:'code'}, {k:'grade', h:'Grade', render:r=>gradeBadge(r.grade)},
-      {k:'level', h:'Lv', cls:'num'}, {k:'func', h:'Function', cls:'code'}, {k:'tradable', h:'Trade', render:r=>r.tradable==='1'?'yes':'—'},
-    ],
-    detail:r=>[['ID',r.id],['Category',r.equip_category],['Type',r.type],['Grade',r.grade||'—'],['Level',r.level||'—'],
-      ['Function',r.func||'—'],['Tradable',r.tradable==='1'?'Yes':'No'],['__full__Recipe', r.recipe||'—'],
-      ['__html__Used as reward in', questLinksForItem(r.id)]],
-    children:[
-      {id:'equip-avatar', label:'Avatar', filter:r=>r.equip_category==='Avatar'},
-      {id:'equip-gear', label:'Gear', filter:r=>r.equip_category==='Gear'},
-      {id:'equip-weapon', label:'Weapon', filter:r=>r.equip_category==='Weapon'},
-      {id:'equip-subweapon', label:'Sub-Weapon', filter:r=>r.equip_category==='Sub-Weapon'},
-      {id:'equip-accessory', label:'Accessory', filter:r=>r.equip_category==='Accessory'},
-    ],
-  },
   { id:'atlas_enhance', label:'Atlas Enhancement', prov:'community',
     cols:[
       {k:'enhance_type', h:'Enhance Type', cls:'name-en'},
@@ -29818,12 +29807,6 @@ function renderBody(){
       }).join('');
       dtd.innerHTML = `<div class="kv">${kv}</div>`;
       dtr.appendChild(dtd); tbody.appendChild(dtr);
-      // Equipment's "Used as reward in" cell reads Quest's derived index,
-      // which is empty until Quest's lazy data loads. Kick that off in the
-      // background and re-render this same row once it resolves.
-      if(root.id === 'equipment' && !DATA.quest){
-        loadQuestData().then(()=>{ if(state.openRow===rid) renderBody(); });
-      }
     }
   });
 
