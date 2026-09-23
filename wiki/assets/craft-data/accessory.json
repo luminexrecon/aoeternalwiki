@@ -1,0 +1,1518 @@
+[
+  {
+    "name": "Awakened Chi You's Ring",
+    "batch_size": 1,
+    "skill_lvl": 110,
+    "workload": 150000000,
+    "materials": [
+      {
+        "name": "Mystic Gem",
+        "qty": 15
+      },
+      {
+        "name": "Crystal of Temptation",
+        "qty": 5
+      },
+      {
+        "name": "Hydra's Poisonous Gland",
+        "qty": 10
+      },
+      {
+        "name": "Shimmering Opal",
+        "qty": 100
+      },
+      {
+        "name": "Shimmering Sapphire",
+        "qty": 30
+      },
+      {
+        "name": "Storm Element",
+        "qty": 90
+      },
+      {
+        "name": "Earth Essence",
+        "qty": 30
+      }
+    ],
+    "source": "jana4u"
+  },
+  {
+    "name": "Awakened Fu Xi's Ring",
+    "batch_size": 1,
+    "skill_lvl": 112,
+    "workload": 150000000,
+    "materials": [
+      {
+        "name": "Mystic Gem",
+        "qty": 15
+      },
+      {
+        "name": "Crystal of Temptation",
+        "qty": 5
+      },
+      {
+        "name": "Hydra's Poisonous Gland",
+        "qty": 10
+      },
+      {
+        "name": "Shimmering Opal",
+        "qty": 100
+      },
+      {
+        "name": "Shimmering Sapphire",
+        "qty": 30
+      },
+      {
+        "name": "Storm Element",
+        "qty": 90
+      },
+      {
+        "name": "Earth Essence",
+        "qty": 30
+      }
+    ],
+    "source": "jana4u"
+  },
+  {
+    "name": "Awakened Nuwa's Ring",
+    "batch_size": 1,
+    "skill_lvl": 111,
+    "workload": 150000000,
+    "materials": [
+      {
+        "name": "Mystic Gem",
+        "qty": 15
+      },
+      {
+        "name": "Crystal of Temptation",
+        "qty": 5
+      },
+      {
+        "name": "Hydra's Poisonous Gland",
+        "qty": 10
+      },
+      {
+        "name": "Shimmering Opal",
+        "qty": 100
+      },
+      {
+        "name": "Shimmering Sapphire",
+        "qty": 30
+      },
+      {
+        "name": "Storm Element",
+        "qty": 90
+      },
+      {
+        "name": "Earth Essence",
+        "qty": 30
+      }
+    ],
+    "source": "jana4u"
+  },
+  {
+    "name": "Awakened Pangu's Ring",
+    "batch_size": 1,
+    "skill_lvl": 113,
+    "workload": 150000000,
+    "materials": [
+      {
+        "name": "Mystic Gem",
+        "qty": 15
+      },
+      {
+        "name": "Crystal of Temptation",
+        "qty": 5
+      },
+      {
+        "name": "Hydra's Poisonous Gland",
+        "qty": 10
+      },
+      {
+        "name": "Shimmering Opal",
+        "qty": 100
+      },
+      {
+        "name": "Shimmering Sapphire",
+        "qty": 30
+      },
+      {
+        "name": "Storm Element",
+        "qty": 90
+      },
+      {
+        "name": "Earth Essence",
+        "qty": 30
+      }
+    ],
+    "source": "jana4u"
+  },
+  {
+    "name": "Chi You's Ring",
+    "batch_size": 1,
+    "skill_lvl": 96,
+    "workload": 60000000,
+    "materials": [
+      {
+        "name": "Mystic Gem",
+        "qty": 10
+      },
+      {
+        "name": "Crystal of Temptation",
+        "qty": 3
+      },
+      {
+        "name": "Hydra's Poisonous Gland",
+        "qty": 5
+      },
+      {
+        "name": "Blue Sapphire",
+        "qty": 100
+      },
+      {
+        "name": "Large Diamond",
+        "qty": 10
+      },
+      {
+        "name": "Flame Element",
+        "qty": 200
+      },
+      {
+        "name": "Storm Element",
+        "qty": 60
+      }
+    ],
+    "source": "jana4u"
+  },
+  {
+    "name": "Fu Xi's Ring",
+    "batch_size": 1,
+    "skill_lvl": 94,
+    "workload": 60000000,
+    "materials": [
+      {
+        "name": "Mystic Gem",
+        "qty": 10
+      },
+      {
+        "name": "Crystal of Temptation",
+        "qty": 3
+      },
+      {
+        "name": "Hydra's Poisonous Gland",
+        "qty": 5
+      },
+      {
+        "name": "Blue Sapphire",
+        "qty": 100
+      },
+      {
+        "name": "Large Diamond",
+        "qty": 10
+      },
+      {
+        "name": "Flame Element",
+        "qty": 200
+      },
+      {
+        "name": "Storm Element",
+        "qty": 60
+      }
+    ],
+    "source": "jana4u"
+  },
+  {
+    "name": "Merlin's Bracelet",
+    "batch_size": 1,
+    "skill_lvl": 135,
+    "workload": 5000000000,
+    "materials": [
+      {
+        "name": "Mystic Gem",
+        "qty": 1000
+      },
+      {
+        "name": "Platinum Ingot",
+        "qty": 9000
+      },
+      {
+        "name": "Ruby",
+        "qty": 9000
+      },
+      {
+        "name": "Enriched Adamantium Ingot",
+        "qty": 9000
+      },
+      {
+        "name": "Refined Mithril Ingot",
+        "qty": 9000
+      },
+      {
+        "name": "Shimmering Sapphire",
+        "qty": 300
+      },
+      {
+        "name": "Large Diamond",
+        "qty": 300
+      },
+      {
+        "name": "Atlantis Platinum Coin",
+        "qty": 1200
+      },
+      {
+        "name": "Seer's Stone",
+        "qty": 1000
+      }
+    ],
+    "source": "jana4u"
+  },
+  {
+    "name": "Merlin's Necklace",
+    "batch_size": 1,
+    "skill_lvl": 145,
+    "workload": 5000000000,
+    "materials": [
+      {
+        "name": "Mystic Gem",
+        "qty": 1000
+      },
+      {
+        "name": "Accessory Mold",
+        "qty": 8000
+      },
+      {
+        "name": "Flame Element",
+        "qty": 7000
+      },
+      {
+        "name": "Van Gogh's Soul Stone",
+        "qty": 40
+      },
+      {
+        "name": "Ruby",
+        "qty": 8000
+      },
+      {
+        "name": "Shimmering Sapphire",
+        "qty": 300
+      },
+      {
+        "name": "Large Diamond",
+        "qty": 300
+      },
+      {
+        "name": "Atlantis Platinum Coin",
+        "qty": 1000
+      },
+      {
+        "name": "Seer's Stone",
+        "qty": 1000
+      }
+    ],
+    "source": "jana4u"
+  },
+  {
+    "name": "Merlin's Ring",
+    "batch_size": 1,
+    "skill_lvl": 155,
+    "workload": 5000000000,
+    "materials": [
+      {
+        "name": "Mystic Gem",
+        "qty": 2000
+      },
+      {
+        "name": "Crystal of Temptation",
+        "qty": 6000
+      },
+      {
+        "name": "Hydra's Poisonous Gland",
+        "qty": 1000
+      },
+      {
+        "name": "Blue Sapphire",
+        "qty": 2000
+      },
+      {
+        "name": "Shimmering Sapphire",
+        "qty": 300
+      },
+      {
+        "name": "Large Diamond",
+        "qty": 300
+      },
+      {
+        "name": "Atlantis Platinum Coin",
+        "qty": 500
+      },
+      {
+        "name": "Seer's Stone",
+        "qty": 1000
+      }
+    ],
+    "source": "jana4u"
+  },
+  {
+    "name": "Nuwa's Ring",
+    "batch_size": 1,
+    "skill_lvl": 98,
+    "workload": 60000000,
+    "materials": [
+      {
+        "name": "Mystic Gem",
+        "qty": 10
+      },
+      {
+        "name": "Crystal of Temptation",
+        "qty": 3
+      },
+      {
+        "name": "Hydra's Poisonous Gland",
+        "qty": 5
+      },
+      {
+        "name": "Blue Sapphire",
+        "qty": 100
+      },
+      {
+        "name": "Large Diamond",
+        "qty": 10
+      },
+      {
+        "name": "Flame Element",
+        "qty": 200
+      },
+      {
+        "name": "Storm Element",
+        "qty": 60
+      }
+    ],
+    "source": "jana4u"
+  },
+  {
+    "name": "Pangu's Ring",
+    "batch_size": 1,
+    "skill_lvl": 100,
+    "workload": 60000000,
+    "materials": [
+      {
+        "name": "Mystic Gem",
+        "qty": 10
+      },
+      {
+        "name": "Crystal of Temptation",
+        "qty": 3
+      },
+      {
+        "name": "Hydra's Poisonous Gland",
+        "qty": 5
+      },
+      {
+        "name": "Blue Sapphire",
+        "qty": 100
+      },
+      {
+        "name": "Large Diamond",
+        "qty": 10
+      },
+      {
+        "name": "Flame Element",
+        "qty": 200
+      },
+      {
+        "name": "Storm Element",
+        "qty": 60
+      }
+    ],
+    "source": "jana4u"
+  },
+  {
+    "name": "Riederan's Necklace",
+    "batch_size": 1,
+    "skill_lvl": 120,
+    "workload": 1500000000,
+    "materials": [
+      {
+        "name": "Riederan's Soul Shard",
+        "qty": 25
+      },
+      {
+        "name": "Historical Essence",
+        "qty": 100
+      },
+      {
+        "name": "Accessory Mold",
+        "qty": 500
+      },
+      {
+        "name": "Shimmering Opal",
+        "qty": 500
+      },
+      {
+        "name": "Shimmering Sapphire",
+        "qty": 300
+      },
+      {
+        "name": "Large Diamond",
+        "qty": 30
+      },
+      {
+        "name": "Atlantis Gold Coin",
+        "qty": 100
+      },
+      {
+        "name": "Sunset Afterglow",
+        "qty": 10
+      }
+    ],
+    "source": "jana4u"
+  },
+  {
+    "name": "Ring of Assassination",
+    "batch_size": 1,
+    "skill_lvl": 30,
+    "workload": 1120000,
+    "materials": [
+      {
+        "name": "Multi-Hued Crystal",
+        "qty": 5
+      },
+      {
+        "name": "Tanzanite",
+        "qty": 40
+      },
+      {
+        "name": "Silver Ingot",
+        "qty": 200
+      },
+      {
+        "name": "Gold Ingot",
+        "qty": 100
+      }
+    ],
+    "source": "jana4u"
+  },
+  {
+    "name": "Ring of Blunt Spears",
+    "batch_size": 1,
+    "skill_lvl": 5,
+    "workload": 6500,
+    "materials": [
+      {
+        "name": "Ashen Crystal",
+        "qty": 10
+      },
+      {
+        "name": "Ivory",
+        "qty": 20
+      },
+      {
+        "name": "Pearl",
+        "qty": 20
+      },
+      {
+        "name": "Coral",
+        "qty": 20
+      }
+    ],
+    "source": "jana4u"
+  },
+  {
+    "name": "Ring of Broken Arrows",
+    "batch_size": 1,
+    "skill_lvl": 5,
+    "workload": 6500,
+    "materials": [
+      {
+        "name": "Ashen Crystal",
+        "qty": 10
+      },
+      {
+        "name": "Ivory",
+        "qty": 20
+      },
+      {
+        "name": "Pearl",
+        "qty": 20
+      },
+      {
+        "name": "Coral",
+        "qty": 20
+      }
+    ],
+    "source": "jana4u"
+  },
+  {
+    "name": "Ring of Celerity",
+    "batch_size": 1,
+    "skill_lvl": 75,
+    "workload": 14000000,
+    "materials": [
+      {
+        "name": "Multi-Hued Jewel",
+        "qty": 3
+      },
+      {
+        "name": "Blue Sapphire",
+        "qty": 70
+      },
+      {
+        "name": "Ruby",
+        "qty": 100
+      },
+      {
+        "name": "Flame Element",
+        "qty": 80
+      },
+      {
+        "name": "Sea Element",
+        "qty": 200
+      }
+    ],
+    "source": "jana4u"
+  },
+  {
+    "name": "Ring of Destruction",
+    "batch_size": 1,
+    "skill_lvl": 30,
+    "workload": 1120000,
+    "materials": [
+      {
+        "name": "Multi-Hued Crystal",
+        "qty": 5
+      },
+      {
+        "name": "Tanzanite",
+        "qty": 40
+      },
+      {
+        "name": "Silver Ingot",
+        "qty": 200
+      },
+      {
+        "name": "Gold Ingot",
+        "qty": 100
+      }
+    ],
+    "source": "jana4u"
+  },
+  {
+    "name": "Ring of Devotion",
+    "batch_size": 1,
+    "skill_lvl": 50,
+    "workload": 2800000,
+    "materials": [
+      {
+        "name": "Multi-Hued Jewel",
+        "qty": 2
+      },
+      {
+        "name": "Opal",
+        "qty": 30
+      },
+      {
+        "name": "Ruby",
+        "qty": 30
+      },
+      {
+        "name": "Gold Ingot",
+        "qty": 500
+      },
+      {
+        "name": "Platinum Ingot",
+        "qty": 150
+      }
+    ],
+    "source": "jana4u"
+  },
+  {
+    "name": "Ring of Dexterity",
+    "batch_size": 1,
+    "skill_lvl": 1,
+    "workload": 3500,
+    "materials": [
+      {
+        "name": "Ashen Crystal",
+        "qty": 2
+      },
+      {
+        "name": "Pearl",
+        "qty": 22
+      },
+      {
+        "name": "Iron Sand",
+        "qty": 20
+      },
+      {
+        "name": "Coral",
+        "qty": 20
+      }
+    ],
+    "source": "jana4u"
+  },
+  {
+    "name": "Ring of Dull Axes",
+    "batch_size": 1,
+    "skill_lvl": 5,
+    "workload": 6500,
+    "materials": [
+      {
+        "name": "Ashen Crystal",
+        "qty": 10
+      },
+      {
+        "name": "Ivory",
+        "qty": 20
+      },
+      {
+        "name": "Pearl",
+        "qty": 20
+      },
+      {
+        "name": "Coral",
+        "qty": 20
+      }
+    ],
+    "source": "jana4u"
+  },
+  {
+    "name": "Ring of Dull Swords",
+    "batch_size": 1,
+    "skill_lvl": 5,
+    "workload": 6500,
+    "materials": [
+      {
+        "name": "Ashen Crystal",
+        "qty": 10
+      },
+      {
+        "name": "Ivory",
+        "qty": 20
+      },
+      {
+        "name": "Pearl",
+        "qty": 20
+      },
+      {
+        "name": "Coral",
+        "qty": 20
+      }
+    ],
+    "source": "jana4u"
+  },
+  {
+    "name": "Ring of Empty Cannons",
+    "batch_size": 1,
+    "skill_lvl": 5,
+    "workload": 6500,
+    "materials": [
+      {
+        "name": "Ashen Crystal",
+        "qty": 10
+      },
+      {
+        "name": "Ivory",
+        "qty": 20
+      },
+      {
+        "name": "Pearl",
+        "qty": 20
+      },
+      {
+        "name": "Coral",
+        "qty": 20
+      }
+    ],
+    "source": "jana4u"
+  },
+  {
+    "name": "Ring of Endurance",
+    "batch_size": 1,
+    "skill_lvl": 50,
+    "workload": 2800000,
+    "materials": [
+      {
+        "name": "Multi-Hued Jewel",
+        "qty": 2
+      },
+      {
+        "name": "Opal",
+        "qty": 30
+      },
+      {
+        "name": "Ruby",
+        "qty": 30
+      },
+      {
+        "name": "Gold Ingot",
+        "qty": 500
+      },
+      {
+        "name": "Platinum Ingot",
+        "qty": 150
+      }
+    ],
+    "source": "jana4u"
+  },
+  {
+    "name": "Ring of Eternity",
+    "batch_size": 1,
+    "skill_lvl": 25,
+    "workload": 350000,
+    "materials": [
+      {
+        "name": "Ashen Jewel",
+        "qty": 10
+      },
+      {
+        "name": "Gold Ingot",
+        "qty": 180
+      },
+      {
+        "name": "Pearl",
+        "qty": 30
+      },
+      {
+        "name": "Fusing Agent",
+        "qty": 10
+      }
+    ],
+    "source": "jana4u"
+  },
+  {
+    "name": "Ring of Intelligence",
+    "batch_size": 1,
+    "skill_lvl": 1,
+    "workload": 3500,
+    "materials": [
+      {
+        "name": "Ashen Crystal",
+        "qty": 2
+      },
+      {
+        "name": "Pearl",
+        "qty": 22
+      },
+      {
+        "name": "Iron Sand",
+        "qty": 20
+      },
+      {
+        "name": "Coral",
+        "qty": 20
+      }
+    ],
+    "source": "jana4u"
+  },
+  {
+    "name": "Ring of Malice",
+    "batch_size": 1,
+    "skill_lvl": 50,
+    "workload": 2800000,
+    "materials": [
+      {
+        "name": "Multi-Hued Jewel",
+        "qty": 2
+      },
+      {
+        "name": "Opal",
+        "qty": 30
+      },
+      {
+        "name": "Ruby",
+        "qty": 30
+      },
+      {
+        "name": "Gold Ingot",
+        "qty": 500
+      },
+      {
+        "name": "Platinum Ingot",
+        "qty": 150
+      }
+    ],
+    "source": "jana4u"
+  },
+  {
+    "name": "Ring of Nobility",
+    "batch_size": 1,
+    "skill_lvl": 65,
+    "workload": 14000000,
+    "materials": [
+      {
+        "name": "Multi-Hued Jewel",
+        "qty": 3
+      },
+      {
+        "name": "Blue Sapphire",
+        "qty": 70
+      },
+      {
+        "name": "Ruby",
+        "qty": 100
+      },
+      {
+        "name": "Flame Element",
+        "qty": 80
+      },
+      {
+        "name": "Sea Element",
+        "qty": 200
+      }
+    ],
+    "source": "jana4u"
+  },
+  {
+    "name": "Ring of Null Magic",
+    "batch_size": 1,
+    "skill_lvl": 5,
+    "workload": 6500,
+    "materials": [
+      {
+        "name": "Ashen Crystal",
+        "qty": 10
+      },
+      {
+        "name": "Ivory",
+        "qty": 20
+      },
+      {
+        "name": "Pearl",
+        "qty": 20
+      },
+      {
+        "name": "Coral",
+        "qty": 20
+      }
+    ],
+    "source": "jana4u"
+  },
+  {
+    "name": "Ring of Protection",
+    "batch_size": 1,
+    "skill_lvl": 30,
+    "workload": 1120000,
+    "materials": [
+      {
+        "name": "Multi-Hued Crystal",
+        "qty": 5
+      },
+      {
+        "name": "Tanzanite",
+        "qty": 40
+      },
+      {
+        "name": "Silver Ingot",
+        "qty": 200
+      },
+      {
+        "name": "Gold Ingot",
+        "qty": 100
+      }
+    ],
+    "source": "jana4u"
+  },
+  {
+    "name": "Ring of Rage",
+    "batch_size": 1,
+    "skill_lvl": 50,
+    "workload": 2800000,
+    "materials": [
+      {
+        "name": "Multi-Hued Jewel",
+        "qty": 2
+      },
+      {
+        "name": "Opal",
+        "qty": 30
+      },
+      {
+        "name": "Ruby",
+        "qty": 30
+      },
+      {
+        "name": "Gold Ingot",
+        "qty": 500
+      },
+      {
+        "name": "Platinum Ingot",
+        "qty": 150
+      }
+    ],
+    "source": "jana4u"
+  },
+  {
+    "name": "Ring of Sacrifice",
+    "batch_size": 1,
+    "skill_lvl": 80,
+    "workload": 14000000,
+    "materials": [
+      {
+        "name": "Multi-Hued Jewel",
+        "qty": 3
+      },
+      {
+        "name": "Blue Sapphire",
+        "qty": 70
+      },
+      {
+        "name": "Ruby",
+        "qty": 100
+      },
+      {
+        "name": "Flame Element",
+        "qty": 80
+      },
+      {
+        "name": "Sea Element",
+        "qty": 200
+      }
+    ],
+    "source": "jana4u"
+  },
+  {
+    "name": "Ring of Salvation",
+    "batch_size": 1,
+    "skill_lvl": 30,
+    "workload": 1120000,
+    "materials": [
+      {
+        "name": "Multi-Hued Crystal",
+        "qty": 5
+      },
+      {
+        "name": "Tanzanite",
+        "qty": 40
+      },
+      {
+        "name": "Silver Ingot",
+        "qty": 200
+      },
+      {
+        "name": "Gold Ingot",
+        "qty": 100
+      }
+    ],
+    "source": "jana4u"
+  },
+  {
+    "name": "Ring of Strength",
+    "batch_size": 1,
+    "skill_lvl": 1,
+    "workload": 3500,
+    "materials": [
+      {
+        "name": "Ashen Crystal",
+        "qty": 2
+      },
+      {
+        "name": "Pearl",
+        "qty": 22
+      },
+      {
+        "name": "Iron Sand",
+        "qty": 20
+      },
+      {
+        "name": "Coral",
+        "qty": 20
+      }
+    ],
+    "source": "jana4u"
+  },
+  {
+    "name": "Ring of the Gale",
+    "batch_size": 1,
+    "skill_lvl": 25,
+    "workload": 350000,
+    "materials": [
+      {
+        "name": "Ashen Jewel",
+        "qty": 10
+      },
+      {
+        "name": "Gold Ingot",
+        "qty": 180
+      },
+      {
+        "name": "Pearl",
+        "qty": 30
+      },
+      {
+        "name": "Fusing Agent",
+        "qty": 10
+      }
+    ],
+    "source": "jana4u"
+  },
+  {
+    "name": "Ring of the Hermit",
+    "batch_size": 1,
+    "skill_lvl": 25,
+    "workload": 350000,
+    "materials": [
+      {
+        "name": "Ashen Jewel",
+        "qty": 10
+      },
+      {
+        "name": "Gold Ingot",
+        "qty": 180
+      },
+      {
+        "name": "Pearl",
+        "qty": 30
+      },
+      {
+        "name": "Fusing Agent",
+        "qty": 10
+      }
+    ],
+    "source": "jana4u"
+  },
+  {
+    "name": "Ring of the Hero",
+    "batch_size": 1,
+    "skill_lvl": 10,
+    "workload": 40000,
+    "materials": [
+      {
+        "name": "Ashen Crystal",
+        "qty": 30
+      },
+      {
+        "name": "Ivory",
+        "qty": 50
+      },
+      {
+        "name": "Silver Ingot",
+        "qty": 40
+      },
+      {
+        "name": "Pearl",
+        "qty": 100
+      },
+      {
+        "name": "Gold Ingot",
+        "qty": 4
+      }
+    ],
+    "source": "jana4u"
+  },
+  {
+    "name": "Ring of the Phoenix",
+    "batch_size": 1,
+    "skill_lvl": 10,
+    "workload": 40000,
+    "materials": [
+      {
+        "name": "Ashen Crystal",
+        "qty": 30
+      },
+      {
+        "name": "Ivory",
+        "qty": 50
+      },
+      {
+        "name": "Silver Ingot",
+        "qty": 40
+      },
+      {
+        "name": "Pearl",
+        "qty": 100
+      },
+      {
+        "name": "Gold Ingot",
+        "qty": 4
+      }
+    ],
+    "source": "jana4u"
+  },
+  {
+    "name": "Ring of the Strong Man",
+    "batch_size": 1,
+    "skill_lvl": 25,
+    "workload": 350000,
+    "materials": [
+      {
+        "name": "Ashen Jewel",
+        "qty": 10
+      },
+      {
+        "name": "Gold Ingot",
+        "qty": 180
+      },
+      {
+        "name": "Pearl",
+        "qty": 30
+      },
+      {
+        "name": "Fusing Agent",
+        "qty": 10
+      }
+    ],
+    "source": "jana4u"
+  },
+  {
+    "name": "Ring of the Wiseman",
+    "batch_size": 1,
+    "skill_lvl": 10,
+    "workload": 40000,
+    "materials": [
+      {
+        "name": "Ashen Crystal",
+        "qty": 30
+      },
+      {
+        "name": "Ivory",
+        "qty": 50
+      },
+      {
+        "name": "Silver Ingot",
+        "qty": 40
+      },
+      {
+        "name": "Pearl",
+        "qty": 100
+      },
+      {
+        "name": "Gold Ingot",
+        "qty": 4
+      }
+    ],
+    "source": "jana4u"
+  },
+  {
+    "name": "Ring of Vitality",
+    "batch_size": 1,
+    "skill_lvl": 1,
+    "workload": 3500,
+    "materials": [
+      {
+        "name": "Ashen Crystal",
+        "qty": 2
+      },
+      {
+        "name": "Pearl",
+        "qty": 22
+      },
+      {
+        "name": "Iron Sand",
+        "qty": 20
+      },
+      {
+        "name": "Coral",
+        "qty": 20
+      }
+    ],
+    "source": "jana4u"
+  },
+  {
+    "name": "Ring of Volition",
+    "batch_size": 1,
+    "skill_lvl": 70,
+    "workload": 14000000,
+    "materials": [
+      {
+        "name": "Multi-Hued Jewel",
+        "qty": 3
+      },
+      {
+        "name": "Blue Sapphire",
+        "qty": 70
+      },
+      {
+        "name": "Ruby",
+        "qty": 100
+      },
+      {
+        "name": "Flame Element",
+        "qty": 80
+      },
+      {
+        "name": "Sea Element",
+        "qty": 200
+      }
+    ],
+    "source": "jana4u"
+  },
+  {
+    "name": "Ring of Wet Gunpowder",
+    "batch_size": 1,
+    "skill_lvl": 5,
+    "workload": 6500,
+    "materials": [
+      {
+        "name": "Ashen Crystal",
+        "qty": 10
+      },
+      {
+        "name": "Ivory",
+        "qty": 20
+      },
+      {
+        "name": "Pearl",
+        "qty": 20
+      },
+      {
+        "name": "Coral",
+        "qty": 20
+      }
+    ],
+    "source": "jana4u"
+  },
+  {
+    "name": "Ring of Wind",
+    "batch_size": 1,
+    "skill_lvl": 10,
+    "workload": 40000,
+    "materials": [
+      {
+        "name": "Ashen Crystal",
+        "qty": 30
+      },
+      {
+        "name": "Ivory",
+        "qty": 50
+      },
+      {
+        "name": "Silver Ingot",
+        "qty": 40
+      },
+      {
+        "name": "Pearl",
+        "qty": 100
+      },
+      {
+        "name": "Gold Ingot",
+        "qty": 4
+      }
+    ],
+    "source": "jana4u"
+  },
+  {
+    "name": "Sharp Opal Necklace",
+    "batch_size": 1,
+    "skill_lvl": 58,
+    "workload": 8000000,
+    "materials": [
+      {
+        "name": "Accessory Mold",
+        "qty": 150
+      },
+      {
+        "name": "Sea Element",
+        "qty": 330
+      },
+      {
+        "name": "Opal",
+        "qty": 800
+      }
+    ],
+    "source": "jana4u"
+  },
+  {
+    "name": "Sharp Ruby Necklace",
+    "batch_size": 1,
+    "skill_lvl": 86,
+    "workload": 16000000,
+    "materials": [
+      {
+        "name": "Accessory Mold",
+        "qty": 400
+      },
+      {
+        "name": "Flame Element",
+        "qty": 330
+      },
+      {
+        "name": "Van Gogh's Soul Stone",
+        "qty": 2
+      },
+      {
+        "name": "Ruby",
+        "qty": 400
+      }
+    ],
+    "source": "jana4u"
+  },
+  {
+    "name": "Sharp Sapphire Necklace",
+    "batch_size": 1,
+    "skill_lvl": 105,
+    "workload": 80000000,
+    "materials": [
+      {
+        "name": "Accessory Mold",
+        "qty": 500
+      },
+      {
+        "name": "Earth Essence",
+        "qty": 50
+      },
+      {
+        "name": "Corrupted Unicorn Tear",
+        "qty": 3
+      },
+      {
+        "name": "Shimmering Opal",
+        "qty": 120
+      },
+      {
+        "name": "Shimmering Sapphire",
+        "qty": 40
+      }
+    ],
+    "source": "jana4u"
+  },
+  {
+    "name": "Shimmering Opal Necklace",
+    "batch_size": 1,
+    "skill_lvl": 54,
+    "workload": 8000000,
+    "materials": [
+      {
+        "name": "Accessory Mold",
+        "qty": 150
+      },
+      {
+        "name": "Sea Element",
+        "qty": 330
+      },
+      {
+        "name": "Opal",
+        "qty": 800
+      }
+    ],
+    "source": "jana4u"
+  },
+  {
+    "name": "Shimmering Ruby Necklace",
+    "batch_size": 1,
+    "skill_lvl": 82,
+    "workload": 16000000,
+    "materials": [
+      {
+        "name": "Accessory Mold",
+        "qty": 400
+      },
+      {
+        "name": "Flame Element",
+        "qty": 330
+      },
+      {
+        "name": "Van Gogh's Soul Stone",
+        "qty": 2
+      },
+      {
+        "name": "Ruby",
+        "qty": 400
+      }
+    ],
+    "source": "jana4u"
+  },
+  {
+    "name": "Shimmering Sapphire Necklace",
+    "batch_size": 1,
+    "skill_lvl": 103,
+    "workload": 80000000,
+    "materials": [
+      {
+        "name": "Accessory Mold",
+        "qty": 500
+      },
+      {
+        "name": "Earth Essence",
+        "qty": 50
+      },
+      {
+        "name": "Corrupted Unicorn Tear",
+        "qty": 3
+      },
+      {
+        "name": "Shimmering Opal",
+        "qty": 120
+      },
+      {
+        "name": "Shimmering Sapphire",
+        "qty": 40
+      }
+    ],
+    "source": "jana4u"
+  },
+  {
+    "name": "Tough Opal Necklace",
+    "batch_size": 1,
+    "skill_lvl": 62,
+    "workload": 8000000,
+    "materials": [
+      {
+        "name": "Accessory Mold",
+        "qty": 150
+      },
+      {
+        "name": "Sea Element",
+        "qty": 330
+      },
+      {
+        "name": "Opal",
+        "qty": 800
+      }
+    ],
+    "source": "jana4u"
+  },
+  {
+    "name": "Tough Ruby Necklace",
+    "batch_size": 1,
+    "skill_lvl": 90,
+    "workload": 16000000,
+    "materials": [
+      {
+        "name": "Accessory Mold",
+        "qty": 400
+      },
+      {
+        "name": "Flame Element",
+        "qty": 330
+      },
+      {
+        "name": "Van Gogh's Soul Stone",
+        "qty": 2
+      },
+      {
+        "name": "Ruby",
+        "qty": 400
+      }
+    ],
+    "source": "jana4u"
+  },
+  {
+    "name": "Tough Sapphire Necklace",
+    "batch_size": 1,
+    "skill_lvl": 107,
+    "workload": 80000000,
+    "materials": [
+      {
+        "name": "Accessory Mold",
+        "qty": 500
+      },
+      {
+        "name": "Earth Essence",
+        "qty": 50
+      },
+      {
+        "name": "Corrupted Unicorn Tear",
+        "qty": 3
+      },
+      {
+        "name": "Shimmering Opal",
+        "qty": 120
+      },
+      {
+        "name": "Shimmering Sapphire",
+        "qty": 40
+      }
+    ],
+    "source": "jana4u"
+  }
+]

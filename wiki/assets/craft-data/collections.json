@@ -1,0 +1,1107 @@
+[
+  {
+    "name": "Eternal Costumized Set",
+    "pieces": [
+      {
+        "itemName": "Merlin's Bracelet",
+        "level": 10,
+        "category": "accessory"
+      }
+    ],
+    "skipped": 66,
+    "category": "accessory"
+  },
+  {
+    "name": "+10 Abyssal Magic Armor Collection",
+    "pieces": [
+      {
+        "itemName": "abyssal hat",
+        "level": 10,
+        "category": "gear"
+      },
+      {
+        "itemName": "abyssal robe",
+        "level": 10,
+        "category": "gear"
+      },
+      {
+        "itemName": "abyssal gloves",
+        "level": 10,
+        "category": "gear"
+      },
+      {
+        "itemName": "abyssal shoes",
+        "level": 10,
+        "category": "gear"
+      }
+    ],
+    "skipped": 0,
+    "category": "gear"
+  },
+  {
+    "name": "+10 Abyssal Melee Armor Collection",
+    "pieces": [
+      {
+        "itemName": "abyssal helmet",
+        "level": 10,
+        "category": "gear"
+      },
+      {
+        "itemName": "abyssal heavy armor",
+        "level": 10,
+        "category": "gear"
+      },
+      {
+        "itemName": "abyssal graves",
+        "level": 10,
+        "category": "gear"
+      },
+      {
+        "itemName": "abyssal gauntlets",
+        "level": 10,
+        "category": "gear"
+      },
+      {
+        "itemName": "abyssal boots",
+        "level": 10,
+        "category": "gear"
+      }
+    ],
+    "skipped": 0,
+    "category": "gear"
+  },
+  {
+    "name": "+10 Abyssal Range Armor Collection",
+    "pieces": [
+      {
+        "itemName": "abyssal chain helmet",
+        "level": 10,
+        "category": "gear"
+      },
+      {
+        "itemName": "abyssal chain gauntlets",
+        "level": 10,
+        "category": "gear"
+      },
+      {
+        "itemName": "abyssal leggings",
+        "level": 10,
+        "category": "gear"
+      },
+      {
+        "itemName": "abyssal chain boots",
+        "level": 10,
+        "category": "gear"
+      }
+    ],
+    "skipped": 1,
+    "category": "gear"
+  },
+  {
+    "name": "+10 Apocalypse Magic Armor Collection",
+    "pieces": [
+      {
+        "itemName": "apocalypse hat",
+        "level": 10,
+        "category": "gear"
+      },
+      {
+        "itemName": "apocalypse robe",
+        "level": 10,
+        "category": "gear"
+      },
+      {
+        "itemName": "apocalypse gloves",
+        "level": 10,
+        "category": "gear"
+      },
+      {
+        "itemName": "apocalypse shoes",
+        "level": 10,
+        "category": "gear"
+      }
+    ],
+    "skipped": 0,
+    "category": "gear"
+  },
+  {
+    "name": "+10 Apocalypse Melee Armor Collection",
+    "pieces": [
+      {
+        "itemName": "apocalypse helmet",
+        "level": 10,
+        "category": "gear"
+      },
+      {
+        "itemName": "apocalypse heavy armor",
+        "level": 10,
+        "category": "gear"
+      },
+      {
+        "itemName": "apocalypse graves",
+        "level": 10,
+        "category": "gear"
+      },
+      {
+        "itemName": "apocalypse gauntlets",
+        "level": 10,
+        "category": "gear"
+      },
+      {
+        "itemName": "apocalypse boots",
+        "level": 10,
+        "category": "gear"
+      }
+    ],
+    "skipped": 0,
+    "category": "gear"
+  },
+  {
+    "name": "+10 Apocalypse Range Armor Collection",
+    "pieces": [
+      {
+        "itemName": "apocalypse chain helmet",
+        "level": 10,
+        "category": "gear"
+      },
+      {
+        "itemName": "apocalypse chain gauntlets",
+        "level": 10,
+        "category": "gear"
+      },
+      {
+        "itemName": "apocalypse leggings",
+        "level": 10,
+        "category": "gear"
+      },
+      {
+        "itemName": "apocalypse chain boots",
+        "level": 10,
+        "category": "gear"
+      }
+    ],
+    "skipped": 1,
+    "category": "gear"
+  },
+  {
+    "name": "+7 Abyssal Magic Armor Collection",
+    "pieces": [
+      {
+        "itemName": "abyssal hat",
+        "level": 7,
+        "category": "gear"
+      },
+      {
+        "itemName": "abyssal robe",
+        "level": 7,
+        "category": "gear"
+      },
+      {
+        "itemName": "abyssal gloves",
+        "level": 7,
+        "category": "gear"
+      },
+      {
+        "itemName": "abyssal shoes",
+        "level": 7,
+        "category": "gear"
+      }
+    ],
+    "skipped": 0,
+    "category": "gear"
+  },
+  {
+    "name": "+7 Abyssal Melee Armor Collection",
+    "pieces": [
+      {
+        "itemName": "abyssal helmet",
+        "level": 7,
+        "category": "gear"
+      },
+      {
+        "itemName": "abyssal heavy armor",
+        "level": 7,
+        "category": "gear"
+      },
+      {
+        "itemName": "abyssal graves",
+        "level": 7,
+        "category": "gear"
+      },
+      {
+        "itemName": "abyssal gauntlets",
+        "level": 7,
+        "category": "gear"
+      },
+      {
+        "itemName": "abyssal boots",
+        "level": 7,
+        "category": "gear"
+      }
+    ],
+    "skipped": 0,
+    "category": "gear"
+  },
+  {
+    "name": "+7 Abyssal Range Armor Collection",
+    "pieces": [
+      {
+        "itemName": "abyssal chain helmet",
+        "level": 7,
+        "category": "gear"
+      },
+      {
+        "itemName": "abyssal chain gauntlets",
+        "level": 7,
+        "category": "gear"
+      },
+      {
+        "itemName": "abyssal leggings",
+        "level": 7,
+        "category": "gear"
+      },
+      {
+        "itemName": "abyssal chain boots",
+        "level": 7,
+        "category": "gear"
+      }
+    ],
+    "skipped": 1,
+    "category": "gear"
+  },
+  {
+    "name": "+7 Apocalypse Magic Armor Collection",
+    "pieces": [
+      {
+        "itemName": "apocalypse hat",
+        "level": 7,
+        "category": "gear"
+      },
+      {
+        "itemName": "apocalypse robe",
+        "level": 7,
+        "category": "gear"
+      },
+      {
+        "itemName": "apocalypse gloves",
+        "level": 7,
+        "category": "gear"
+      },
+      {
+        "itemName": "apocalypse shoes",
+        "level": 7,
+        "category": "gear"
+      }
+    ],
+    "skipped": 0,
+    "category": "gear"
+  },
+  {
+    "name": "+7 Apocalypse Melee Armor Collection",
+    "pieces": [
+      {
+        "itemName": "apocalypse helmet",
+        "level": 7,
+        "category": "gear"
+      },
+      {
+        "itemName": "apocalypse heavy armor",
+        "level": 7,
+        "category": "gear"
+      },
+      {
+        "itemName": "apocalypse graves",
+        "level": 7,
+        "category": "gear"
+      },
+      {
+        "itemName": "apocalypse gauntlets",
+        "level": 7,
+        "category": "gear"
+      },
+      {
+        "itemName": "apocalypse boots",
+        "level": 7,
+        "category": "gear"
+      }
+    ],
+    "skipped": 0,
+    "category": "gear"
+  },
+  {
+    "name": "+7 Apocalypse Range Armor Collection",
+    "pieces": [
+      {
+        "itemName": "apocalypse chain helmet",
+        "level": 7,
+        "category": "gear"
+      },
+      {
+        "itemName": "apocalypse chain gauntlets",
+        "level": 7,
+        "category": "gear"
+      },
+      {
+        "itemName": "apocalypse leggings",
+        "level": 7,
+        "category": "gear"
+      },
+      {
+        "itemName": "apocalypse chain boots",
+        "level": 7,
+        "category": "gear"
+      }
+    ],
+    "skipped": 1,
+    "category": "gear"
+  },
+  {
+    "name": "Dark Pegassus Armor Collection",
+    "pieces": [
+      {
+        "itemName": "Dark Pegasus Heavy Armor",
+        "level": 10,
+        "category": "gear"
+      },
+      {
+        "itemName": "Dark Pegasus Robe",
+        "level": 10,
+        "category": "gear"
+      },
+      {
+        "itemName": "Dark Pegasus Leggings",
+        "level": 10,
+        "category": "gear"
+      },
+      {
+        "itemName": "Dark Pegasus Helmet",
+        "level": 10,
+        "category": "gear"
+      },
+      {
+        "itemName": "Dark Pegasus Chain Helmet",
+        "level": 10,
+        "category": "gear"
+      },
+      {
+        "itemName": "Dark Pegasus Hat",
+        "level": 10,
+        "category": "gear"
+      },
+      {
+        "itemName": "Dark Pegasus Gauntlets",
+        "level": 10,
+        "category": "gear"
+      },
+      {
+        "itemName": "Dark Pegasus Gloves",
+        "level": 10,
+        "category": "gear"
+      },
+      {
+        "itemName": "Dark Pegasus Boots",
+        "level": 10,
+        "category": "gear"
+      },
+      {
+        "itemName": "Dark Pegasus Chain Boots",
+        "level": 10,
+        "category": "gear"
+      },
+      {
+        "itemName": "Dark Pegasus Shoes",
+        "level": 10,
+        "category": "gear"
+      }
+    ],
+    "skipped": 3,
+    "category": "gear"
+  },
+  {
+    "name": "Judgment Armor Collection",
+    "pieces": [
+      {
+        "itemName": "Judgment Heavy Armor",
+        "level": 10,
+        "category": "gear"
+      },
+      {
+        "itemName": "Judgment Robe",
+        "level": 10,
+        "category": "gear"
+      },
+      {
+        "itemName": "Judgment Leggings",
+        "level": 10,
+        "category": "gear"
+      },
+      {
+        "itemName": "Judgment Helmet",
+        "level": 10,
+        "category": "gear"
+      },
+      {
+        "itemName": "Judgment Chain Helmet",
+        "level": 10,
+        "category": "gear"
+      },
+      {
+        "itemName": "Judgment Hat",
+        "level": 10,
+        "category": "gear"
+      },
+      {
+        "itemName": "Judgment Gauntlets",
+        "level": 10,
+        "category": "gear"
+      },
+      {
+        "itemName": "Judgment Gloves",
+        "level": 10,
+        "category": "gear"
+      },
+      {
+        "itemName": "Judgment Boots",
+        "level": 10,
+        "category": "gear"
+      },
+      {
+        "itemName": "Judgment Chain Boots",
+        "level": 10,
+        "category": "gear"
+      },
+      {
+        "itemName": "Judgment Shoes",
+        "level": 10,
+        "category": "gear"
+      }
+    ],
+    "skipped": 3,
+    "category": "gear"
+  },
+  {
+    "name": "Pegassus Armor Collection",
+    "pieces": [
+      {
+        "itemName": "Pegasus Heavy Armor",
+        "level": 10,
+        "category": "gear"
+      },
+      {
+        "itemName": "Pegasus Robe",
+        "level": 10,
+        "category": "gear"
+      },
+      {
+        "itemName": "Pegasus Leggings",
+        "level": 10,
+        "category": "gear"
+      },
+      {
+        "itemName": "Pegasus Helmet",
+        "level": 10,
+        "category": "gear"
+      },
+      {
+        "itemName": "Pegasus Hat",
+        "level": 10,
+        "category": "gear"
+      },
+      {
+        "itemName": "Pegasus Gauntlets",
+        "level": 10,
+        "category": "gear"
+      },
+      {
+        "itemName": "Pegasus Chain Gauntlets",
+        "level": 10,
+        "category": "gear"
+      },
+      {
+        "itemName": "Pegasus Gloves",
+        "level": 10,
+        "category": "gear"
+      },
+      {
+        "itemName": "Pegasus Boots",
+        "level": 10,
+        "category": "gear"
+      },
+      {
+        "itemName": "Pegasus Chain Boots",
+        "level": 10,
+        "category": "gear"
+      },
+      {
+        "itemName": "Pegasus Shoes",
+        "level": 10,
+        "category": "gear"
+      }
+    ],
+    "skipped": 3,
+    "category": "gear"
+  },
+  {
+    "name": "Twilight Armor Collection",
+    "pieces": [
+      {
+        "itemName": "Twilight Heavy Armor",
+        "level": 10,
+        "category": "gear"
+      },
+      {
+        "itemName": "Twilight Robe",
+        "level": 10,
+        "category": "gear"
+      },
+      {
+        "itemName": "Twilight Helmet",
+        "level": 10,
+        "category": "gear"
+      },
+      {
+        "itemName": "Twilight Hat",
+        "level": 10,
+        "category": "gear"
+      },
+      {
+        "itemName": "Twilight Gauntlets",
+        "level": 10,
+        "category": "gear"
+      },
+      {
+        "itemName": "Twilight Chain Gauntlets",
+        "level": 10,
+        "category": "gear"
+      },
+      {
+        "itemName": "Twilight Gloves",
+        "level": 10,
+        "category": "gear"
+      },
+      {
+        "itemName": "Twilight Boots",
+        "level": 10,
+        "category": "gear"
+      },
+      {
+        "itemName": "Twilight Chain Boots",
+        "level": 10,
+        "category": "gear"
+      },
+      {
+        "itemName": "Twilight Shoes",
+        "level": 10,
+        "category": "gear"
+      }
+    ],
+    "skipped": 4,
+    "category": "gear"
+  },
+  {
+    "name": "+10 Abyssal Weapon Collection",
+    "pieces": [
+      {
+        "itemName": "abyssal sword",
+        "level": 10,
+        "category": "weapon"
+      },
+      {
+        "itemName": "Abyssal Lance",
+        "level": 10,
+        "category": "weapon"
+      },
+      {
+        "itemName": "abyssal axe",
+        "level": 10,
+        "category": "weapon"
+      },
+      {
+        "itemName": "abyssal bow",
+        "level": 10,
+        "category": "weapon"
+      },
+      {
+        "itemName": "abyssal gun",
+        "level": 10,
+        "category": "weapon"
+      },
+      {
+        "itemName": "abyssal cannon",
+        "level": 10,
+        "category": "weapon"
+      },
+      {
+        "itemName": "abyssal staff",
+        "level": 10,
+        "category": "weapon"
+      },
+      {
+        "itemName": "Abyssal Instrument",
+        "level": 10,
+        "category": "weapon"
+      },
+      {
+        "itemName": "abyssal power saw",
+        "level": 10,
+        "category": "weapon"
+      },
+      {
+        "itemName": "abyssal whip",
+        "level": 10,
+        "category": "weapon"
+      },
+      {
+        "itemName": "abyssal fist",
+        "level": 10,
+        "category": "weapon"
+      },
+      {
+        "itemName": "abyssal shield",
+        "level": 10,
+        "category": "weapon"
+      },
+      {
+        "itemName": "abyssal orb",
+        "level": 10,
+        "category": "weapon"
+      }
+    ],
+    "skipped": 0,
+    "category": "weapon"
+  },
+  {
+    "name": "+10 Apocalypse Weapon Collection",
+    "pieces": [
+      {
+        "itemName": "Apocalypse Sword",
+        "level": 10,
+        "category": "weapon"
+      },
+      {
+        "itemName": "Apocalypse Axe",
+        "level": 10,
+        "category": "weapon"
+      },
+      {
+        "itemName": "Apocalypse Bow",
+        "level": 10,
+        "category": "weapon"
+      },
+      {
+        "itemName": "Apocalypse Cannon",
+        "level": 10,
+        "category": "weapon"
+      },
+      {
+        "itemName": "Apocalypse Staff",
+        "level": 10,
+        "category": "weapon"
+      },
+      {
+        "itemName": "Apocalypse Instrument",
+        "level": 10,
+        "category": "weapon"
+      },
+      {
+        "itemName": "Apocalypse Whip",
+        "level": 10,
+        "category": "weapon"
+      },
+      {
+        "itemName": "Apocalypse Shield",
+        "level": 10,
+        "category": "gear"
+      },
+      {
+        "itemName": "Apocalypse Orb",
+        "level": 10,
+        "category": "gear"
+      }
+    ],
+    "skipped": 4,
+    "category": "weapon"
+  },
+  {
+    "name": "+7 Abyssal Weapon Collection",
+    "pieces": [
+      {
+        "itemName": "abyssal sword",
+        "level": 7,
+        "category": "weapon"
+      },
+      {
+        "itemName": "Abyssal Lance",
+        "level": 7,
+        "category": "weapon"
+      },
+      {
+        "itemName": "abyssal axe",
+        "level": 7,
+        "category": "weapon"
+      },
+      {
+        "itemName": "abyssal bow",
+        "level": 7,
+        "category": "weapon"
+      },
+      {
+        "itemName": "abyssal gun",
+        "level": 7,
+        "category": "weapon"
+      },
+      {
+        "itemName": "abyssal cannon",
+        "level": 7,
+        "category": "weapon"
+      },
+      {
+        "itemName": "abyssal staff",
+        "level": 7,
+        "category": "weapon"
+      },
+      {
+        "itemName": "Abyssal Instrument",
+        "level": 7,
+        "category": "weapon"
+      },
+      {
+        "itemName": "abyssal power saw",
+        "level": 7,
+        "category": "weapon"
+      },
+      {
+        "itemName": "abyssal whip",
+        "level": 7,
+        "category": "weapon"
+      },
+      {
+        "itemName": "abyssal fist",
+        "level": 7,
+        "category": "weapon"
+      },
+      {
+        "itemName": "abyssal shield",
+        "level": 7,
+        "category": "weapon"
+      },
+      {
+        "itemName": "abyssal orb",
+        "level": 7,
+        "category": "weapon"
+      }
+    ],
+    "skipped": 0,
+    "category": "weapon"
+  },
+  {
+    "name": "+7 Apocalypse Weapon Collection",
+    "pieces": [
+      {
+        "itemName": "Apocalypse Sword",
+        "level": 7,
+        "category": "weapon"
+      },
+      {
+        "itemName": "Apocalypse Axe",
+        "level": 7,
+        "category": "weapon"
+      },
+      {
+        "itemName": "Apocalypse Bow",
+        "level": 7,
+        "category": "weapon"
+      },
+      {
+        "itemName": "Apocalypse Cannon",
+        "level": 7,
+        "category": "weapon"
+      },
+      {
+        "itemName": "Apocalypse Staff",
+        "level": 7,
+        "category": "weapon"
+      },
+      {
+        "itemName": "Apocalypse Instrument",
+        "level": 7,
+        "category": "weapon"
+      },
+      {
+        "itemName": "Apocalypse Whip",
+        "level": 7,
+        "category": "weapon"
+      },
+      {
+        "itemName": "Apocalypse Shield",
+        "level": 7,
+        "category": "gear"
+      },
+      {
+        "itemName": "Apocalypse Orb",
+        "level": 7,
+        "category": "gear"
+      }
+    ],
+    "skipped": 4,
+    "category": "weapon"
+  },
+  {
+    "name": "Dark Pegassus Weapon Collection",
+    "pieces": [
+      {
+        "itemName": "Dark Pegasus Sword",
+        "level": 10,
+        "category": "weapon"
+      },
+      {
+        "itemName": "Dark Pegasus Lance",
+        "level": 10,
+        "category": "weapon"
+      },
+      {
+        "itemName": "Dark Pegasus Axe",
+        "level": 10,
+        "category": "weapon"
+      },
+      {
+        "itemName": "Dark Pegasus Bow",
+        "level": 10,
+        "category": "weapon"
+      },
+      {
+        "itemName": "Dark Pegasus Cannon",
+        "level": 10,
+        "category": "weapon"
+      },
+      {
+        "itemName": "Dark Pegasus Staff",
+        "level": 10,
+        "category": "weapon"
+      },
+      {
+        "itemName": "Dark Pegasus Instrument",
+        "level": 10,
+        "category": "weapon"
+      },
+      {
+        "itemName": "Dark Pegasus Power Saw",
+        "level": 10,
+        "category": "weapon"
+      },
+      {
+        "itemName": "Dark Pegasus Whip",
+        "level": 10,
+        "category": "weapon"
+      },
+      {
+        "itemName": "Dark Pegasus Shield",
+        "level": 10,
+        "category": "gear"
+      },
+      {
+        "itemName": "Dark Pegasus Orb",
+        "level": 10,
+        "category": "gear"
+      }
+    ],
+    "skipped": 2,
+    "category": "weapon"
+  },
+  {
+    "name": "Judgment Weapon Collection",
+    "pieces": [
+      {
+        "itemName": "Judgment Sword",
+        "level": 10,
+        "category": "weapon"
+      },
+      {
+        "itemName": "Judgment Axe",
+        "level": 10,
+        "category": "weapon"
+      },
+      {
+        "itemName": "Judgment Bow",
+        "level": 10,
+        "category": "weapon"
+      },
+      {
+        "itemName": "Judgment Cannon",
+        "level": 10,
+        "category": "weapon"
+      },
+      {
+        "itemName": "Judgment Staff",
+        "level": 10,
+        "category": "weapon"
+      },
+      {
+        "itemName": "Judgment Instrument",
+        "level": 10,
+        "category": "weapon"
+      },
+      {
+        "itemName": "Judgment Power Saw",
+        "level": 10,
+        "category": "weapon"
+      },
+      {
+        "itemName": "Judgment Whip",
+        "level": 10,
+        "category": "weapon"
+      },
+      {
+        "itemName": "Judgment Fist",
+        "level": 10,
+        "category": "gear"
+      },
+      {
+        "itemName": "Judgment Shield",
+        "level": 10,
+        "category": "gear"
+      },
+      {
+        "itemName": "Judgment Orb",
+        "level": 10,
+        "category": "gear"
+      }
+    ],
+    "skipped": 2,
+    "category": "weapon"
+  },
+  {
+    "name": "Pegasus Weapon Collection",
+    "pieces": [
+      {
+        "itemName": "Pegasus Sword",
+        "level": 10,
+        "category": "weapon"
+      },
+      {
+        "itemName": "Pegasus Lance",
+        "level": 10,
+        "category": "weapon"
+      },
+      {
+        "itemName": "Pegasus Axe",
+        "level": 10,
+        "category": "weapon"
+      },
+      {
+        "itemName": "Pegasus Bow",
+        "level": 10,
+        "category": "weapon"
+      },
+      {
+        "itemName": "Pegasus Cannon",
+        "level": 10,
+        "category": "weapon"
+      },
+      {
+        "itemName": "Pegasus Staff",
+        "level": 10,
+        "category": "weapon"
+      },
+      {
+        "itemName": "Pegasus Instrument",
+        "level": 10,
+        "category": "weapon"
+      },
+      {
+        "itemName": "Pegasus Power Saw",
+        "level": 10,
+        "category": "weapon"
+      },
+      {
+        "itemName": "Pegasus Whip",
+        "level": 10,
+        "category": "weapon"
+      },
+      {
+        "itemName": "Pegasus Shield",
+        "level": 10,
+        "category": "gear"
+      },
+      {
+        "itemName": "Pegasus Orb",
+        "level": 10,
+        "category": "gear"
+      }
+    ],
+    "skipped": 2,
+    "category": "weapon"
+  },
+  {
+    "name": "Twilight Weapon Collection",
+    "pieces": [
+      {
+        "itemName": "Twilight Sword",
+        "level": 10,
+        "category": "weapon"
+      },
+      {
+        "itemName": "Twilight Lance",
+        "level": 10,
+        "category": "weapon"
+      },
+      {
+        "itemName": "Twilight Axe",
+        "level": 10,
+        "category": "weapon"
+      },
+      {
+        "itemName": "Twilight Bow",
+        "level": 10,
+        "category": "weapon"
+      },
+      {
+        "itemName": "Twilight Gun",
+        "level": 10,
+        "category": "weapon"
+      },
+      {
+        "itemName": "Twilight Cannon",
+        "level": 10,
+        "category": "weapon"
+      },
+      {
+        "itemName": "Twilight Staff",
+        "level": 10,
+        "category": "weapon"
+      },
+      {
+        "itemName": "Twilight Instrument",
+        "level": 10,
+        "category": "weapon"
+      },
+      {
+        "itemName": "Twilight Power Saw",
+        "level": 10,
+        "category": "weapon"
+      },
+      {
+        "itemName": "Twilight Whip",
+        "level": 10,
+        "category": "weapon"
+      },
+      {
+        "itemName": "Twilight Fist",
+        "level": 10,
+        "category": "gear"
+      },
+      {
+        "itemName": "Twilight Shield",
+        "level": 10,
+        "category": "gear"
+      },
+      {
+        "itemName": "Twilight Orb",
+        "level": 10,
+        "category": "gear"
+      }
+    ],
+    "skipped": 0,
+    "category": "weapon"
+  }
+]

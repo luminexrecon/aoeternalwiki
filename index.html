@@ -1,0 +1,367 @@
+<!doctype html><html><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#faf9f5;color:#141413}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style></head><body>
+<title>Atlantica Eternal</title>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Eczar:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg-header:#122B2C;
+  --bg-hero:#151E21;
+  --bg-deep:#0F1518;
+  --panel-line:#22383a;
+  --ink:#f4efe4;
+  --ink-soft:#a9b8b6;
+  --ink-faint:#748584;
+  --gold:#FFBB00;
+  --gold-bright:#FFCC00;
+  --gold-ink:#122B2C;
+  --ribbon-1:#6b4a2c;
+  --ribbon-2:#241809;
+  --ribbon-text:#ecd3a4;
+  --serif:'Eczar','Iowan Old Style',Georgia,serif;
+  --sans:'IBM Plex Sans','Segoe UI',system-ui,sans-serif;
+}
+*{box-sizing:border-box;}
+body{
+  margin:0; background:var(--bg-deep); color:var(--ink); font-family:var(--sans);
+  -webkit-font-smoothing:antialiased;
+}
+img{display:block; max-width:100%;}
+a{color:inherit;}
+:focus-visible{outline:2px solid var(--gold); outline-offset:2px;}
+h1,h2{text-wrap:balance; margin:0;}
+
+.wrap{max-width:1320px; margin-inline:auto; padding-inline:clamp(16px,4vw,48px);}
+
+/* ---------------- header ---------------- */
+.topbar{
+  background:var(--bg-header); border-bottom:1px solid var(--panel-line);
+  padding-block:16px;
+}
+.topbar .wrap{
+  display:flex; align-items:center; justify-content:space-between; gap:16px; flex-wrap:wrap;
+}
+.credit{font-family:var(--serif); font-weight:600; font-size:clamp(14px,1.6vw,20px); letter-spacing:.01em;}
+.credit strong{color:var(--gold);}
+.wiki-btn{
+  background:var(--gold-bright); color:var(--gold-ink); text-decoration:none;
+  font-family:var(--serif); font-weight:700; font-size:clamp(13px,1.4vw,17px); letter-spacing:.03em;
+  padding:11px 24px; border-radius:3px; text-transform:uppercase; white-space:nowrap;
+  transition:transform .15s ease, box-shadow .15s ease;
+}
+.wiki-btn:hover{transform:translateY(-1px); box-shadow:0 6px 16px -6px rgba(255,204,0,.55);}
+
+/* ---------------- hero ---------------- */
+.hero{
+  background:
+    radial-gradient(760px 520px at 18% 15%, rgba(255,187,0,.10), transparent 60%),
+    var(--bg-hero);
+  padding-block:clamp(36px,6vw,64px);
+}
+.hero .wrap{
+  /* Explicit 70/30 split - left column carries the art+headline+buttons,
+     right column is the streamer panel. minmax(0,...) lets the left side
+     actually shrink instead of blowing out past its share when content
+     (the portrait image) wants more room than 70% offers. */
+  display:grid; grid-template-columns:minmax(0,7fr) minmax(260px,3fr); gap:clamp(36px,6vw,84px); align-items:start;
+  /* Hero bleeds closer to the left edge than the other sections (which keep
+     the full side gutter) so the art+headline block reads bigger and the
+     70% column actually gets more room to work with. */
+  padding-left:clamp(0px,0.6vw,8px);
+}
+.hero-main{display:flex; align-items:center; gap:clamp(20px,4vw,40px); flex-wrap:wrap;}
+.hero-art{flex:0 0 auto; width:min(460px,84vw);}
+.hero-art img{
+  width:100%; aspect-ratio:616/635; object-fit:cover;
+  /* Fades the portrait out at the bottom edge so it settles into the hero
+     background instead of ending in a hard rectangle - a light fade-in at
+     the very top too so the crop doesn't look clipped there either. Fade
+     zone widened (was 66%->100%) for a more gradual, more visible dissolve. */
+  -webkit-mask-image:linear-gradient(to bottom, transparent 0%, #000 14%, rgba(0,0,0,.65) 30%, transparent 92%);
+          mask-image:linear-gradient(to bottom, transparent 0%, #000 14%, rgba(0,0,0,.65) 30%, transparent 92%);
+}
+.hero-copy{flex:1 1 300px; min-width:260px; container-type:inline-size;}
+.hero-copy .eyebrow{
+  font-family:var(--serif); font-weight:600; font-size:clamp(18px,2.6vw,30px); letter-spacing:.03em;
+}
+.hero-copy h1{
+  font-family:var(--serif); font-weight:700; line-height:.92; letter-spacing:.01em;
+  /* Sized off the column's own measured width (container query units), not
+     the viewport - hero-copy shares its row with the portrait art and the
+     streamer panel, so vw-based sizing overshot the column and got clipped
+     behind the panel's opaque background. overflow-wrap is a hard backstop:
+     if it's ever still too tight, it wraps to a 2nd line instead of clipping. */
+  /* 21cqi/118px overshot the column at common widths and forced an ugly
+     mid-word break ("ETERNA"/"L"); 18cqi/104px is the largest that still
+     reliably clears the column without triggering the break-word backstop. */
+  font-size:clamp(46px, 18cqi, 104px);
+  overflow-wrap:break-word;
+}
+.hero-copy .sub{
+  font-family:var(--serif); font-weight:600; font-size:clamp(17px,2.2vw,28px); letter-spacing:.28em;
+  color:var(--ink-soft); margin-top:6px; text-transform:uppercase;
+}
+/* nowrap + shrinkable images: the two buttons always stay side-by-side,
+   shrinking together rather than wrapping to a 2nd line on a narrow column. */
+.hero-actions{display:flex; gap:10px; flex-wrap:nowrap; margin-top:clamp(20px,3vw,34px);}
+.btn-img{display:block; flex:0 1 auto; min-width:0; transition:transform .15s ease, filter .15s ease;}
+.btn-img img{width:150px; max-width:100%; height:auto;}
+.btn-img:hover{transform:translateY(-2px); filter:brightness(1.08);}
+
+/* ---------------- streamer panel ---------------- */
+.streamer-panel{
+  background:var(--bg-deep); border:2px solid var(--bg-header); border-radius:22px;
+  padding:22px 24px 18px; align-self:start;
+}
+.streamer-panel h2{
+  font-family:var(--serif); font-weight:600; font-size:clamp(18px,2vw,24px); margin-bottom:14px;
+}
+.streamer-viewport{
+  height:288px; overflow:hidden; position:relative;
+  -webkit-mask-image:linear-gradient(to bottom, transparent 0, #000 14%, #000 86%, transparent 100%);
+          mask-image:linear-gradient(to bottom, transparent 0, #000 14%, #000 86%, transparent 100%);
+}
+.streamer-track{list-style:none; margin:0; padding:0; display:flex; flex-direction:column; animation:streamer-scroll linear infinite;}
+.streamer-viewport:hover .streamer-track{animation-play-state:paused;}
+@keyframes streamer-scroll{from{transform:translateY(0);} to{transform:translateY(-50%);}}
+@media (prefers-reduced-motion:reduce){.streamer-track{animation:none;}}
+.streamer-row a{
+  display:flex; align-items:center; gap:13px; padding:13px 4px; text-decoration:none; color:var(--ink);
+  border-bottom:1px solid rgba(255,255,255,.06); transition:color .15s ease;
+}
+.streamer-row:first-child a{border-top:1px solid rgba(255,255,255,.06);}
+.streamer-row a:hover{color:var(--gold);}
+.s-icon{flex:none; width:40px; height:40px; object-fit:contain;}
+.s-name{font-family:var(--serif); font-weight:600; font-size:clamp(14px,1.6vw,18px);}
+.s-desc{display:block; font-family:var(--sans); font-size:11px; color:var(--ink-faint); margin-top:1px;}
+.streamer-note{font-size:11px; color:var(--ink-faint); margin:12px 2px 0; line-height:1.5;}
+
+/* ---------------- community-notice ticker ---------------- */
+.ticker{background:var(--bg-header); border-block:1px solid var(--panel-line); padding-block:14px;}
+.ticker-viewport{
+  overflow:hidden; position:relative;
+  -webkit-mask-image:linear-gradient(to right, transparent 0, #000 6%, #000 94%, transparent 100%);
+          mask-image:linear-gradient(to right, transparent 0, #000 6%, #000 94%, transparent 100%);
+}
+.ticker-track{display:flex; width:max-content; gap:72px; animation:ticker-scroll 42s linear infinite;}
+@keyframes ticker-scroll{from{transform:translateX(0);} to{transform:translateX(-50%);}}
+@media (prefers-reduced-motion:reduce){.ticker-track{animation:none;}}
+.ticker-item{display:flex; align-items:center; gap:14px; white-space:nowrap; font-size:13px; letter-spacing:.01em;}
+.ticker-item .t-en{color:#5fd6e6; font-weight:500;}
+.ticker-item .t-id{color:var(--gold); font-weight:500;}
+.ticker-item .t-sep{color:var(--ink-faint);}
+
+@media (max-width:760px){
+  .hero .wrap{grid-template-columns:1fr;}
+  .hero-main{flex-direction:column; text-align:center;}
+  .hero-copy{min-width:0;}
+  .hero-actions{justify-content:center;}
+}
+
+/* ---------------- price list ---------------- */
+.pricelist{
+  background:
+    radial-gradient(900px 500px at 50% 0%, rgba(255,187,0,.06), transparent 65%),
+    var(--bg-deep);
+  padding-block:clamp(40px,6vw,72px); text-align:center;
+}
+.pricelist h2.section-title{
+  font-family:var(--serif); font-weight:600; color:var(--gold); font-size:clamp(28px,4.6vw,48px);
+  letter-spacing:.02em; margin-bottom:clamp(28px,5vw,52px);
+}
+.tier-row{
+  display:flex; flex-wrap:wrap; justify-content:center; gap:clamp(24px,4vw,44px) clamp(20px,4vw,40px);
+  margin-bottom:clamp(36px,6vw,64px);
+}
+.tier-card{
+  flex:1 1 260px; max-width:320px; display:flex; flex-direction:column; align-items:flex-end;
+  transition:transform .18s ease, filter .18s ease;
+}
+.tier-card:hover{transform:translateY(-4px); filter:brightness(1.05);}
+.tier-card img.tier-bg{width:100%;}
+.tier-card img.tier-ribbon{
+  width:58%; margin-top:-7%;
+  --glow-rgb:255,187,0; /* fallback - each ribbon-* modifier below overrides to match its own art */
+  animation:ribbon-glow 2.4s ease-in-out infinite, ribbon-wiggle 3.6s ease-in-out infinite;
+}
+/* glow color matches each ribbon's own printed color */
+.tier-ribbon.ribbon-green{ --glow-rgb:52,211,110; }
+.tier-ribbon.ribbon-cyan{ --glow-rgb:34,211,255; }
+.tier-ribbon.ribbon-gold{ --glow-rgb:255,204,0; }
+@keyframes ribbon-glow{
+  0%,100%{ filter:drop-shadow(0 8px 14px rgba(0,0,0,.5)) drop-shadow(0 0 0 rgba(var(--glow-rgb),0)); }
+  50%{ filter:drop-shadow(0 8px 14px rgba(0,0,0,.5)) drop-shadow(0 0 6px rgba(var(--glow-rgb),.9)); }
+}
+/* position wiggle - drifts up/down/left/right at irregular steps so it
+   reads as a random jitter rather than a simple back-and-forth. */
+@keyframes ribbon-wiggle{
+  0%,100%{ transform:translate(0,0); }
+  15%{ transform:translate(-2px,-1.5px); }
+  35%{ transform:translate(1.5px,2px); }
+  55%{ transform:translate(2px,-1px); }
+  75%{ transform:translate(-1.5px,1.5px); }
+  90%{ transform:translate(1px,-2px); }
+}
+@media (prefers-reduced-motion:reduce){
+  .tier-card img.tier-ribbon{ animation:none; filter:drop-shadow(0 8px 14px rgba(0,0,0,.5)); }
+}
+
+.bundle-viewport{
+  overflow:hidden; position:relative; margin-bottom:clamp(40px,6vw,64px);
+  -webkit-mask-image:linear-gradient(to right, transparent 0, #000 8%, #000 92%, transparent 100%);
+          mask-image:linear-gradient(to right, transparent 0, #000 8%, #000 92%, transparent 100%);
+}
+.bundle-track{
+  display:flex; width:max-content; gap:clamp(14px,2.6vw,24px);
+  animation:bundle-scroll 26s linear infinite;
+}
+/* keeps scrolling on hover - only the hovered image itself reacts (below) */
+@keyframes bundle-scroll{from{transform:translateX(0);} to{transform:translateX(-50%);}}
+@media (prefers-reduced-motion:reduce){.bundle-track{animation:none;}}
+.bundle-track a{flex:0 0 auto; width:240px; display:flex;}
+.bundle-track img{width:100%; transition:transform .18s ease, filter .18s ease;}
+.bundle-track img:hover{transform:translateY(-4px) scale(1.02); filter:drop-shadow(0 10px 20px rgba(255,187,0,.18));}
+
+.whale-title{
+  font-family:var(--serif); font-weight:600; color:var(--gold); font-size:clamp(26px,6vw,68px);
+  margin-bottom:clamp(20px,3vw,30px); padding-inline:12px;
+}
+.contact-btn{
+  display:inline-block; text-decoration:none; font-family:var(--serif); font-weight:700;
+  font-size:clamp(16px,2vw,21px); letter-spacing:.04em; text-transform:uppercase; color:var(--ribbon-text);
+  padding:17px 46px; background:linear-gradient(180deg,var(--ribbon-1),var(--ribbon-2) 85%);
+  border:1px solid rgba(236,211,164,.3);
+  clip-path:polygon(7% 0,93% 0,100% 32%,100% 68%,93% 100%,7% 100%,0 68%,0 32%);
+  transition:transform .15s ease, filter .15s ease;
+}
+.contact-btn:hover{transform:translateY(-2px); filter:brightness(1.12);}
+
+.foot{
+  background:var(--bg-header); padding-block:18px; text-align:center;
+  font-size:12px; color:var(--ink-faint); border-top:1px solid var(--panel-line);
+}
+</style>
+
+<div class="topbar">
+  <div class="wrap">
+    <span class="credit">A Community Project by <strong>[CC]AfterMath</strong></span>
+    <a class="wiki-btn" href="/wiki/" target="_blank" rel="noopener">Go to AOEWiki</a>
+  </div>
+</div>
+
+<section class="hero">
+  <div class="wrap">
+    <div class="hero-main">
+      <div class="hero-art"><img src="assets/hero-portrait.png" alt="Atlantica Eternal main character art"></div>
+      <div class="hero-copy">
+        <p class="eyebrow">Atlantica Online</p>
+        <h1>ETERNAL</h1>
+        <p class="sub">Fandom&#8209;Wiki</p>
+        <div class="hero-actions">
+          <a class="btn-img" href="#" data-note="download-link-placeholder"><img src="assets/download-button.png" alt="Download Game"></a>
+          <a class="btn-img" href="#" data-note="gcash-link-placeholder"><img src="assets/buygcash-button.png" alt="Buy GCash"></a>
+        </div>
+      </div>
+    </div>
+
+    <aside class="streamer-panel">
+      <h2>Our Official Streamer</h2>
+      <div class="streamer-viewport">
+        <ul class="streamer-track" id="streamerTrack"></ul>
+      </div>
+      <p class="streamer-note">List is edited by hand for now — ask to add, remove, or move this to a Discord-bot-managed panel once streamers rotate often.</p>
+    </aside>
+  </div>
+</section>
+
+<section class="ticker">
+  <div class="ticker-viewport">
+    <div class="ticker-track">
+      <span class="ticker-item">
+        <span class="t-en">Please avoid any illegal activity such as RMT (Real Money Trading — selling in-game items for real money) and BOT usage, to keep the community healthy and the server alive.</span>
+        <span class="t-sep">|</span>
+        <span class="t-id">Mohon hindari segala bentuk aktivitas ilegal seperti RMT (Real Money Trading — menjual barang dengan uang sungguhan) dan penggunaan BOT, demi menjaga kesehatan komunitas serta kelangsungan server.</span>
+      </span>
+      <span class="ticker-item" aria-hidden="true">
+        <span class="t-en">Please avoid any illegal activity such as RMT (Real Money Trading — selling in-game items for real money) and BOT usage, to keep the community healthy and the server alive.</span>
+        <span class="t-sep">|</span>
+        <span class="t-id">Mohon hindari segala bentuk aktivitas ilegal seperti RMT (Real Money Trading — menjual barang dengan uang sungguhan) dan penggunaan BOT, demi menjaga kesehatan komunitas serta kelangsungan server.</span>
+      </span>
+    </div>
+  </div>
+</section>
+
+<section class="pricelist">
+  <div class="wrap">
+    <h2 class="section-title">Atlantica Eternal Price List</h2>
+
+    <div class="tier-row">
+      <div class="tier-card">
+        <img class="tier-bg" src="assets/tier-starter.png" alt="Starter Tier — 10,000 GCash, bonus dress x1 aspiration">
+        <img class="tier-ribbon ribbon-green" src="assets/price-starter.png" alt="IDR 100,000 or 7 USD">
+      </div>
+      <div class="tier-card">
+        <img class="tier-bg" src="assets/tier-adventure.png" alt="Adventure Tier — 35,000 GCash, bonus dress x3 aspiration">
+        <img class="tier-ribbon ribbon-cyan" src="assets/price-adventure.png" alt="IDR 300,000 or 21 USD">
+      </div>
+      <div class="tier-card">
+        <img class="tier-bg" src="assets/tier-master.png" alt="Master Tier — 60,000 GCash, bonus dress x5 aspiration">
+        <img class="tier-ribbon ribbon-gold" src="assets/price-master.png" alt="IDR 500,000 or 35 USD">
+      </div>
+    </div>
+
+    <div class="bundle-viewport">
+      <div class="bundle-track">
+        <a href="#" data-note="gcash-link-placeholder"><img src="assets/bundle-130k.png" alt="130,000 GCash bundle — IDR 1,000,000 or 70 USD"></a>
+        <a href="#" data-note="gcash-link-placeholder"><img src="assets/bundle-270k.png" alt="270,000 GCash bundle — IDR 2,000,000 or 140 USD"></a>
+        <a href="#" data-note="gcash-link-placeholder"><img src="assets/bundle-480k.png" alt="480,000 GCash bundle — IDR 3,500,000 or 245 USD"></a>
+        <a href="#" data-note="gcash-link-placeholder"><img src="assets/bundle-1060k.png" alt="1,060,000 GCash bundle — IDR 7,500,000 or 525 USD"></a>
+        <!-- duplicated set, aria-hidden - translateX(-50%) then lands exactly
+             back on an identical copy, so the loop reads as seamless -->
+        <a href="#" data-note="gcash-link-placeholder" aria-hidden="true" tabindex="-1"><img src="assets/bundle-130k.png" alt="" aria-hidden="true"></a>
+        <a href="#" data-note="gcash-link-placeholder" aria-hidden="true" tabindex="-1"><img src="assets/bundle-270k.png" alt="" aria-hidden="true"></a>
+        <a href="#" data-note="gcash-link-placeholder" aria-hidden="true" tabindex="-1"><img src="assets/bundle-480k.png" alt="" aria-hidden="true"></a>
+        <a href="#" data-note="gcash-link-placeholder" aria-hidden="true" tabindex="-1"><img src="assets/bundle-1060k.png" alt="" aria-hidden="true"></a>
+      </div>
+    </div>
+
+    <h2 class="whale-title">Whale Pack?! Contact GM</h2>
+    <a class="contact-btn" href="#" data-note="discord-link-placeholder">Contact GM</a>
+  </div>
+</section>
+
+<div class="foot">Atlantica Eternal INA &middot; fan-run community project, not affiliated with the original publisher</div>
+
+<script>
+// ---- STREAMER LIST ----
+// Streamer data lives in its own file (streamers.json, published alongside
+// this page as assets/streamers.json) instead of inline here, so updating
+// the list is just a small JSON file republish, no HTML changes needed.
+// Each entry: platform ("youtube" or "tiktok" - picks the matching logo
+// below), name, description (short tagline shown under the name), url.
+const PLATFORM_LOGOS = { youtube:'assets/ytlogo.png', tiktok:'assets/ttlogo.png' };
+
+function esc(s){ return String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c])); }
+
+function streamerRowHtml(s){
+  const logo = PLATFORM_LOGOS[s.platform];
+  const iconHtml = logo
+    ? `<img class="s-icon" src="${esc(logo)}" alt="${esc(s.platform)}">`
+    : `<span class="s-icon" aria-hidden="true"></span>`;
+  return `<li class="streamer-row"><a href="${esc(s.url)}" target="_blank" rel="noopener">
+    ${iconHtml}
+    <span><span class="s-name">${esc(s.name)}</span><span class="s-desc">${esc(s.description||'')}</span></span>
+  </a></li>`;
+}
+
+const track = document.getElementById('streamerTrack');
+fetch('assets/streamers.json')
+  .then(r => r.json())
+  .then(streamers => {
+    const rowsHtml = streamers.map(streamerRowHtml).join('');
+    track.innerHTML = rowsHtml + rowsHtml; // duplicated once so translateY(-50%) loops seamlessly
+    track.style.animationDuration = (streamers.length * 3.2) + 's';
+  })
+  .catch(err => console.error('Could not load streamers.json', err));
+</script>
+
+</body></html>
