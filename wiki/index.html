@@ -521,7 +521,7 @@ td.wrap{max-width:280px; white-space:normal; line-height:1.5;}
       <div class="league-box"><span class="league-label">Colosseum League</span><span class="league-countdown" data-schedule="Colosseum League">00:00:00</span></div>
       <div class="league-box"><span class="league-label">Betting</span><span class="league-countdown" data-schedule="Betting">00:00:00</span></div>
       <div class="league-box"><span class="league-label">Fishing</span><span class="league-countdown" data-schedule="Fishing">00:00:00</span></div>
-      <div class="league-box"><span class="league-label">Red Light Green Light</span><span class="league-countdown" data-duration="7200">00:00:00</span></div>
+      <div class="league-box"><span class="league-label">Red Light Green Light</span><span class="league-countdown" data-schedule="Red Light Green Light">00:00:00</span></div>
       <div class="league-box"><span class="league-label">Infinity Challenge</span><span class="league-countdown" data-schedule="Infinity Challenge">00:00:00</span></div>
     </div>
     <div class="marquee-wrap">
@@ -30746,6 +30746,11 @@ renderAll();
     // data-duration loop before, now counts down to the next real session.
     'Fishing': [
       {start:'09:00', duration:0}, {start:'19:00', duration:0}, {start:'21:00', duration:0},
+    ],
+    // Sheet lists this event as "Daruma!" - same event as the header's
+    // "Red Light Green Light" box, just a different in-house name.
+    'Red Light Green Light': [
+      {start:'19:00', duration:0}, {start:'07:00', duration:0},
     ],
   };
 
