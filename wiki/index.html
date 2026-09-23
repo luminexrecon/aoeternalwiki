@@ -101,8 +101,11 @@ a{color:var(--sea);}
   -webkit-mask-image:linear-gradient(90deg, transparent 0, #000 64px, #000 calc(100% - 64px), transparent 100%);
   mask-image:linear-gradient(90deg, transparent 0, #000 64px, #000 calc(100% - 64px), transparent 100%);
 }
-.marquee-track{display:inline-flex; width:max-content; animation:marquee-scroll 34s linear infinite;}
-.marquee-track span{font-size:12.5px; color:var(--ink-faint); font-style:italic;}
+.marquee-track{display:inline-flex; width:max-content; animation:marquee-scroll 34s linear infinite; gap:72px;}
+.marquee-item{display:inline-flex; align-items:center; gap:14px; white-space:nowrap; font-size:12.5px;}
+.marquee-item .t-en{color:var(--sea); font-weight:500; font-style:normal;}
+.marquee-item .t-id{color:var(--brass-strong); font-weight:500; font-style:normal;}
+.marquee-item .t-sep{color:var(--ink-faint);}
 
 .exp-grid{display:flex; align-items:flex-start; gap:22px; flex-wrap:wrap; padding:4px 0 24px;}
 .exp-grid .exp-block{width:auto; flex:0 0 auto; border-collapse:collapse;}
@@ -517,14 +520,22 @@ td.wrap{max-width:280px; white-space:normal; line-height:1.5;}
       <div class="league-box"><span class="league-label">Free League</span><span class="league-countdown" data-schedule="Free League">00:00:00</span></div>
       <div class="league-box"><span class="league-label">Colosseum League</span><span class="league-countdown" data-schedule="Colosseum League">00:00:00</span></div>
       <div class="league-box"><span class="league-label">Betting</span><span class="league-countdown" data-schedule="Betting">00:00:00</span></div>
-      <div class="league-box"><span class="league-label">Fishing</span><span class="league-countdown" data-duration="10800">00:00:00</span></div>
+      <div class="league-box"><span class="league-label">Fishing</span><span class="league-countdown" data-schedule="Fishing">00:00:00</span></div>
       <div class="league-box"><span class="league-label">Red Light Green Light</span><span class="league-countdown" data-duration="7200">00:00:00</span></div>
       <div class="league-box"><span class="league-label">Infinity Challenge</span><span class="league-countdown" data-schedule="Infinity Challenge">00:00:00</span></div>
     </div>
     <div class="marquee-wrap">
       <div class="marquee-track">
-        <span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&nbsp;&nbsp;&nbsp;&nbsp;</span>
-        <span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&nbsp;&nbsp;&nbsp;&nbsp;</span>
+        <span class="marquee-item">
+          <span class="t-en">Please avoid any illegal activity such as RMT (Real Money Trading — selling in-game items for real money) and BOT usage, to keep the community healthy and the server alive.</span>
+          <span class="t-sep">|</span>
+          <span class="t-id">Mohon hindari segala bentuk aktivitas ilegal seperti RMT (Real Money Trading — menjual barang dengan uang sungguhan) dan penggunaan BOT, demi menjaga kesehatan komunitas serta kelangsungan server.</span>
+        </span>
+        <span class="marquee-item" aria-hidden="true">
+          <span class="t-en">Please avoid any illegal activity such as RMT (Real Money Trading — selling in-game items for real money) and BOT usage, to keep the community healthy and the server alive.</span>
+          <span class="t-sep">|</span>
+          <span class="t-id">Mohon hindari segala bentuk aktivitas ilegal seperti RMT (Real Money Trading — menjual barang dengan uang sungguhan) dan penggunaan BOT, demi menjaga kesehatan komunitas serta kelangsungan server.</span>
+        </span>
       </div>
     </div>
   </div>
@@ -26734,7 +26745,7 @@ const DATA = {
     "set": "Royal Chess Collection Set",
     "set_id": 275,
     "part": "All Grade Royal Crown",
-    "effects": "[All Classes]Critical Damage (%) +7; [All Classes]Magic Damage (%) +7; [All Classes]Earned Exp (%) +7",
+    "effects": "[All Classes]Critical Damage (%) +2; [All Classes]Magic Damage (%) +2; [All Classes]Earned Exp (%) +3",
     "note": "",
     "source": "",
     "cost": "",
@@ -30714,19 +30725,27 @@ renderAll();
   // start time "HH:MM" (GMT+7) + duration in minutes, repeats every day
   const SCHEDULES = {
     'Free League': [
-      {start:'20:00', duration:60}, {start:'12:00', duration:60}, {start:'17:00', duration:60},
+      {start:'05:00', duration:60}, {start:'08:00', duration:60}, {start:'12:00', duration:60},
+      {start:'17:00', duration:60}, {start:'20:00', duration:60},
     ],
     'Colosseum League': [
-      {start:'10:00', duration:60}, {start:'18:00', duration:60}, {start:'16:00', duration:60},
+      {start:'07:00', duration:60}, {start:'10:00', duration:60}, {start:'13:00', duration:60},
+      {start:'18:00', duration:60}, {start:'21:00', duration:60},
     ],
     'Betting': [
-      {start:'14:00', duration:30}, {start:'17:00', duration:30},
-      {start:'20:00', duration:30}, {start:'23:00', duration:30},
+      {start:'15:00', duration:60}, {start:'18:00', duration:60},
+      {start:'21:00', duration:60}, {start:'00:00', duration:60},
     ],
     // Sheet gives start times but no duration yet - treated as instant (0min),
     // so this counts down to the next start without ever showing "Now Showing".
     'Infinity Challenge': [
       {start:'11:00', duration:0}, {start:'15:00', duration:0}, {start:'17:00', duration:0},
+      {start:'21:00', duration:0}, {start:'00:00', duration:0},
+    ],
+    // Real schedule as of the latest Event sheet sync - was a dummy
+    // data-duration loop before, now counts down to the next real session.
+    'Fishing': [
+      {start:'09:00', duration:0}, {start:'19:00', duration:0}, {start:'21:00', duration:0},
     ],
   };
 
