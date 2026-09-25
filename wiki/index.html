@@ -25,6 +25,12 @@
   --tag-recruit:#7b3fa0; --tag-recruit-bg:#ecdff3;
   --tag-repeat:#2f5fa8; --tag-repeat-bg:#dde7f5;
   --tag-general:#5c6d71; --tag-general-bg:#e2e7e6;
+  --animal-c:#5c6d71; --animal-bg:#e2e7e6;
+  --ratio-vlow:#6e4a20;  --ratio-vlow-bg:#efe1cd;
+  --ratio-low:#8c5f2a;   --ratio-low-bg:#f5ecdc;
+  --ratio-med:#4c5e63;   --ratio-med-bg:#d2d9d8;
+  --ratio-high:#7c8b8d;  --ratio-high-bg:#dde3e2;
+  --ratio-vhigh:#93a09f; --ratio-vhigh-bg:transparent;
   --shadow: 0 1px 2px rgba(22,35,42,.06), 0 6px 20px -8px rgba(22,35,42,.18);
   --serif-display:'Cinzel', 'Iowan Old Style', Georgia, serif;
   --sans:'IBM Plex Sans', 'Segoe UI', system-ui, sans-serif;
@@ -47,6 +53,12 @@
     --tag-recruit:#cd9be6; --tag-recruit-bg:#291f31;
     --tag-repeat:#7fb0ea; --tag-repeat-bg:#182635;
     --tag-general:#9db0b3; --tag-general-bg:#1e2a2c;
+    --animal-c:#9db0b3; --animal-bg:#1e2a2c;
+    --ratio-vlow:#e5b578;  --ratio-vlow-bg:#2c2318;
+    --ratio-low:#cf9c5c;   --ratio-low-bg:#251d15;
+    --ratio-med:#93a5a7;   --ratio-med-bg:#0c1214;
+    --ratio-high:#5f7274;  --ratio-high-bg:#182225;
+    --ratio-vhigh:#4c5b5d; --ratio-vhigh-bg:transparent;
     --shadow: 0 1px 2px rgba(0,0,0,.4), 0 10px 30px -10px rgba(0,0,0,.6);
   }
 }
@@ -66,11 +78,44 @@
   --tag-recruit:#cd9be6; --tag-recruit-bg:#291f31;
   --tag-repeat:#7fb0ea; --tag-repeat-bg:#182635;
   --tag-general:#9db0b3; --tag-general-bg:#1e2a2c;
+  --animal-c:#9db0b3; --animal-bg:#1e2a2c;
+  --ratio-vlow:#e5b578;  --ratio-vlow-bg:#2c2318;
+  --ratio-low:#cf9c5c;   --ratio-low-bg:#251d15;
+  --ratio-med:#93a5a7;   --ratio-med-bg:#0c1214;
+  --ratio-high:#5f7274;  --ratio-high-bg:#182225;
+  --ratio-vhigh:#4c5b5d; --ratio-vhigh-bg:transparent;
   --shadow: 0 1px 2px rgba(0,0,0,.4), 0 10px 30px -10px rgba(0,0,0,.6);
 }
 
 *{box-sizing:border-box;}
+/* Custom scrollbar - scoped to the page's few real scroll containers (rail,
+   main, table's horizontal scroll, filter popups) rather than every element
+   (`*`). Deliberately NOT applied to .monster-drops: with pagination that's
+   up to 50 of these boxes on screen at once, and forcing custom (non-overlay)
+   scrollbar rendering on that many overflow containers simultaneously is a
+   known heavier path for the browser - suspected cause of Monster & Drop's
+   lingering sluggishness after the tab is first opened. Colors pull from the
+   theme's own tokens rather than fixed hex values so it stays correct across
+   light/dark instead of only matching one theme. */
+:root{ --sb-size:14px; }
+.rail::-webkit-scrollbar, main::-webkit-scrollbar, .effect-filter-popup::-webkit-scrollbar, .scrollx::-webkit-scrollbar{
+  width:var(--sb-size); height:var(--sb-size);
+}
+.rail::-webkit-scrollbar-track, main::-webkit-scrollbar-track, .effect-filter-popup::-webkit-scrollbar-track, .scrollx::-webkit-scrollbar-track{
+  background:var(--paper-sunken); border-radius:3px;
+}
+.rail::-webkit-scrollbar-thumb, main::-webkit-scrollbar-thumb, .effect-filter-popup::-webkit-scrollbar-thumb, .scrollx::-webkit-scrollbar-thumb{
+  background:var(--brass); border-radius:3px;
+}
+.rail::-webkit-scrollbar-thumb:hover, main::-webkit-scrollbar-thumb:hover, .effect-filter-popup::-webkit-scrollbar-thumb:hover, .scrollx::-webkit-scrollbar-thumb:hover{
+  background:var(--brass-strong);
+}
+@supports not selector(::-webkit-scrollbar){
+  .rail, main, .effect-filter-popup, .scrollx{ scrollbar-color:var(--brass) var(--paper-sunken); scrollbar-width:thin; }
+}
+html, body{height:100%;}
 body{
+  margin:0; overflow:hidden;
   background: radial-gradient(1200px 800px at 100% -10%, var(--sea-tint), transparent 60%), var(--paper);
   color:var(--ink); font-family:var(--sans); font-size:14px; line-height:1.5;
   -webkit-font-smoothing:antialiased;
@@ -78,8 +123,16 @@ body{
 a{color:var(--sea);}
 ::selection{background:var(--brass-tint); color:var(--brass-strong);}
 
-.app{display:grid; grid-template-columns:320px 1fr; grid-template-rows:auto auto 1fr; min-height:100vh;}
-.banner-empty{grid-column:1 / -1; border-bottom:1px solid var(--line); background:var(--paper-sunken); padding:18px 28px 16px; display:flex; flex-direction:column; gap:14px;}
+/* App shell: topbar is a normal (non-scrolling) grid row, never part of any
+   scrollable area - the rail and main each get their own independent
+   overflow-y:auto box below it. This is why the page's scrollbar no longer
+   crosses through the topbar: there is no single whole-page scrollbar
+   anymore, only two separate ones, each confined to its own box below the
+   topbar's row. min-height:0 on the row/children is required for a grid
+   item to shrink and scroll instead of stretching to fit its content. */
+.app{display:grid; grid-template-columns:320px 1fr; grid-template-rows:auto 1fr; height:100vh;}
+.topbar{grid-column:1 / -1; background:var(--paper);}
+.banner-empty{border-bottom:1px solid var(--line); background:var(--paper-sunken); padding:18px 28px 16px; display:flex; flex-direction:column; gap:14px;}
 
 .league-row{display:flex; flex-wrap:wrap; gap:14px;}
 .league-box{
@@ -122,9 +175,9 @@ a{color:var(--sea);}
 @media (prefers-reduced-motion: reduce){ .marquee-track{animation:none;} }
 
 .head{
-  grid-column:1 / -1; display:flex; align-items:baseline; gap:14px;
+  display:flex; align-items:baseline; gap:14px;
   padding:20px 28px 16px; border-bottom:1px solid var(--line);
-  background:linear-gradient(180deg, var(--paper-raised), transparent);
+  background:linear-gradient(180deg, var(--paper-raised), var(--paper));
 }
 .head .mark{font-family:var(--serif-display); font-weight:600; font-size:22px; letter-spacing:.06em; text-wrap:balance;}
 .head .mark em{font-style:normal; color:var(--brass);}
@@ -135,7 +188,10 @@ a{color:var(--sea);}
 .saweria-btn img{height:40px; width:auto; display:block; border-radius:6px; transition:transform .15s ease, filter .15s ease;}
 .saweria-btn:hover img{transform:translateY(-1px); filter:brightness(1.06);}
 
-.rail{border-right:1px solid var(--line); padding:18px 24px 18px 16px; overflow-y:auto; background:var(--paper-raised);}
+.rail{
+  border-right:1px solid var(--line); padding:18px 24px 18px 16px; overflow-y:auto; background:var(--paper-raised);
+  min-height:0;
+}
 .rail .legend{font-family:var(--serif-display); font-size:11px; letter-spacing:.14em; color:var(--ink-faint); text-transform:uppercase; padding:6px 10px 10px;}
 .navgroup{margin-bottom:2px;}
 .navgroup > button{
@@ -176,14 +232,16 @@ a{color:var(--sea);}
 .quest-landing .qbox-small{padding:18px 12px;}
 .quest-landing .qbox-small .qlabel{font-size:13px;}
 @media (max-width:700px){ .quest-landing{flex-direction:column;} }
-.rail .divider{height:1px; background:var(--line); margin:10px 4px;}
-.rail .about{padding:10px; font-size:11.5px; color:var(--ink-faint); line-height:1.6;}
-.rail .about b{color:var(--ink-soft);}
 
-main{padding:20px 28px 40px; min-width:0;}
-.crumb{font-size:11.5px; color:var(--ink-faint); margin-bottom:10px; letter-spacing:.02em;}
-.crumb b{color:var(--ink-soft); font-weight:600;}
-.toolbar{display:flex; align-items:center; gap:12px; flex-wrap:wrap; margin-bottom:14px;}
+main{padding:20px 28px 40px; min-width:0; min-height:0; overflow-y:auto;}
+/* Sticky toolbar (search/filters) - pins to the top of main's own scrollport
+   (main is independently scrollable now, so top:0 here needs no measured
+   offset - unlike topbar/rail, which sit outside main entirely). */
+.toolbar{
+  display:flex; align-items:center; gap:12px; flex-wrap:wrap; margin-bottom:14px;
+  position:sticky; top:0; z-index:15;
+  background:var(--paper); padding-block:6px;
+}
 .search{position:relative; flex:1; min-width:240px; max-width:420px;}
 .search input{width:100%; padding:9px 12px 9px 32px; border-radius:4px; border:1px solid var(--line-strong); background:var(--paper-raised); color:var(--ink); font-family:var(--sans); font-size:13.5px;}
 .search input:focus{outline:2px solid var(--focus); outline-offset:1px;}
@@ -358,6 +416,39 @@ td.wrap{max-width:280px; white-space:normal; line-height:1.5;}
 .collection-card-detail{padding:0 16px 14px;}
 .collection-card-detail .kv{margin-bottom:10px; font-size:12px;}
 
+.monster-grid{
+  display:flex; flex-direction:column; overflow:hidden;
+  border:1px solid var(--line); border-radius:8px; background:var(--paper-raised); box-shadow:var(--shadow);
+}
+.monster-card{
+  padding:14px 20px; display:flex; align-items:stretch; gap:28px; flex-wrap:wrap;
+  border-bottom:1px solid var(--line);
+}
+.monster-card:last-child{border-bottom:none;}
+.monster-card:hover{background:var(--paper-sunken);}
+.monster-col{display:flex; flex-direction:column; gap:4px; flex:1 1 170px; min-width:150px; justify-content:center;}
+.monster-col .mheadline{font-family:var(--serif-display); font-size:15.5px; font-weight:600; color:var(--ink); line-height:1.25; overflow:hidden; text-overflow:ellipsis; white-space:nowrap;}
+.monster-col .msub{font-family:var(--mono); font-size:11.5px; color:var(--ink-faint); overflow:hidden; text-overflow:ellipsis; white-space:nowrap;}
+/* justify-content:center here would clip the top row when the list overflows
+   and is scrolled - centering a flex column pins the overflow symmetrically
+   above/below, so "scrolled to top" still cuts into the first item. Align to
+   the top instead; short lists just sit flush at the top of the box. */
+.monster-drops{flex:2 1 320px; min-width:220px; max-height:88px; overflow-y:auto; display:flex; flex-direction:column; justify-content:flex-start; gap:3px;}
+.monster-droprow{display:flex; align-items:center; justify-content:space-between; gap:14px;}
+.monster-droprow .iname{font-size:12.5px; color:var(--ink-soft); overflow:hidden; text-overflow:ellipsis; white-space:nowrap; flex:1; min-width:0;}
+.mratio{flex:none; font-family:var(--mono); font-size:10px; font-weight:500; letter-spacing:.03em; padding:2px 8px; border-radius:10px; white-space:nowrap;}
+.mratio.vlow{color:var(--ratio-vlow); background:var(--ratio-vlow-bg); font-weight:600;}
+.mratio.low{color:var(--ratio-low); background:var(--ratio-low-bg);}
+.mratio.med{color:var(--ratio-med); background:var(--ratio-med-bg);}
+.mratio.high{color:var(--ratio-high); background:var(--ratio-high-bg);}
+.mratio.vhigh{color:var(--ratio-vhigh); background:var(--ratio-vhigh-bg);}
+mark.hl{background:var(--brass-tint); color:var(--brass-strong); padding:0 1px; border-radius:2px; font-weight:600;}
+@media (max-width:640px){
+  .monster-card{gap:16px;}
+  .monster-col{flex-basis:100%;}
+  .monster-drops{flex-basis:100%;}
+}
+
 .effect-filter{position:relative;}
 .effect-filter-btn{
   all:unset; cursor:pointer; display:flex; align-items:center; gap:6px;
@@ -506,12 +597,17 @@ td.wrap{max-width:280px; white-space:normal; line-height:1.5;}
 }
 
 @media (max-width:760px){
-  .app{grid-template-columns:1fr;}
+  /* Single column stacks topbar/rail/main into 3 rows instead of the desktop
+     2 (rail+main sharing one row beside each other) - needs its own explicit
+     grid-template-rows or main would land in an unconstrained implicit row
+     and grow past 100vh instead of scrolling in its own box. */
+  .app{grid-template-columns:1fr; grid-template-rows:auto auto 1fr;}
   .rail{border-right:none; border-bottom:1px solid var(--line); max-height:40vh;}
 }
 </style>
 
 <div class="app">
+  <div class="topbar" id="topbar">
   <header class="head">
     <div class="mark">ATLANTICA ONLINE <em>ETERNAL</em></div>
     <div class="tag">Wiki</div>
@@ -546,20 +642,14 @@ td.wrap{max-width:280px; white-space:normal; line-height:1.5;}
       </div>
     </div>
   </div>
+  </div>
 
   <nav class="rail" id="rail">
     <div class="legend">Ledger</div>
     <div id="navtree"></div>
-    <div class="divider"></div>
-    <div class="about">
-      <b>Blue dot</b> = read from the decrypted game client.<br>
-      <b>Brass dot</b> = community-collected (fan wiki / manual tracking).<br>
-      Quest sub-categories are a first-pass, chapter-name heuristic — pending in-game verification.
-    </div>
   </nav>
 
   <main>
-    <div class="crumb" id="crumb"></div>
     <div class="provenance" id="provenance"></div>
 
     <div id="listView">
@@ -633,6 +723,8 @@ td.wrap{max-width:280px; white-space:normal; line-height:1.5;}
         <div class="merc-groups" id="mercGroups"></div>
       </div>
       <div class="collection-grid" id="collectionGrid" hidden></div>
+      <div class="monster-grid" id="monsterGrid" hidden></div>
+      <div class="pager" id="monsterPager" hidden></div>
       <div class="merc-split" id="classSplit" hidden>
         <div class="merc-inline-detail" id="classInlineDetail"></div>
         <div class="merc-groups" id="classGroups"></div>
@@ -28263,6 +28355,10 @@ const DATA = {
     "event_boxes": ""
   }
 ],
+  // Monster & Drop starts null like Quest - it's already ~600KB for just the
+  // A-C screenshots-extraction batch and will keep growing as more letters
+  // get processed, so it's lazy-loaded from day one (see loadMonsterData()).
+  monster:    null,
   // Craft data is NOT embedded here (unlike everything else above) - it's
   // ~1.65MB, roughly half the page. Each category starts null (not loaded
   // yet) and is fetched on demand by loadCraftCategory()/loadCraftCollections()
@@ -28356,6 +28452,19 @@ function loadQuestData(){
       });
   }
   return QUEST_LOAD_PROMISE;
+}
+
+// Monster & Drop has no cross-referencing dependents (nothing else reads
+// DATA.monster) so unlike Quest there's no derived-index rebuild step needed -
+// switchNode() just re-renders once this resolves.
+let MONSTER_LOAD_PROMISE = null;
+function loadMonsterData(){
+  if(!MONSTER_LOAD_PROMISE){
+    MONSTER_LOAD_PROMISE = fetch(assetSrc('monster-data/monster.json'))
+      .then(r => r.json())
+      .then(data => { DATA.monster = data; return data; });
+  }
+  return MONSTER_LOAD_PROMISE;
 }
 
 // Quest chains known to reward a piece of a specific Collection Book set -
@@ -28826,12 +28935,6 @@ const TREE = [
       {k:'dungeon_category', h:'Category', cls:'code'}, {k:'label', h:'Name / Type', cls:'name-en'}, {k:'detail', h:'Details', cls:'trunc'},
     ],
     detail:r=>[['Category',r.dungeon_category],['Label',r.label||'—'],['__full__Fields', r.detail||'—']],
-    children:[
-      {id:'dun-individual', label:'Individual', filter:r=>r.dungeon_category==='Individual'},
-      {id:'dun-squad', label:'Squad', filter:r=>r.dungeon_category==='Squad'},
-      {id:'dun-guild', label:'Guild', filter:r=>r.dungeon_category==='Guild'},
-      {id:'dun-nation', label:'Nation', filter:r=>r.dungeon_category==='Nation'},
-    ],
   },
   { id:'experience', label:'Experience Table', prov:'community',
     cols:[
@@ -28849,6 +28952,15 @@ const TREE = [
       ['Ticket item',r.ticket_item||'—'],['Price',r.ticket_price||'—'],['Reset time',r.reset_time||'—'],['Aggro mobs',r.aggro_mobs||'—'],
       ['Exchange item',r.exchange_item||'—'],['Must craft',r.must_craft||'—'],['Event boxes',r.event_boxes||'—'],
       ['__full__Quest', r.quest||'—']],
+  },
+  { id:'monster', label:'Monster & Drop', prov:'community',
+    cols:[
+      {k:'name', h:'Name', cls:'name-en'}, {k:'level', h:'Level', cls:'num'},
+      {k:'animal_type', h:'Type', cls:'code'},
+      {k:'items', h:'Drops', cls:'num', render:r=>String((r.items||[]).length)},
+    ],
+    detail:r=>[['Name',r.name],['Level',r.level],['Attack Power',`${fmtN(r.attack_min)}–${fmtN(r.attack_max)}`],
+      ['Experience',fmtN(r.experience)],['Type',r.animal_type||'—']],
   },
   { id:'craft', label:'Craft Calculator', prov:'mixed', cols:[], detail:()=>[] },
 ];
@@ -28986,7 +29098,12 @@ function nodeRows(node){
 function currentNode(){ return byId[state.nodeId]; }
 
 function switchNode(id){
-  state = { nodeId:id, q:'', page:0, perPage:50, openRow:null, openCollectionSet:null, effectFilter:new Set(), classFilter:new Set(), npcFilter:new Set(), tierFilter:new Set(), mercClassFilter:new Set(), fractionFilter:new Set(), collectibleFilter:new Set(), customFilter:null, customLabel:'' };
+  // Monster & Drop gets a smaller page size than the default 50 - each row
+  // carries its own overflow-y:auto drop-item box, and fewer of those on
+  // screen at once measurably reduces the layout/paint cost the ledger was
+  // still feeling heavy from even after the custom-scrollbar fix.
+  const perPage = id.startsWith('monster') ? 20 : 50;
+  state = { nodeId:id, q:'', page:0, perPage, openRow:null, openCollectionSet:null, effectFilter:new Set(), classFilter:new Set(), npcFilter:new Set(), tierFilter:new Set(), mercClassFilter:new Set(), fractionFilter:new Set(), collectibleFilter:new Set(), customFilter:null, customLabel:'' };
   document.getElementById('q').value='';
   document.getElementById('mercProfile').hidden = true;
   document.getElementById('classProfile').hidden = true;
@@ -29017,6 +29134,20 @@ function switchNode(id){
     landing.hidden = false;
     landing.innerHTML = questLandingHtml();
     renderRail(); renderCrumb();
+    return;
+  }
+  // Monster & Drop is fetched lazily too - same guard shape as Quest above.
+  if(id.startsWith('monster') && !DATA.monster){
+    document.getElementById('listView').hidden = true;
+    expView.hidden = true;
+    craftView.hidden = true;
+    landing.hidden = false;
+    landing.innerHTML = craftLoadingHtml('Loading monster data…');
+    renderRail(); renderCrumb();
+    loadMonsterData().then(()=>{
+      if(state.nodeId !== id) return; // navigated away before this resolved
+      switchNode(id);
+    });
     return;
   }
   if(id === 'experience'){
@@ -29635,7 +29766,15 @@ function currentRows(){
   }
   if(state.q){
     const q = state.q.toLowerCase();
-    rows = rows.filter(r => Object.values(r).some(v => v!=null && String(v).toLowerCase().includes(q)));
+    rows = rows.filter(r => {
+      if(Object.values(r).some(v => v!=null && String(v).toLowerCase().includes(q))) return true;
+      // Object.values(r) stringifies r.items as "[object Object]" (unlike
+      // r.locations, a plain string array that Array#toString already joins
+      // and matches) - check each drop item's own name explicitly so typing
+      // an item name (e.g. "equipment box") also surfaces the monsters that drop it.
+      if(root.id === 'monster' && (r.items||[]).some(it => it.name.toLowerCase().includes(q))) return true;
+      return false;
+    });
   }
   return rows;
 }
@@ -29704,9 +29843,6 @@ function renderHead(){
 
 function renderCrumb(){
   const node = currentNode();
-  const crumb = document.getElementById('crumb');
-  crumb.innerHTML = node.parent ? `Ledger &nbsp;/&nbsp; <b>${esc(node.parent.label)}</b> &nbsp;/&nbsp; <b>${esc(node.label)}</b>`
-                                 : `Ledger &nbsp;/&nbsp; <b>${esc(node.label)}</b>`;
   const prov = (node.parent||node).prov;
   const el = document.getElementById('provenance');
   const txt = {client:'Read directly from the decrypted game client files.',
@@ -29726,11 +29862,13 @@ function renderBody(){
   document.getElementById('mercClassFilterWrap').hidden = root.id !== 'mercenary';
   document.getElementById('fractionFilterWrap').hidden = root.id !== 'mercenary';
   document.getElementById('collectibleFilterWrap').hidden = root.id !== 'quest';
+  document.getElementById('monsterPager').hidden = root.id !== 'monster';
   if(root.id === 'mercenary'){
     document.getElementById('tableView').hidden = true;
     document.getElementById('mercSplit').hidden = false;
     document.getElementById('collectionGrid').hidden = true;
     document.getElementById('classSplit').hidden = true;
+    document.getElementById('monsterGrid').hidden = true;
     renderMercenaryGroups();
     return;
   }
@@ -29739,6 +29877,7 @@ function renderBody(){
     document.getElementById('mercSplit').hidden = true;
     document.getElementById('collectionGrid').hidden = false;
     document.getElementById('classSplit').hidden = true;
+    document.getElementById('monsterGrid').hidden = true;
     renderCollectionGrid();
     return;
   }
@@ -29747,13 +29886,24 @@ function renderBody(){
     document.getElementById('mercSplit').hidden = true;
     document.getElementById('collectionGrid').hidden = true;
     document.getElementById('classSplit').hidden = false;
+    document.getElementById('monsterGrid').hidden = true;
     renderClassIconGrid();
+    return;
+  }
+  if(root.id === 'monster'){
+    document.getElementById('tableView').hidden = true;
+    document.getElementById('mercSplit').hidden = true;
+    document.getElementById('collectionGrid').hidden = true;
+    document.getElementById('classSplit').hidden = true;
+    document.getElementById('monsterGrid').hidden = false;
+    renderMonsterGrid();
     return;
   }
   document.getElementById('tableView').hidden = false;
   document.getElementById('mercSplit').hidden = true;
   document.getElementById('collectionGrid').hidden = true;
   document.getElementById('classSplit').hidden = true;
+  document.getElementById('monsterGrid').hidden = true;
 
   if(root.id === 'quest'){
     const q = state.q.toLowerCase();
@@ -30289,6 +30439,90 @@ function renderCollectionGrid(){
   renderEffectFilterPopup(searched, effectKeysBySet);
   renderClassFilterPopup(searched, classKeysBySet);
   renderNpcFilterPopup(searched, npcKeysBySet);
+}
+
+/* ---------------- monster & drop grid ---------------- */
+function monsterRatioClass(ratio){
+  const k = (ratio||'').toLowerCase();
+  if(k === 'very low') return 'vlow';
+  if(k === 'low') return 'low';
+  if(k === 'medium') return 'med';
+  if(k === 'high') return 'high';
+  if(k === 'very high') return 'vhigh';
+  return 'med';
+}
+// Location arrays are flat: an optional leading "Neighborhood" entry, then
+// (place, region) pairs - see data/clean/monster_book_abc.json for the raw shape.
+// Flattened into one line ("Place (Region), Place (Region)") since the row
+// layout gives location a single text slot rather than its own breadcrumb list.
+function monsterLocationSummary(locs){
+  if(!locs || !locs.length) return '—';
+  const rest = locs[0] === 'Neighborhood' ? locs.slice(1) : locs.slice();
+  if(!rest.length) return 'Neighborhood';
+  const spots = [];
+  for(let i=0; i<rest.length; i+=2) spots.push(rest[i+1] ? `${rest[i]} (${rest[i+1]})` : rest[i]);
+  return spots.join(', ');
+}
+// Wraps state.q matches in <mark class="hl"> so the currently-searched text
+// stands out wherever it appears on a monster card (name, stats, drop items,
+// location) - escapes first, so this must be used in place of esc(), not
+// alongside it, for any text it's given.
+// Caches the compiled RegExp across calls (only rebuilt when state.q actually
+// changes) - a render pass calls hl() on every searchable field of every
+// visible row (name/stats/type/location/each drop item), so rebuilding the
+// regex from scratch every single call was real, measurable overhead once
+// Monster & Drop's ~480 rows were all on screen at once.
+let HL_CACHE_Q = null, HL_CACHE_RE = null;
+function hl(text){
+  const s = esc(text);
+  const q = (state.q || '').trim();
+  if(!q) return s;
+  if(q !== HL_CACHE_Q){
+    HL_CACHE_Q = q;
+    HL_CACHE_RE = new RegExp('(' + q.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + ')', 'ig');
+  }
+  return s.replace(HL_CACHE_RE, '<mark class="hl">$1</mark>');
+}
+function monsterCardHtml(m){
+  const locSummary = monsterLocationSummary(m.locations);
+  const items = (m.items && m.items.length)
+    ? m.items.map(it=>`<div class="monster-droprow"><span class="iname" title="${esc(it.name)}">${hl(it.name)}</span><span class="mratio ${monsterRatioClass(it.ratio)}">${esc(it.ratio)}</span></div>`).join('')
+    : `<p class="placeholder-note" style="margin:0;">No drop data recorded.</p>`;
+  return `
+  <article class="monster-card">
+    <div class="monster-col name-col">
+      <div class="mheadline">${hl(m.name)}</div>
+      <div class="msub">${hl(fmtN(m.attack_min))}&ndash;${hl(fmtN(m.attack_max))}</div>
+      <div class="msub">${hl(m.animal_type || '—')}</div>
+    </div>
+    <div class="monster-col stat-col">
+      <div class="mheadline">Lv ${hl(m.level)}</div>
+      <div class="msub">${hl(fmtN(m.experience))} EXP</div>
+      <div class="msub" title="${esc(locSummary)}">${hl(locSummary)}</div>
+    </div>
+    <div class="monster-drops">${items}</div>
+  </article>`;
+}
+function renderMonsterGrid(){
+  const box = document.getElementById('monsterGrid');
+  const all = currentRows();
+  document.getElementById('stat-rows').innerHTML = `<b>${all.length.toLocaleString('en-US')}</b> monsters`;
+
+  // Paginated like every other ledger's table view (state.page/perPage) -
+  // rendering all ~480 rows (plus their ~4,500 combined drop-item sub-rows)
+  // at once was the main source of Monster & Drop feeling heavy, especially
+  // while typing in search (every keystroke re-rendered the entire list).
+  const start = state.page*state.perPage;
+  const pageRows = all.slice(start, start+state.perPage);
+  box.innerHTML = pageRows.length
+    ? pageRows.map(monsterCardHtml).join('')
+    : `<div class="empty">No monsters match${state.q?` "${esc(state.q)}"`:''}.</div>`;
+
+  const pages = Math.max(1, Math.ceil(all.length/state.perPage));
+  const pager = document.getElementById('monsterPager');
+  pager.innerHTML = `<button ${state.page<=0?'disabled':''} id="monsterPrev">‹ prev</button><span>page ${state.page+1} / ${pages}</span><button ${state.page>=pages-1?'disabled':''} id="monsterNext">next ›</button>`;
+  document.getElementById('monsterPrev').onclick = ()=>{ state.page--; renderMonsterGrid(); };
+  document.getElementById('monsterNext').onclick = ()=>{ state.page++; renderMonsterGrid(); };
 }
 
 function renderNpcFilterPopup(searched, npcKeysBySet){
