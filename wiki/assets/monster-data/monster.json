@@ -27536,5 +27536,8930 @@
       "Atlantica_20260924_120400281.jpg",
       "Atlantica_20260924_120401179.jpg"
     ]
+  },
+  {
+    "name": "Dainty Beauty",
+    "level": 145,
+    "attack_min": 97451,
+    "attack_max": 125487,
+    "experience": 341162,
+    "animal_type": "Human Type",
+    "items": [
+      {
+        "name": "Titanium Ore",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Blue Sapphire",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Adamantium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Ruby",
+        "ratio": "Low"
+      },
+      {
+        "name": "Opal",
+        "ratio": "Low"
+      },
+      {
+        "name": "Platinum Ingot",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Depraved Seed",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Phoenix's Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Weapon Rend [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Athena's Protection [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Shield Bash [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Dragon God's Wishstone",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Dragon God's Ire",
+        "ratio": "Low"
+      },
+      {
+        "name": "Vindictive Soul Imprint",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Robbers' Hideout (Skirmish)",
+      "Vancouver South"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161059653.jpg",
+      "Atlantica_20260925_161104075.jpg",
+      "Atlantica_20260925_161105130.jpg",
+      "Atlantica_20260925_161105872.jpg"
+    ]
+  },
+  {
+    "name": "Damaged Bamboo Hat",
+    "level": 132,
+    "attack_min": 4494,
+    "attack_max": 5367,
+    "experience": 190000,
+    "animal_type": "Spirit Type",
+    "items": [
+      {
+        "name": "Adamantium",
+        "ratio": "High"
+      },
+      {
+        "name": "Enchant Stone [IV]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Rare Treasure Chest",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "[Event] Thank You Card",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Field T (Lv.120)"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161154723.jpg"
+    ]
+  },
+  {
+    "name": "Damaged Black Pig",
+    "level": 130,
+    "attack_min": 4315,
+    "attack_max": 5153,
+    "experience": 180000,
+    "animal_type": "Spirit Type",
+    "items": [
+      {
+        "name": "Adamantium",
+        "ratio": "High"
+      },
+      {
+        "name": "Enchant Stone [IV]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Rare Treasure Chest",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "[Event] Thank You Card",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Field A (Lv.120)"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161156528.jpg"
+    ]
+  },
+  {
+    "name": "Damaged Cannon Horse",
+    "level": 133,
+    "attack_min": 4586,
+    "attack_max": 5477,
+    "experience": 190000,
+    "animal_type": "Spirit Type",
+    "items": [
+      {
+        "name": "Adamantium",
+        "ratio": "High"
+      },
+      {
+        "name": "Enchant Stone [IV]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Rare Treasure Chest",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "[Event] Thank You Card",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Field T (Lv.120)"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161159394.jpg"
+    ]
+  },
+  {
+    "name": "Damaged Mushroom",
+    "level": 131,
+    "attack_min": 4404,
+    "attack_max": 5259,
+    "experience": 180000,
+    "animal_type": "Spirit Type",
+    "items": [
+      {
+        "name": "Adamantium",
+        "ratio": "High"
+      },
+      {
+        "name": "Enchant Stone [IV]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Rare Treasure Chest",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "[Event] Thank You Card",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Field T (Lv.120)"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161201387.jpg"
+    ]
+  },
+  {
+    "name": "Damaged Raccoon",
+    "level": 128,
+    "attack_min": 4143,
+    "attack_max": 4948,
+    "experience": 180000,
+    "animal_type": "Spirit Type",
+    "items": [
+      {
+        "name": "Adamantium",
+        "ratio": "High"
+      },
+      {
+        "name": "Enchant Stone [IV]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Rare Treasure Chest",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "[Event] Thank You Card",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Field A (Lv.120)"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161203224.jpg"
+    ]
+  },
+  {
+    "name": "Damaged Yangban Mask",
+    "level": 129,
+    "attack_min": 4228,
+    "attack_max": 5049,
+    "experience": 180000,
+    "animal_type": "Spirit Type",
+    "items": [
+      {
+        "name": "Adamantium",
+        "ratio": "High"
+      },
+      {
+        "name": "Enchant Stone [IV]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Rare Treasure Chest",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "[Event] Thank You Card",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Field A (Lv.120)"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161205185.jpg"
+    ]
+  },
+  {
+    "name": "Damp Burrower",
+    "level": 20,
+    "attack_min": 148,
+    "attack_max": 342,
+    "experience": 230,
+    "animal_type": "Flame Type",
+    "items": [
+      {
+        "name": "Sea King's Equipment Box",
+        "ratio": "Low"
+      },
+      {
+        "name": "Healing Potion [I]",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Mana Potion [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Life Potion [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Ashen Crystal",
+        "ratio": "Low"
+      },
+      {
+        "name": "Enchant Stone [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Commodity Box [I]",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Atlantis Outskirts",
+      "Verdant Outpost Northwest"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161207216.jpg",
+      "Atlantica_20260925_161209434.jpg"
+    ]
+  },
+  {
+    "name": "Dangerous Sentinel",
+    "level": 47,
+    "attack_min": 318,
+    "attack_max": 498,
+    "experience": 1221,
+    "animal_type": "Metal Type",
+    "items": [
+      {
+        "name": "Insect Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Healing Potion [II]",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Mana Potion [II]",
+        "ratio": "Low"
+      },
+      {
+        "name": "Life Potion[II]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Ashen Crystal",
+        "ratio": "Low"
+      },
+      {
+        "name": "Enchant Stone [II]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Commodity Box [II]",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Destroyed Cube Chamber",
+      "Forgotten Valley Outpost",
+      "Hall of Infinity",
+      "Forgotten Valley Outpost"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161212224.jpg",
+      "Atlantica_20260925_161215786.jpg"
+    ]
+  },
+  {
+    "name": "Dark Agent",
+    "level": 112,
+    "attack_min": 3000,
+    "attack_max": 4000,
+    "experience": 22000,
+    "animal_type": "Human Type",
+    "items": [
+      {
+        "name": "Freezing Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Thin Rayon",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Tanzanite",
+        "ratio": "Low"
+      },
+      {
+        "name": "Ruby",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Blue Sapphire",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Gold Ingot",
+        "ratio": "Low"
+      },
+      {
+        "name": "Adamantium",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Oil",
+        "ratio": "Low"
+      },
+      {
+        "name": "Opal",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Platinum Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Conqueror's Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Divine Thunder [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Heaven's Fury [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Lightning Lash [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Storm Master [I]",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Dawn of Battle (Lv.100)",
+      "New York Northwest"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161217997.jpg",
+      "Atlantica_20260925_161219208.jpg",
+      "Atlantica_20260925_161220302.jpg",
+      "Atlantica_20260925_161221223.jpg",
+      "Atlantica_20260925_161222091.jpg"
+    ]
+  },
+  {
+    "name": "Dark Alexandra",
+    "level": 135,
+    "attack_min": 85536,
+    "attack_max": 91978,
+    "experience": 543400,
+    "animal_type": "Evil Type",
+    "items": [
+      {
+        "name": "Dragon God's Wishstone",
+        "ratio": "Low"
+      },
+      {
+        "name": "Phoenix's Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Freezing Equipment Box",
+        "ratio": "High"
+      },
+      {
+        "name": "Divine Equipment Box",
+        "ratio": "Low"
+      },
+      {
+        "name": "Book: Athena's Protection [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Evil Imprint",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Dragon God's Ire",
+        "ratio": "High"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Hidden Power",
+      "Athens East"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161244927.jpg",
+      "Atlantica_20260925_161245903.jpg"
+    ]
+  },
+  {
+    "name": "Dark Archbishop",
+    "level": 108,
+    "attack_min": 2644,
+    "attack_max": 3818,
+    "experience": 42935,
+    "animal_type": "Evil Type",
+    "items": [
+      {
+        "name": "Silver Thread",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Gold Thread",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Tanzanite",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Ruby",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Blue Sapphire",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Gold Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Adamantium",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Oil",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Opal",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Platinum Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Gold Dragon Scale",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Conqueror's Equipment Box",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Constantinople Palace",
+      "Istanbul West",
+      "Emperor's Hall",
+      "Istanbul West"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161247817.jpg",
+      "Atlantica_20260925_161248770.jpg",
+      "Atlantica_20260925_161253028.jpg"
+    ]
+  },
+  {
+    "name": "Dark Assassin",
+    "level": 113,
+    "attack_min": 3000,
+    "attack_max": 4000,
+    "experience": 22000,
+    "animal_type": "Human Type",
+    "items": [
+      {
+        "name": "Freezing Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Thin Rayon",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Tanzanite",
+        "ratio": "Low"
+      },
+      {
+        "name": "Ruby",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Blue Sapphire",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Gold Ingot",
+        "ratio": "Low"
+      },
+      {
+        "name": "Adamantium",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Oil",
+        "ratio": "Low"
+      },
+      {
+        "name": "Opal",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Platinum Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Conqueror's Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Divine Thunder [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Heaven's Fury [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Lightning Lash [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Storm Master [I]",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Dawn of Battle (Lv.100)",
+      "New York Northwest"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161255184.jpg",
+      "Atlantica_20260925_161255950.jpg",
+      "Atlantica_20260925_161256692.jpg",
+      "Atlantica_20260925_161257629.jpg"
+    ]
+  },
+  {
+    "name": "Dark Berserker",
+    "level": 111,
+    "attack_min": 3000,
+    "attack_max": 4000,
+    "experience": 22000,
+    "animal_type": "Human Type",
+    "items": [
+      {
+        "name": "Freezing Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Silver Thread",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Gold Thread",
+        "ratio": "Low"
+      },
+      {
+        "name": "Tanzanite",
+        "ratio": "Low"
+      },
+      {
+        "name": "Ruby",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Blue Sapphire",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Gold Ingot",
+        "ratio": "Low"
+      },
+      {
+        "name": "Adamantium",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Oil",
+        "ratio": "Low"
+      },
+      {
+        "name": "Opal",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Platinum Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Conqueror's Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Divine Thunder [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Heaven's Fury [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Lightning Lash [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Storm Master [I]",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Dawn of Battle (Lv.100)",
+      "New York Northwest"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161259122.jpg",
+      "Atlantica_20260925_161300232.jpg",
+      "Atlantica_20260925_161301067.jpg",
+      "Atlantica_20260925_161302263.jpg",
+      "Atlantica_20260925_161303013.jpg"
+    ]
+  },
+  {
+    "name": "Dark Betrayer",
+    "level": 69,
+    "attack_min": 1412,
+    "attack_max": 2122,
+    "experience": 6490,
+    "animal_type": "Human Type",
+    "items": [
+      {
+        "name": "Enchant Stone [III]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Silver Thread",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Book: Princess' Order [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Royal Signet [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Family Signet [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Imperial Signet [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Bran Castle Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Dark Knight's Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Tribal Signet [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Platinum Ingot",
+        "ratio": "Medium"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Betrayer's Hideout",
+      "Athens South"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161306224.jpg",
+      "Atlantica_20260925_161307474.jpg"
+    ]
+  },
+  {
+    "name": "Dark Cardinal",
+    "level": 108,
+    "attack_min": 2735,
+    "attack_max": 3967,
+    "experience": 42935,
+    "animal_type": "Evil Type",
+    "items": [
+      {
+        "name": "Silver Thread",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Gold Thread",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Tanzanite",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Ruby",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Blue Sapphire",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Gold Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Adamantium",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Oil",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Opal",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Platinum Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Gold Dragon Scale",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Byzantine Royal Key",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Conqueror's Equipment Box",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Constantinople Palace",
+      "Istanbul West",
+      "Emperor's Hall",
+      "Istanbul West"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161331997.jpg",
+      "Atlantica_20260925_161333435.jpg",
+      "Atlantica_20260925_161334246.jpg",
+      "Atlantica_20260925_161335035.jpg"
+    ]
+  },
+  {
+    "name": "Dark Cavalryman",
+    "level": 170,
+    "attack_min": 39443,
+    "attack_max": 52334,
+    "experience": 10000000,
+    "animal_type": "Human Type",
+    "items": [
+      {
+        "name": "Phoenix's Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Dragon God's Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Evil Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Pegasus Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Dark Pegasus Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Judgment Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Twilight Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Shimmering Opal",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Shimmering Sapphire",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Enriched Adamantium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Enhanced Titanium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Titanium Ingot",
+        "ratio": "Very High"
+      },
+      {
+        "name": "Shard Of Beginning",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Darkness Origin",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161336457.jpg",
+      "Atlantica_20260925_161337357.jpg",
+      "Atlantica_20260925_161338238.jpg",
+      "Atlantica_20260925_161339036.jpg"
+    ]
+  },
+  {
+    "name": "Dark Clawed Guard",
+    "level": 163,
+    "attack_min": 80000,
+    "attack_max": 100000,
+    "experience": 520000,
+    "animal_type": "Spirit Type",
+    "items": [],
+    "locations": [
+      "Neighborhood",
+      "Dark Abyss"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161341685.jpg"
+    ]
+  },
+  {
+    "name": "Dark Crystal Safeguard",
+    "level": 94,
+    "attack_min": 2650,
+    "attack_max": 3250,
+    "experience": 33234,
+    "animal_type": "Metal Type",
+    "items": [
+      {
+        "name": "Secret Material Chest",
+        "ratio": "Low"
+      },
+      {
+        "name": "Shogun's Equipment Box",
+        "ratio": "High"
+      },
+      {
+        "name": "Enchant Stone [III]",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Enhance Stone [III]",
+        "ratio": "Medium"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Bloody Moat",
+      "Tokyo West",
+      "Black Keep",
+      "Tokyo West",
+      "Garden of Withered Flower",
+      "Tokyo West"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161343762.jpg"
+    ]
+  },
+  {
+    "name": "Dark Dead Sea King",
+    "level": 173,
+    "attack_min": 600000,
+    "attack_max": 700000,
+    "experience": 5000000,
+    "animal_type": "Spirit Type",
+    "items": [],
+    "locations": [
+      "Neighborhood",
+      "Dark Abyss"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161345661.jpg"
+    ]
+  },
+  {
+    "name": "Dark Deep-Sea Guardian",
+    "level": 160,
+    "attack_min": 100000,
+    "attack_max": 120000,
+    "experience": 500000,
+    "animal_type": "Spirit Type",
+    "items": [],
+    "locations": [
+      "Neighborhood",
+      "Dark Abyss"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161347575.jpg"
+    ]
+  },
+  {
+    "name": "Dark Harpy Fighter",
+    "level": 51,
+    "attack_min": 303,
+    "attack_max": 522,
+    "experience": 3089,
+    "animal_type": "Evil Type",
+    "items": [
+      {
+        "name": "Thick Animal Bone",
+        "ratio": "Low"
+      },
+      {
+        "name": "Platinum Ingot",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Copper Ore",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Silver Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Pearl",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Beast Summon [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Insect Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Common Gunpowder",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Gold Thread",
+        "ratio": "Low"
+      }
+    ],
+    "locations": [
+      "Mohenjodaro's Shadow",
+      "Mumbai Southeast"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161349324.jpg",
+      "Atlantica_20260925_161350911.jpg"
+    ]
+  },
+  {
+    "name": "Dark Harpy Mage",
+    "level": 51,
+    "attack_min": 310,
+    "attack_max": 535,
+    "experience": 3089,
+    "animal_type": "Evil Type",
+    "items": [
+      {
+        "name": "Thick Animal Bone",
+        "ratio": "Low"
+      },
+      {
+        "name": "Platinum Ingot",
+        "ratio": "Low"
+      },
+      {
+        "name": "Copper Ore",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Silver Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Pearl",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Beast Summon [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Insect Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Common Gunpowder",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Gold Thread",
+        "ratio": "Low"
+      }
+    ],
+    "locations": [
+      "Mohenjodaro's Shadow",
+      "Mumbai Southeast",
+      "Taraka's Well",
+      "Mumbai Southeast"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161351817.jpg",
+      "Atlantica_20260925_161353809.jpg",
+      "Atlantica_20260925_161357200.jpg",
+      "Atlantica_20260925_161358239.jpg"
+    ]
+  },
+  {
+    "name": "Dark High Commander",
+    "level": 120,
+    "attack_min": 15000,
+    "attack_max": 20000,
+    "experience": 220000,
+    "animal_type": "Human Type",
+    "items": [
+      {
+        "name": "Freezing Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Thin Rayon",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Tanzanite",
+        "ratio": "Low"
+      },
+      {
+        "name": "Ruby",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Blue Sapphire",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Gold Ingot",
+        "ratio": "Low"
+      },
+      {
+        "name": "Adamantium",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Oil",
+        "ratio": "Low"
+      },
+      {
+        "name": "Opal",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Platinum Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Conqueror's Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Divine Thunder [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Heaven's Fury [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Lightning Lash [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Storm Master [I]",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Dawn of Battle (Lv.100)",
+      "New York Northwest"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161359872.jpg",
+      "Atlantica_20260925_161400942.jpg",
+      "Atlantica_20260925_161405590.jpg",
+      "Atlantica_20260925_161406403.jpg"
+    ]
+  },
+  {
+    "name": "Dark Joyful Martian",
+    "level": 170,
+    "attack_min": 300000,
+    "attack_max": 330000,
+    "experience": 920000,
+    "animal_type": "Evil Type",
+    "items": [],
+    "locations": [
+      "Underground Temple of"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161408560.jpg"
+    ]
+  },
+  {
+    "name": "Dark Lancelot",
+    "level": 180,
+    "attack_min": 883949,
+    "attack_max": 1091596,
+    "experience": 10000000,
+    "animal_type": "Human Type",
+    "items": [],
+    "locations": [],
+    "source_screenshots": [
+      "Atlantica_20260925_161422410.jpg"
+    ]
+  },
+  {
+    "name": "Dark Lionman",
+    "level": 66,
+    "attack_min": 456,
+    "attack_max": 746,
+    "experience": 5919,
+    "animal_type": "Human Type",
+    "items": [
+      {
+        "name": "Growth Vial [II]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Enchant Stone [III]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Princess' Order [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Royal Signet [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Family Signet [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Imperial Signet [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Silver Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Gold Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Pearl",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Tanzanite",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Redemption Crystal",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Tribal Signet [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Bran Castle Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Dark Knight's Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Platinum Ingot",
+        "ratio": "Low"
+      },
+      {
+        "name": "Gold Thread",
+        "ratio": "Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Labyrinth 2B",
+      "Athens South",
+      "Betrayer's Hideout",
+      "Athens South"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161425309.jpg",
+      "Atlantica_20260925_161427513.jpg",
+      "Atlantica_20260925_161429363.jpg",
+      "Atlantica_20260925_161431754.jpg"
+    ]
+  },
+  {
+    "name": "Dark Marksman",
+    "level": 170,
+    "attack_min": 39443,
+    "attack_max": 52334,
+    "experience": 10000000,
+    "animal_type": "Human Type",
+    "items": [
+      {
+        "name": "Phoenix's Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Dragon God's Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Evil Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Pegasus Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Dark Pegasus Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Judgment Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Twilight Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Shimmering Opal",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Shimmering Sapphire",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Enriched Adamantium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Enhanced Titanium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Titanium Ingot",
+        "ratio": "Very High"
+      },
+      {
+        "name": "Shard Of Beginning",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Darkness Origin",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161433512.jpg",
+      "Atlantica_20260925_161434262.jpg",
+      "Atlantica_20260925_161434989.jpg",
+      "Atlantica_20260925_161435794.jpg"
+    ]
+  },
+  {
+    "name": "Dark Merlin",
+    "level": 190,
+    "attack_min": 1237529,
+    "attack_max": 1528234,
+    "experience": 14000000,
+    "animal_type": "Human Type",
+    "items": [],
+    "locations": [],
+    "source_screenshots": [
+      "Atlantica_20260925_161437598.jpg"
+    ]
+  },
+  {
+    "name": "Dark Moonlight Missionary",
+    "level": 167,
+    "attack_min": 640968,
+    "attack_max": 890220,
+    "experience": 2002342,
+    "animal_type": "Evil Type",
+    "items": [
+      {
+        "name": "LEGEND Evil Magic",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Astarte's Treasure Chest",
+        "ratio": "Very High"
+      },
+      {
+        "name": "Evil Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Fallen Power",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Ashur's Ring",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Phoenix's Equipment Box",
+        "ratio": "Low"
+      },
+      {
+        "name": "Dragon God's Equipment Box",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Moonlight Garden",
+      "Cairo South"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161439325.jpg",
+      "Atlantica_20260925_161440138.jpg"
+    ]
+  },
+  {
+    "name": "Dark Naga Sorceress",
+    "level": 11,
+    "attack_min": 85,
+    "attack_max": 145,
+    "experience": 72,
+    "animal_type": "Spirit Type",
+    "items": [
+      {
+        "name": "Spirit Equipment Box",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Healing Potion [I]",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Mana Potion [I]",
+        "ratio": "Low"
+      },
+      {
+        "name": "Life Potion [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Enchant Stone [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Commodity Box [I]",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [],
+    "source_screenshots": [
+      "Atlantica_20260925_161442215.jpg",
+      "Atlantica_20260925_161442965.jpg"
+    ]
+  },
+  {
+    "name": "Dark Naga Warrior",
+    "level": 10,
+    "attack_min": 80,
+    "attack_max": 140,
+    "experience": 67,
+    "animal_type": "Spirit Type",
+    "items": [
+      {
+        "name": "Spirit Equipment Box",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Healing Potion [I]",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Mana Potion [I]",
+        "ratio": "Low"
+      },
+      {
+        "name": "Life Potion [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Enchant Stone [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Commodity Box [I]",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Atlantis Outskirts",
+      "Dreaming Path Outpost"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161445294.jpg",
+      "Atlantica_20260925_161445997.jpg"
+    ]
+  },
+  {
+    "name": "Dark Priest",
+    "level": 108,
+    "attack_min": 2692,
+    "attack_max": 3868,
+    "experience": 42935,
+    "animal_type": "Evil Type",
+    "items": [
+      {
+        "name": "Silver Thread",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Gold Thread",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Tanzanite",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Ruby",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Blue Sapphire",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Gold Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Adamantium",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Oil",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Opal",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Platinum Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Gold Dragon Scale",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Conqueror's Equipment Box",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Constantinople Palace",
+      "Istanbul West"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161447325.jpg",
+      "Atlantica_20260925_161448121.jpg",
+      "Atlantica_20260925_161449052.jpg"
+    ]
+  },
+  {
+    "name": "Dark Pure Martian",
+    "level": 171,
+    "attack_min": 300000,
+    "attack_max": 330000,
+    "experience": 900000,
+    "animal_type": "Evil Type",
+    "items": [],
+    "locations": [
+      "Neighborhood",
+      "Underground Temple of"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161451434.jpg"
+    ]
+  },
+  {
+    "name": "Dark Queen's Archer",
+    "level": 105,
+    "attack_min": 2590,
+    "attack_max": 2845,
+    "experience": 41675,
+    "animal_type": "Human Type",
+    "items": [
+      {
+        "name": "Gold Thread",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Tanzanite",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Ruby",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Blue Sapphire",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Gold Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Adamantium",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Oil",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Opal",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Platinum Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Phoenix Crystal",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Light Slash [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Yggdrasil's Leaf",
+        "ratio": "Low"
+      },
+      {
+        "name": "Yggdrasil's Fruit",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Volcano Valley Equipment Box",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "The World Tree's Branch",
+      "Ostersund Northeast",
+      "Hel's Palace",
+      "Ostersund Northeast"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161453638.jpg",
+      "Atlantica_20260925_161454661.jpg",
+      "Atlantica_20260925_161455427.jpg",
+      "Atlantica_20260925_161456224.jpg",
+      "Atlantica_20260925_161458520.jpg",
+      "Atlantica_20260925_161459262.jpg",
+      "Atlantica_20260925_161500098.jpg",
+      "Atlantica_20260925_161500934.jpg"
+    ]
+  },
+  {
+    "name": "Dark Queen's Knight",
+    "level": 105,
+    "attack_min": 2467,
+    "attack_max": 2710,
+    "experience": 41675,
+    "animal_type": "Human Type",
+    "items": [
+      {
+        "name": "Gold Thread",
+        "ratio": "High"
+      },
+      {
+        "name": "Tanzanite",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Ruby",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Blue Sapphire",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Gold Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Adamantium",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Oil",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Opal",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Platinum Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Phoenix Crystal",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Light Slash [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Yggdrasil's Leaf",
+        "ratio": "Low"
+      },
+      {
+        "name": "Yggdrasil's Fruit",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Volcano Valley Equipment Box",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "The World Tree's Branch",
+      "Ostersund Northeast",
+      "Hel's Palace",
+      "Ostersund Northeast"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161502676.jpg",
+      "Atlantica_20260925_161503442.jpg",
+      "Atlantica_20260925_161504239.jpg",
+      "Atlantica_20260925_161505185.jpg",
+      "Atlantica_20260925_161506887.jpg",
+      "Atlantica_20260925_161508044.jpg",
+      "Atlantica_20260925_161509176.jpg",
+      "Atlantica_20260925_161510043.jpg"
+    ]
+  },
+  {
+    "name": "Dark Red Forest Unicorn",
+    "level": 130,
+    "attack_min": 35980,
+    "attack_max": 47172,
+    "experience": 382149,
+    "animal_type": "Spirit Type",
+    "items": [
+      {
+        "name": "Evil Soul Extract",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Adamantium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Opal",
+        "ratio": "Low"
+      },
+      {
+        "name": "Thin Rayon",
+        "ratio": "Very High"
+      },
+      {
+        "name": "Platinum Ingot",
+        "ratio": "Low"
+      },
+      {
+        "name": "Divine Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Phoenix's Equipment Box",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Red Forest of Spirits",
+      "Pyongyang East"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161511763.jpg",
+      "Atlantica_20260925_161512723.jpg"
+    ]
+  },
+  {
+    "name": "Dark Sea King's Royal Guards",
+    "level": 167,
+    "attack_min": 200000,
+    "attack_max": 250000,
+    "experience": 1000000,
+    "animal_type": "Spirit Type",
+    "items": [],
+    "locations": [
+      "Neighborhood",
+      "Dark Abyss"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161514934.jpg"
+    ]
+  },
+  {
+    "name": "Dark Sea Palace Head Maid",
+    "level": 165,
+    "attack_min": 130000,
+    "attack_max": 150000,
+    "experience": 550000,
+    "animal_type": "Spirit Type",
+    "items": [],
+    "locations": [
+      "Neighborhood",
+      "Dark Abyss"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161517161.jpg"
+    ]
+  },
+  {
+    "name": "Dark Vanguard Commander",
+    "level": 120,
+    "attack_min": 15000,
+    "attack_max": 20000,
+    "experience": 220000,
+    "animal_type": "Human Type",
+    "items": [
+      {
+        "name": "Freezing Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Thin Rayon",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Tanzanite",
+        "ratio": "Low"
+      },
+      {
+        "name": "Ruby",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Blue Sapphire",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Gold Ingot",
+        "ratio": "Low"
+      },
+      {
+        "name": "Adamantium",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Oil",
+        "ratio": "Low"
+      },
+      {
+        "name": "Opal",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Platinum Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Conqueror's Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Divine Thunder [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Heaven's Fury [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Lightning Lash [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Storm Master [I]",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Dawn of Battle (Lv. 120)",
+      "New York Northwest"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161518911.jpg",
+      "Atlantica_20260925_161519950.jpg",
+      "Atlantica_20260925_161520825.jpg",
+      "Atlantica_20260925_161521942.jpg"
+    ]
+  },
+  {
+    "name": "Dark Werewolf",
+    "level": 65,
+    "attack_min": 420,
+    "attack_max": 691,
+    "experience": 5663,
+    "animal_type": "Human Type",
+    "items": [
+      {
+        "name": "Growth Vial [II]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Enchant Stone [III]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Princess' Order [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Royal Signet [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Family Signet [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Imperial Signet [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Silver Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Gold Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Pearl",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Tanzanite",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Redemption Crystal",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Tribal Signet [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Bran Castle Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Dark Knight's Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Platinum Ingot",
+        "ratio": "Low"
+      },
+      {
+        "name": "Gold Thread",
+        "ratio": "Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Labyrinth 2B",
+      "Athens South",
+      "Betrayer's Hideout",
+      "Athens South"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161525113.jpg",
+      "Atlantica_20260925_161525942.jpg",
+      "Atlantica_20260925_161526856.jpg",
+      "Atlantica_20260925_161528278.jpg"
+    ]
+  },
+  {
+    "name": "Dark Wing",
+    "level": 50,
+    "attack_min": 963,
+    "attack_max": 1098,
+    "experience": 2652,
+    "animal_type": "",
+    "items": [
+      {
+        "name": "Growth Vial [II]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Embroidery Thread",
+        "ratio": "High"
+      },
+      {
+        "name": "Copper Ore",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Silver Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Pearl",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Northern Mohenjodaro",
+      "Mumbai Southeast"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161530333.jpg"
+    ]
+  },
+  {
+    "name": "Dark Wing Griffin",
+    "level": 64,
+    "attack_min": 480,
+    "attack_max": 720,
+    "experience": 5414,
+    "animal_type": "",
+    "items": [
+      {
+        "name": "Growth Vial [II]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Enchant Stone [III]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Princess' Order [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Royal Signet [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Family Signet [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Imperial Signet [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Silver Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Gold Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Pearl",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Tanzanite",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Tribal Signet [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Bran Castle Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Dark Knight's Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Weak Gunpowder",
+        "ratio": "Low"
+      },
+      {
+        "name": "Thick Animal Bone",
+        "ratio": "High"
+      },
+      {
+        "name": "Platinum Ingot",
+        "ratio": "Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Labyrinth 1B",
+      "Athens South",
+      "Betrayer's Hideout",
+      "Athens South"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161532411.jpg",
+      "Atlantica_20260925_161533387.jpg",
+      "Atlantica_20260925_161534247.jpg",
+      "Atlantica_20260925_161535411.jpg",
+      "Atlantica_20260925_161536357.jpg"
+    ]
+  },
+  {
+    "name": "Dark Wolf",
+    "level": 52,
+    "attack_min": 550,
+    "attack_max": 600,
+    "experience": 1980,
+    "animal_type": "",
+    "items": [
+      {
+        "name": "Garlic",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Potato",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Chicken",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Thick Animal Bone",
+        "ratio": "Low"
+      },
+      {
+        "name": "Large Animal Bone",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Growth Vial [II]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Embroidery Thread",
+        "ratio": "High"
+      },
+      {
+        "name": "Commodity Box [II]",
+        "ratio": "Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Southern Europe",
+      "Bordeaux Northeast"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161538254.jpg",
+      "Atlantica_20260925_161539114.jpg"
+    ]
+  },
+  {
+    "name": "Davy Jones",
+    "level": 141,
+    "attack_min": 27756,
+    "attack_max": 35887,
+    "experience": 55836,
+    "animal_type": "Human Type",
+    "items": [
+      {
+        "name": "Priceless Pirate Treasure",
+        "ratio": "High"
+      },
+      {
+        "name": "Emerald Fragment",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Deep Sea Pearl",
+        "ratio": "Very High"
+      },
+      {
+        "name": "Evil Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Dragon God's Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Phoenix's Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Ocean Blessing [I]",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Holy Crystal Cave"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161541161.jpg",
+      "Atlantica_20260925_161541943.jpg"
+    ]
+  },
+  {
+    "name": "Davy Jones' True Form",
+    "level": 175,
+    "attack_min": 519970,
+    "attack_max": 642115,
+    "experience": 1911220,
+    "animal_type": "",
+    "items": [
+      {
+        "name": "Pirate's Treasure Box",
+        "ratio": "Very High"
+      },
+      {
+        "name": "Davy Jones' Heart",
+        "ratio": "Very High"
+      }
+    ],
+    "locations": [],
+    "source_screenshots": [
+      "Atlantica_20260925_161544332.jpg"
+    ]
+  },
+  {
+    "name": "Dawn Dancer",
+    "level": 126,
+    "attack_min": 14862,
+    "attack_max": 18161,
+    "experience": 127408,
+    "animal_type": "Human Type",
+    "items": [
+      {
+        "name": "Volcano Valley Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Conqueror's Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Freezing Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Divine Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Oil",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Adamantium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Gold Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Platinum Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Opal",
+        "ratio": "Low"
+      },
+      {
+        "name": "Broken Crystal Shard",
+        "ratio": "Low"
+      },
+      {
+        "name": "Brainwashed Dusk Dancer",
+        "ratio": "Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Night Palace"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161607356.jpg",
+      "Atlantica_20260925_161608458.jpg",
+      "Atlantica_20260925_161609192.jpg"
+    ]
+  },
+  {
+    "name": "Dazzling Monk",
+    "level": 126,
+    "attack_min": 9127,
+    "attack_max": 9511,
+    "experience": 38200,
+    "animal_type": "Human Type",
+    "items": [
+      {
+        "name": "Oriental Mushroom",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Monster Egg",
+        "ratio": "Low"
+      },
+      {
+        "name": "Evil Soul Extract",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Oil",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Adamantium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Gold Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Platinum Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Opal",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Thin Rayon",
+        "ratio": "Low"
+      },
+      {
+        "name": "Dragon God's Wishstone",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Diabolic King's Summons",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Divine Equipment Box",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Saloon Annex",
+      "Chang An Northeast",
+      "Diabolic Headquarters",
+      "Chang An Northeast"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161610958.jpg",
+      "Atlantica_20260925_161611707.jpg",
+      "Atlantica_20260925_161613106.jpg"
+    ]
+  },
+  {
+    "name": "Dazzling Warrior",
+    "level": 125,
+    "attack_min": 9296,
+    "attack_max": 12773,
+    "experience": 37600,
+    "animal_type": "Human Type",
+    "items": [
+      {
+        "name": "Oriental Mushroom",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Monster Egg",
+        "ratio": "Low"
+      },
+      {
+        "name": "Evil Soul Extract",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Oil",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Adamantium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Gold Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Platinum Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Opal",
+        "ratio": "Low"
+      },
+      {
+        "name": "Thin Rayon",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Dragon God's Wishstone",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Brainwashed Enchanting Warrior",
+        "ratio": "Low"
+      },
+      {
+        "name": "Divine Equipment Box",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Saloon: 2F",
+      "Chang An Northeast",
+      "Diabolic Base II",
+      "Chang An Northeast"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161614607.jpg",
+      "Atlantica_20260925_161615411.jpg",
+      "Atlantica_20260925_161616316.jpg"
+    ]
+  },
+  {
+    "name": "Dead Sea King",
+    "level": 106,
+    "attack_min": 9232,
+    "attack_max": 10093,
+    "experience": 141152,
+    "animal_type": "Spirit Type",
+    "items": [
+      {
+        "name": "Star Stone: Blue Wolf [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Star Stone: Blue Scorpion [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Orb Of Forbidden Abyss",
+        "ratio": "Low"
+      },
+      {
+        "name": "Vulcan's Hammer",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Freezing Equipment Box",
+        "ratio": "Low"
+      },
+      {
+        "name": "Conqueror's Equipment Box",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Shogun's Equipment Box",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Volcano Valley Equipment Box",
+        "ratio": "Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Forbidden Abyss"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161618582.jpg",
+      "Atlantica_20260925_161619410.jpg"
+    ]
+  },
+  {
+    "name": "Deadly Cobra",
+    "level": 161,
+    "attack_min": 108376,
+    "attack_max": 141556,
+    "experience": 542708,
+    "animal_type": "",
+    "items": [
+      {
+        "name": "Sorcerer's Mask",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Root Of Life",
+        "ratio": "Low"
+      },
+      {
+        "name": "Titanium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Adamantium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Platinum Ingot",
+        "ratio": "Low"
+      },
+      {
+        "name": "Ruby",
+        "ratio": "Low"
+      },
+      {
+        "name": "Opal",
+        "ratio": "Low"
+      },
+      {
+        "name": "Blue Sapphire",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Vindictive Soul Imprint",
+        "ratio": "Low"
+      },
+      {
+        "name": "Book: Purifying Path [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Retribution [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Divine Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Phoenix's Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Dragon God's Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Evil Equipment Box",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Zulu Village",
+      "Kinshasa West",
+      "Ravenous Valley",
+      "Kinshasa West"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161621130.jpg",
+      "Atlantica_20260925_161621950.jpg",
+      "Atlantica_20260925_161623396.jpg",
+      "Atlantica_20260925_161625005.jpg"
+    ]
+  },
+  {
+    "name": "Deadly Street Lamp",
+    "level": 128,
+    "attack_min": 13210,
+    "attack_max": 16548,
+    "experience": 69845,
+    "animal_type": "Metal Type",
+    "items": [
+      {
+        "name": "Adamantium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Titanium Ore",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Opal",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Platinum Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Monster Egg",
+        "ratio": "Low"
+      },
+      {
+        "name": "Evil Soul Extract",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Dragon God's Ire",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Dragon God's Wishstone",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Van Gogh's Soul Stone",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Phoenix's Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Cafe Alley Key",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Cafe Terrace at Night",
+      "Paris Southeast",
+      "Cafe Alley",
+      "Paris Southeast"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161626864.jpg",
+      "Atlantica_20260925_161628652.jpg",
+      "Atlantica_20260925_161629770.jpg"
+    ]
+  },
+  {
+    "name": "Death Apostle of Chaos",
+    "level": 180,
+    "attack_min": 6614280,
+    "attack_max": 6814380,
+    "experience": 1421894,
+    "animal_type": "Human Type",
+    "items": [],
+    "locations": [],
+    "source_screenshots": [
+      "Atlantica_20260925_161632239.jpg"
+    ]
+  },
+  {
+    "name": "Death Guide",
+    "level": 83,
+    "attack_min": 1059,
+    "attack_max": 1552,
+    "experience": 9438,
+    "animal_type": "Human Type",
+    "items": [
+      {
+        "name": "Energy of Atmosphere",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Energy of Wind",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Pearl",
+        "ratio": "Low"
+      },
+      {
+        "name": "Gold Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Oil",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Silver Ingot",
+        "ratio": "Low"
+      },
+      {
+        "name": "Ruby",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Enhance Stone [II]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Pyramid Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Osiris' Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Frozen Soul",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Resting Place of the Dead",
+      "Cairo West"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161634090.jpg",
+      "Atlantica_20260925_161635020.jpg",
+      "Atlantica_20260925_161635848.jpg"
+    ]
+  },
+  {
+    "name": "Death Messenger",
+    "level": 125,
+    "attack_min": 361,
+    "attack_max": 654,
+    "experience": 54600,
+    "animal_type": "Evil Type",
+    "items": [
+      {
+        "name": "Oriental Mushroom",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Monster Egg",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Evil Soul Extract",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Tanzanite",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Ruby",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Blue Sapphire",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Gold Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Adamantium",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Opal",
+        "ratio": "Low"
+      },
+      {
+        "name": "Platinum Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Dragon God's Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Evil Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Phoenix Crystal",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Pyramid Site",
+      "Cairo Northwest"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161637841.jpg",
+      "Atlantica_20260925_161638739.jpg",
+      "Atlantica_20260925_161641754.jpg"
+    ]
+  },
+  {
+    "name": "Death Mummy Spirit",
+    "level": 166,
+    "attack_min": 121446,
+    "attack_max": 152323,
+    "experience": 573609,
+    "animal_type": "Devil Type",
+    "items": [
+      {
+        "name": "Transcendent Lustrous Ring",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Transcendent Gale Ring",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Transcendent Earth Ring",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Transcendent Flame Ring",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Shimmering Opal",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Shimmering Sapphire",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Blue Sapphire",
+        "ratio": "Low"
+      },
+      {
+        "name": "Titanium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Enhanced Titanium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Adamantium Ingot",
+        "ratio": "Low"
+      },
+      {
+        "name": "Enriched Adamantium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Anarchy Stone",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Phoenix's Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Dragon God's Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Evil Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Pegasus Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Oriharukon",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Transcendent Emblem",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Gateway of Death",
+      "Cairo Southwest",
+      "Transcendent Cell",
+      "Cairo Southwest"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161643879.jpg",
+      "Atlantica_20260925_161644824.jpg",
+      "Atlantica_20260925_161645669.jpg",
+      "Atlantica_20260925_161646481.jpg",
+      "Atlantica_20260925_161647293.jpg",
+      "Atlantica_20260925_161648294.jpg"
+    ]
+  },
+  {
+    "name": "Death Protector Spirit",
+    "level": 167,
+    "attack_min": 121446,
+    "attack_max": 152323,
+    "experience": 573609,
+    "animal_type": "Devil Type",
+    "items": [
+      {
+        "name": "Transcendent Lustrous Ring",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Transcendent Gale Ring",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Transcendent Earth Ring",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Transcendent Flame Ring",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Shimmering Opal",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Shimmering Sapphire",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Blue Sapphire",
+        "ratio": "Low"
+      },
+      {
+        "name": "Titanium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Enhanced Titanium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Adamantium Ingot",
+        "ratio": "Low"
+      },
+      {
+        "name": "Enriched Adamantium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Anarchy Stone",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Phoenix's Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Dragon God's Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Evil Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Pegasus Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Oriharukon",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Transcendent Emblem",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Gateway of Death",
+      "Cairo Southwest",
+      "Transcendent Cell",
+      "Cairo Southwest"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161650067.jpg",
+      "Atlantica_20260925_161650825.jpg",
+      "Atlantica_20260925_161651606.jpg",
+      "Atlantica_20260925_161652347.jpg",
+      "Atlantica_20260925_161653294.jpg"
+    ]
+  },
+  {
+    "name": "Death Row Inmate",
+    "level": 175,
+    "attack_min": 619970,
+    "attack_max": 642115,
+    "experience": 1838302,
+    "animal_type": "Evil Type",
+    "items": [
+      {
+        "name": "Volcano Valley Equipment Box",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Conqueror's Equipment Box",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Prison Officer's Safe",
+        "ratio": "High"
+      },
+      {
+        "name": "Freezing Equipment Box",
+        "ratio": "Low"
+      },
+      {
+        "name": "Divine Equipment Box",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Solitary Cell of Al Capor",
+      "Vancouver Southwest"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161655309.jpg"
+    ]
+  },
+  {
+    "name": "Decrepit High Priest",
+    "level": 124,
+    "attack_min": 40735,
+    "attack_max": 44439,
+    "experience": 147704,
+    "animal_type": "Human Type",
+    "items": [
+      {
+        "name": "Adamantium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Oriental Mushroom",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Gold Ingot",
+        "ratio": "Low"
+      },
+      {
+        "name": "Platinum Ingot",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Thin Rayon",
+        "ratio": "Low"
+      },
+      {
+        "name": "Opal",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Divine Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Athena's Protection [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Shield Bash [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Weapon Rend [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Freezing Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Evil Imprint",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Saving Helen",
+      "Athens East",
+      "Troy's Last Battle",
+      "Athens East",
+      "Hidden Power",
+      "Athens East"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161657387.jpg",
+      "Atlantica_20260925_161658239.jpg",
+      "Atlantica_20260925_161659005.jpg",
+      "Atlantica_20260925_161659879.jpg"
+    ]
+  },
+  {
+    "name": "Deep Abyss Assassin",
+    "level": 180,
+    "attack_min": 6214280,
+    "attack_max": 6414380,
+    "experience": 1001894,
+    "animal_type": "Human Type",
+    "items": [],
+    "locations": [],
+    "source_screenshots": [
+      "Atlantica_20260925_161701669.jpg"
+    ]
+  },
+  {
+    "name": "Deep Chaos Earth Warrior",
+    "level": 180,
+    "attack_min": 6214280,
+    "attack_max": 6414380,
+    "experience": 1001894,
+    "animal_type": "Human Type",
+    "items": [],
+    "locations": [],
+    "source_screenshots": [
+      "Atlantica_20260925_161703254.jpg"
+    ]
+  },
+  {
+    "name": "Deep Chaos Hell Beast",
+    "level": 180,
+    "attack_min": 6214280,
+    "attack_max": 6414380,
+    "experience": 1001894,
+    "animal_type": "Human Type",
+    "items": [],
+    "locations": [],
+    "source_screenshots": [
+      "Atlantica_20260925_161705075.jpg"
+    ]
+  },
+  {
+    "name": "Deep Chaos Nightmare",
+    "level": 180,
+    "attack_min": 6214280,
+    "attack_max": 6414380,
+    "experience": 1001894,
+    "animal_type": "Human Type",
+    "items": [],
+    "locations": [],
+    "source_screenshots": [
+      "Atlantica_20260925_161706770.jpg"
+    ]
+  },
+  {
+    "name": "Deep Despair",
+    "level": 9,
+    "attack_min": 158,
+    "attack_max": 200,
+    "experience": 48,
+    "animal_type": "Spirit Type",
+    "items": [
+      {
+        "name": "Spirit Equipment Box",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Healing Potion [I]",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Mana Potion [I]",
+        "ratio": "Low"
+      },
+      {
+        "name": "Life Potion [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Enchant Stone [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Commodity Box [I]",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Atlantis Outskirts",
+      "Dreaming Path Outpost"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161708309.jpg",
+      "Atlantica_20260925_161709403.jpg"
+    ]
+  },
+  {
+    "name": "Deep Sea Beast",
+    "level": 133,
+    "attack_min": 38962,
+    "attack_max": 39939,
+    "experience": 24015,
+    "animal_type": "",
+    "items": [
+      {
+        "name": "Ruby",
+        "ratio": "Low"
+      },
+      {
+        "name": "Blue Sapphire",
+        "ratio": "Low"
+      },
+      {
+        "name": "Titanium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Normal Dynamite",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Ocean Blessing [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Divine Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Phoenix's Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Dragon God's Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Evil Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Deep Sea Pearl",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Emerald Fragment",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "[Event] Valuables Of The Demon Beast",
+        "ratio": "Very High"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Holy Crystal Cave"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161711598.jpg",
+      "Atlantica_20260925_161712411.jpg",
+      "Atlantica_20260925_161714466.jpg"
+    ]
+  },
+  {
+    "name": "Deep Sea Soldier",
+    "level": 121,
+    "attack_min": 8568,
+    "attack_max": 9325,
+    "experience": 29930,
+    "animal_type": "",
+    "items": [
+      {
+        "name": "Platinum Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Tanzanite",
+        "ratio": "Low"
+      },
+      {
+        "name": "Opal",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Monster Egg",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Oriental Mushroom",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Adamantium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Aquatic Barrier [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Conqueror's Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Freezing Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Divine Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Phoenix's Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Deep Sea Pearl",
+        "ratio": "Low"
+      },
+      {
+        "name": "Turkey",
+        "ratio": "Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Occupied Coast"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161716668.jpg",
+      "Atlantica_20260925_161717575.jpg",
+      "Atlantica_20260925_161721356.jpg"
+    ]
+  },
+  {
+    "name": "Deep abyss sniper",
+    "level": 180,
+    "attack_min": 6214280,
+    "attack_max": 6414380,
+    "experience": 1001894,
+    "animal_type": "Human Type",
+    "items": [],
+    "locations": [],
+    "source_screenshots": [
+      "Atlantica_20260925_161723833.jpg"
+    ]
+  },
+  {
+    "name": "Deep-Sea Boatswain",
+    "level": 194,
+    "attack_min": 42147,
+    "attack_max": 86594,
+    "experience": 1021732,
+    "animal_type": "Human Type",
+    "items": [
+      {
+        "name": "Thick Animal Bone",
+        "ratio": "Low"
+      },
+      {
+        "name": "Ruby",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Platinum Ingot",
+        "ratio": "Low"
+      },
+      {
+        "name": "Hero's Blood",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Revival Plant",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Freezing Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Volcano Valley Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Conqueror's Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Divine Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Toxic Sword [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Blood Vengeance [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Crimson Blade [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Enhance Stone [III]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Marauder's Edge [I]",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Davy Jones' Locker",
+      "New York Southwest"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161725521.jpg",
+      "Atlantica_20260925_161726403.jpg",
+      "Atlantica_20260925_161727528.jpg",
+      "Atlantica_20260925_161728443.jpg",
+      "Atlantica_20260925_161729403.jpg"
+    ]
+  },
+  {
+    "name": "Deep-Sea Guardian",
+    "level": 100,
+    "attack_min": 2431,
+    "attack_max": 3601,
+    "experience": 72600,
+    "animal_type": "Spirit Type",
+    "items": [
+      {
+        "name": "Osiris' Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Shogun's Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Volcano Valley Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Gold Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Adamantium",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Oil",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Ruby",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Tanzanite",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Opal",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Platinum Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Star Stone: Blue Scorpion [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Star Stone: Blue Wolf [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Water Dragon Scale",
+        "ratio": "Low"
+      },
+      {
+        "name": "Vulcan's Hammer",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Conqueror's Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Turkey",
+        "ratio": "Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Forbidden Abyss"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161731778.jpg",
+      "Atlantica_20260925_161732770.jpg",
+      "Atlantica_20260925_161733685.jpg",
+      "Atlantica_20260925_161734918.jpg"
+    ]
+  },
+  {
+    "name": "Deep-Sea Ice Golem",
+    "level": 107,
+    "attack_min": 4279,
+    "attack_max": 6365,
+    "experience": 46012,
+    "animal_type": "Ice Type",
+    "items": [
+      {
+        "name": "Freezing Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Energy of Atmosphere",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Energy of Hail",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Energy of Sky",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Energy of Wind",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Big Slab of Lumber",
+        "ratio": "Low"
+      },
+      {
+        "name": "Tanzanite",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Ruby",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Blue Sapphire",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Gold Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Adamantium",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Oil",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Opal",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Platinum Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Ice Key",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Conqueror's Equipment Box",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Ice Tunnel",
+      "Ostersund Northwest",
+      "Lonely Ice Square",
+      "Ostersund Northwest",
+      "The Heart of Adlivun",
+      "Ostersund Northwest",
+      "Room of Ice Mirrors",
+      "Oslo North"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161740270.jpg",
+      "Atlantica_20260925_161741208.jpg",
+      "Atlantica_20260925_161741887.jpg",
+      "Atlantica_20260925_161742841.jpg"
+    ]
+  },
+  {
+    "name": "Deiphobus",
+    "level": 135,
+    "attack_min": 133893,
+    "attack_max": 142398,
+    "experience": 537733,
+    "animal_type": "Human Type",
+    "items": [
+      {
+        "name": "Phoenix's Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Athena's Protection [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Freezing Equipment Box",
+        "ratio": "High"
+      },
+      {
+        "name": "Divine Equipment Box",
+        "ratio": "Low"
+      },
+      {
+        "name": "Conqueror's Equipment Box",
+        "ratio": "High"
+      },
+      {
+        "name": "Evil Imprint",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Adamantium Ingot",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Saving Helen",
+      "Athens East"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161756285.jpg",
+      "Atlantica_20260925_161757137.jpg"
+    ]
+  },
+  {
+    "name": "Delicate Looter",
+    "level": 119,
+    "attack_min": 7998,
+    "attack_max": 9597,
+    "experience": 28260,
+    "animal_type": "Human Type",
+    "items": [
+      {
+        "name": "Divine Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Thin Rayon",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Tanzanite",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Ruby",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Blue Sapphire",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Gold Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Adamantium",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Oil",
+        "ratio": "Low"
+      },
+      {
+        "name": "Opal",
+        "ratio": "Low"
+      },
+      {
+        "name": "Platinum Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Phoenix's Feather",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Vulcan's Hammer",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Oriental Mushroom",
+        "ratio": "Medium"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Central Asia",
+      "Chang An West",
+      "Fowlman's Room",
+      "Chang An West"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161801396.jpg",
+      "Atlantica_20260925_161802465.jpg",
+      "Atlantica_20260925_161805224.jpg"
+    ]
+  },
+  {
+    "name": "Delinquent",
+    "level": 155,
+    "attack_min": 45000,
+    "attack_max": 55000,
+    "experience": 450000,
+    "animal_type": "Human Type",
+    "items": [
+      {
+        "name": "Sorcerer's Mask",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Root Of Life",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Titanium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Adamantium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Ruby",
+        "ratio": "Low"
+      },
+      {
+        "name": "Opal",
+        "ratio": "Low"
+      },
+      {
+        "name": "Platinum Ingot",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Blue Sapphire",
+        "ratio": "Low"
+      },
+      {
+        "name": "Vindictive Soul Imprint",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Divine Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Phoenix's Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Dragon God's Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Evil Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Pegasus Equipment Box",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Rundown Stage",
+      "New York Northwest",
+      "Bellowing Walls",
+      "New York Northwest"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161807371.jpg",
+      "Atlantica_20260925_161808919.jpg",
+      "Atlantica_20260925_161813575.jpg",
+      "Atlantica_20260925_161814481.jpg"
+    ]
+  },
+  {
+    "name": "Delusional Ninja",
+    "level": 88,
+    "attack_min": 1301,
+    "attack_max": 1852,
+    "experience": 32703,
+    "animal_type": "Evil Type",
+    "items": [
+      {
+        "name": "Book of Knowledge",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book of Wisdom",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book of Anguish",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Pearl",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Gold Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Silver Ingot",
+        "ratio": "Low"
+      },
+      {
+        "name": "Oil",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Ruby",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Smoke Bomb [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Vulcan's Hammer",
+        "ratio": "Low"
+      },
+      {
+        "name": "Ghost Mask",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Shogun's Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Platinum Ingot",
+        "ratio": "Low"
+      },
+      {
+        "name": "Thick Animal Bone",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Garden of Withered Flowers",
+      "Tokyo West"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161816278.jpg",
+      "Atlantica_20260925_161817395.jpg",
+      "Atlantica_20260925_161818090.jpg",
+      "Atlantica_20260925_161818778.jpg"
+    ]
+  },
+  {
+    "name": "Delusional Official",
+    "level": 127,
+    "attack_min": 10536,
+    "attack_max": 13127,
+    "experience": 55800,
+    "animal_type": "Human Type",
+    "items": [
+      {
+        "name": "Monster Egg",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Evil Soul Extract",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Oil",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Adamantium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Gold Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Platinum Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Opal",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Thin Rayon",
+        "ratio": "Low"
+      },
+      {
+        "name": "Phoenix's Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Dragon God's Wishstone",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Headquarter Pass",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Divine Equipment Box",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [],
+    "source_screenshots": [
+      "Atlantica_20260925_161820395.jpg",
+      "Atlantica_20260925_161821270.jpg",
+      "Atlantica_20260925_161822161.jpg",
+      "Atlantica_20260925_161822910.jpg"
+    ]
+  },
+  {
+    "name": "Delusional Soldier",
+    "level": 125,
+    "attack_min": 10599,
+    "attack_max": 14581,
+    "experience": 54600,
+    "animal_type": "Human Type",
+    "items": [
+      {
+        "name": "Oil",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Adamantium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Gold Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Platinum Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Opal",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Thin Rayon",
+        "ratio": "Low"
+      },
+      {
+        "name": "Oriental Mushroom",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Monster Egg",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Evil Soul Extract",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Base I Pass",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Dragon God's Wishstone",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Divine Equipment Box",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [],
+    "source_screenshots": [
+      "Atlantica_20260925_161824513.jpg",
+      "Atlantica_20260925_161825270.jpg",
+      "Atlantica_20260925_161826676.jpg"
+    ]
+  },
+  {
+    "name": "Delusional Worker",
+    "level": 119,
+    "attack_min": 5568,
+    "attack_max": 8004,
+    "experience": 26244,
+    "animal_type": "Human Type",
+    "items": [
+      {
+        "name": "Thin Rayon",
+        "ratio": "Low"
+      },
+      {
+        "name": "Freezing Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Tanzanite",
+        "ratio": "Low"
+      },
+      {
+        "name": "Ruby",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Blue Sapphire",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Gold Ingot",
+        "ratio": "Low"
+      },
+      {
+        "name": "Adamantium",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Oil",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Opal",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Platinum Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Loading Chamber's Key",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Power Saw Raid [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Broken Arrows [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Sacrificial Awakening [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Vulcan's Hammer",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Conqueror's Equipment Box",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Loading Dock",
+      "New York Northwest",
+      "Loading Chamber",
+      "New York Northwest"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161828262.jpg",
+      "Atlantica_20260925_161829067.jpg",
+      "Atlantica_20260925_161830184.jpg",
+      "Atlantica_20260925_161831255.jpg",
+      "Atlantica_20260925_161831958.jpg"
+    ]
+  },
+  {
+    "name": "Demeian Agent",
+    "level": 174,
+    "attack_min": 185468,
+    "attack_max": 234215,
+    "experience": 602092,
+    "animal_type": "Human Type",
+    "items": [
+      {
+        "name": "Blue Sapphire",
+        "ratio": "Low"
+      },
+      {
+        "name": "Titanium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Enhanced Titanium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Adamantium Ingot",
+        "ratio": "Low"
+      },
+      {
+        "name": "Enriched Adamantium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Root Of Life",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Oriharukon",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Evil Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Pegasus Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Judgment Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "LEGEND Evil Ranged",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Enchanted Pegasus Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Corrupted Unicorn Tear",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Fragrant Spice",
+        "ratio": "Low"
+      },
+      {
+        "name": "Demeian Sanctum Key",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Cubic Sanctum",
+      "Perth East",
+      "Demeian Sanctum",
+      "Perth East"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161833575.jpg",
+      "Atlantica_20260925_161834536.jpg",
+      "Atlantica_20260925_161835465.jpg",
+      "Atlantica_20260925_161836325.jpg",
+      "Atlantica_20260925_161837137.jpg"
+    ]
+  },
+  {
+    "name": "Demeian Assassin",
+    "level": 174,
+    "attack_min": 185468,
+    "attack_max": 234215,
+    "experience": 602092,
+    "animal_type": "Human Type",
+    "items": [
+      {
+        "name": "Blue Sapphire",
+        "ratio": "Low"
+      },
+      {
+        "name": "Titanium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Enhanced Titanium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Adamantium Ingot",
+        "ratio": "Low"
+      },
+      {
+        "name": "Enriched Adamantium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Root Of Life",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Oriharukon",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Evil Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Pegasus Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Judgment Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "LEGEND Evil Ranged",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Enchanted Pegasus Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Corrupted Unicorn Tear",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Fragrant Spice",
+        "ratio": "Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Cubic Sanctum",
+      "Perth East"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161839763.jpg",
+      "Atlantica_20260925_161840872.jpg",
+      "Atlantica_20260925_161841810.jpg",
+      "Atlantica_20260925_161842755.jpg"
+    ]
+  },
+  {
+    "name": "Demeian Beast Master",
+    "level": 170,
+    "attack_min": 157234,
+    "attack_max": 195421,
+    "experience": 621770,
+    "animal_type": "",
+    "items": [
+      {
+        "name": "Blue Sapphire",
+        "ratio": "Low"
+      },
+      {
+        "name": "Titanium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Enhanced Titanium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Adamantium Ingot",
+        "ratio": "Low"
+      },
+      {
+        "name": "Enriched Adamantium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Root Of Life",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Oriharukon",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Evil Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Pegasus Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Judgment Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "LEGEND Evil Ranged",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Enchanted Pegasus Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Corrupted Unicorn Tear",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Fragrant Spice",
+        "ratio": "Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Uluru Outskirts",
+      "Perth East"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161844598.jpg",
+      "Atlantica_20260925_161845598.jpg",
+      "Atlantica_20260925_161846512.jpg",
+      "Atlantica_20260925_161847512.jpg"
+    ]
+  },
+  {
+    "name": "Demeian Berserker",
+    "level": 170,
+    "attack_min": 157234,
+    "attack_max": 195421,
+    "experience": 621770,
+    "animal_type": "Human Type",
+    "items": [
+      {
+        "name": "Blue Sapphire",
+        "ratio": "Low"
+      },
+      {
+        "name": "Titanium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Enhanced Titanium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Adamantium Ingot",
+        "ratio": "Low"
+      },
+      {
+        "name": "Enriched Adamantium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Root Of Life",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Oriharukon",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Evil Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Pegasus Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Judgment Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "LEGEND Evil Ranged",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Enchanted Pegasus Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Corrupted Unicorn Tear",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Fragrant Spice",
+        "ratio": "Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Uluru Outskirts",
+      "Perth East"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161850489.jpg",
+      "Atlantica_20260925_161851396.jpg",
+      "Atlantica_20260925_161852325.jpg",
+      "Atlantica_20260925_161853363.jpg"
+    ]
+  },
+  {
+    "name": "Demeian Chancellor",
+    "level": 182,
+    "attack_min": 300000,
+    "attack_max": 375215,
+    "experience": 1125310,
+    "animal_type": "Metal Type",
+    "items": [
+      {
+        "name": "Oriharukon",
+        "ratio": "High"
+      },
+      {
+        "name": "Evil Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Pegasus Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Judgment Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "LEGEND Evil Ranged",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Enchanted Pegasus Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Corrupted Unicorn Tear",
+        "ratio": "High"
+      },
+      {
+        "name": "Fragrant Spice",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Demeian Sanctum Key",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Cubic Sanctum",
+      "Perth East"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161904129.jpg",
+      "Atlantica_20260925_161904942.jpg",
+      "Atlantica_20260925_161905919.jpg"
+    ]
+  },
+  {
+    "name": "Demeian Guard",
+    "level": 172,
+    "attack_min": 169785,
+    "attack_max": 214423,
+    "experience": 633384,
+    "animal_type": "",
+    "items": [
+      {
+        "name": "Blue Sapphire",
+        "ratio": "Low"
+      },
+      {
+        "name": "Titanium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Enhanced Titanium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Adamantium Ingot",
+        "ratio": "Low"
+      },
+      {
+        "name": "Enriched Adamantium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Root Of Life",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Oriharukon",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Evil Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Pegasus Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Judgment Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "LEGEND Evil Ranged",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Enchanted Pegasus Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Corrupted Unicorn Tear",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Fragrant Spice",
+        "ratio": "Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Uluru Interior",
+      "Perth East",
+      "Cubic Sanctum",
+      "Perth East",
+      "Demeian Sanctum",
+      "Perth East"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161907864.jpg",
+      "Atlantica_20260925_161908934.jpg",
+      "Atlantica_20260925_161909707.jpg",
+      "Atlantica_20260925_161910708.jpg"
+    ]
+  },
+  {
+    "name": "Demeian Noble Guardian",
+    "level": 174,
+    "attack_min": 185468,
+    "attack_max": 234215,
+    "experience": 602092,
+    "animal_type": "Human Type",
+    "items": [
+      {
+        "name": "Blue Sapphire",
+        "ratio": "Low"
+      },
+      {
+        "name": "Titanium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Enhanced Titanium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Adamantium Ingot",
+        "ratio": "Low"
+      },
+      {
+        "name": "Enriched Adamantium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Root Of Life",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Oriharukon",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Evil Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Pegasus Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Judgment Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "LEGEND Evil Ranged",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Enchanted Pegasus Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Corrupted Unicorn Tear",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Fragrant Spice",
+        "ratio": "Low"
+      },
+      {
+        "name": "Demeian Sanctum Key",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Cubic Sanctum",
+      "Perth East",
+      "Demeian Sanctum",
+      "Perth East"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161912582.jpg",
+      "Atlantica_20260925_161913598.jpg",
+      "Atlantica_20260925_161914473.jpg",
+      "Atlantica_20260925_161915575.jpg"
+    ]
+  },
+  {
+    "name": "Demeian Palace Guardian",
+    "level": 174,
+    "attack_min": 185468,
+    "attack_max": 234215,
+    "experience": 602092,
+    "animal_type": "Human Type",
+    "items": [
+      {
+        "name": "Blue Sapphire",
+        "ratio": "Low"
+      },
+      {
+        "name": "Titanium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Enhanced Titanium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Adamantium Ingot",
+        "ratio": "Low"
+      },
+      {
+        "name": "Enriched Adamantium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Oriharukon",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Evil Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Pegasus Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Judgment Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "LEGEND Evil Ranged",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Enchanted Pegasus Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Corrupted Unicorn Tear",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Fragrant Spice",
+        "ratio": "Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Cubic Sanctum",
+      "Perth East",
+      "Demeian Sanctum",
+      "Perth East"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161917364.jpg",
+      "Atlantica_20260925_161918512.jpg",
+      "Atlantica_20260925_161919427.jpg"
+    ]
+  },
+  {
+    "name": "Demeian Patroller",
+    "level": 170,
+    "attack_min": 157234,
+    "attack_max": 195421,
+    "experience": 621770,
+    "animal_type": "Human Type",
+    "items": [
+      {
+        "name": "Blue Sapphire",
+        "ratio": "Low"
+      },
+      {
+        "name": "Titanium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Enhanced Titanium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Adamantium Ingot",
+        "ratio": "Low"
+      },
+      {
+        "name": "Enriched Adamantium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Root Of Life",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Oriharukon",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Evil Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Pegasus Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Judgment Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "LEGEND Evil Ranged",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Enchanted Pegasus Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Corrupted Unicorn Tear",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Fragrant Spice",
+        "ratio": "Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Uluru Outskirts",
+      "Perth East"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161920692.jpg",
+      "Atlantica_20260925_161922871.jpg",
+      "Atlantica_20260925_161923801.jpg",
+      "Atlantica_20260925_161924684.jpg"
+    ]
+  },
+  {
+    "name": "Demeian Ranger",
+    "level": 170,
+    "attack_min": 157234,
+    "attack_max": 195421,
+    "experience": 621770,
+    "animal_type": "Human Type",
+    "items": [
+      {
+        "name": "Blue Sapphire",
+        "ratio": "Low"
+      },
+      {
+        "name": "Titanium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Enhanced Titanium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Adamantium Ingot",
+        "ratio": "Low"
+      },
+      {
+        "name": "Enriched Adamantium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Root Of Life",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Oriharukon",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Evil Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Pegasus Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Judgment Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "LEGEND Evil Ranged",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Enchanted Pegasus Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Corrupted Unicorn Tear",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Fragrant Spice",
+        "ratio": "Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Uluru Outskirts",
+      "Perth East"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161925661.jpg",
+      "Atlantica_20260925_161927684.jpg",
+      "Atlantica_20260925_161928708.jpg",
+      "Atlantica_20260925_161929660.jpg"
+    ]
+  },
+  {
+    "name": "Demeian Scout",
+    "level": 170,
+    "attack_min": 157234,
+    "attack_max": 195421,
+    "experience": 621770,
+    "animal_type": "Human Type",
+    "items": [
+      {
+        "name": "Blue Sapphire",
+        "ratio": "Low"
+      },
+      {
+        "name": "Titanium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Enhanced Titanium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Adamantium Ingot",
+        "ratio": "Low"
+      },
+      {
+        "name": "Enriched Adamantium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Root Of Life",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Oriharukon",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Evil Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Pegasus Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Judgment Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "LEGEND Evil Ranged",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Enchanted Pegasus Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Corrupted Unicorn Tear",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Fragrant Spice",
+        "ratio": "Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Uluru Outskirts",
+      "Perth East"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161930692.jpg",
+      "Atlantica_20260925_161933192.jpg",
+      "Atlantica_20260925_161934121.jpg",
+      "Atlantica_20260925_161935169.jpg"
+    ]
+  },
+  {
+    "name": "Demeian Soldier",
+    "level": 172,
+    "attack_min": 169785,
+    "attack_max": 214423,
+    "experience": 633384,
+    "animal_type": "",
+    "items": [
+      {
+        "name": "Blue Sapphire",
+        "ratio": "Low"
+      },
+      {
+        "name": "Titanium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Enhanced Titanium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Adamantium Ingot",
+        "ratio": "Low"
+      },
+      {
+        "name": "Enriched Adamantium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Root Of Life",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Oriharukon",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Evil Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Pegasus Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Judgment Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "LEGEND Evil Ranged",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Enchanted Pegasus Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Corrupted Unicorn Tear",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Fragrant Spice",
+        "ratio": "Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Uluru Interior",
+      "Perth East",
+      "Cubic Sanctum",
+      "Perth East",
+      "Demeian Sanctum",
+      "Perth East"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161936403.jpg",
+      "Atlantica_20260925_161941067.jpg",
+      "Atlantica_20260925_161941965.jpg",
+      "Atlantica_20260925_161942982.jpg"
+    ]
+  },
+  {
+    "name": "Demeian Warrior",
+    "level": 170,
+    "attack_min": 157234,
+    "attack_max": 195421,
+    "experience": 621770,
+    "animal_type": "Human Type",
+    "items": [
+      {
+        "name": "Blue Sapphire",
+        "ratio": "Low"
+      },
+      {
+        "name": "Titanium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Enhanced Titanium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Adamantium Ingot",
+        "ratio": "Low"
+      },
+      {
+        "name": "Enriched Adamantium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Root Of Life",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Oriharukon",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Evil Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Pegasus Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Judgment Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "LEGEND Evil Ranged",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Enchanted Pegasus Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Corrupted Unicorn Tear",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Fragrant Spice",
+        "ratio": "Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Uluru Outskirts",
+      "Perth East"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161944075.jpg",
+      "Atlantica_20260925_161946418.jpg",
+      "Atlantica_20260925_161947418.jpg",
+      "Atlantica_20260925_161948465.jpg"
+    ]
+  },
+  {
+    "name": "Demonic Boatman",
+    "level": 122,
+    "attack_min": 9182,
+    "attack_max": 11576,
+    "experience": 28710,
+    "animal_type": "Devil Type",
+    "items": [
+      {
+        "name": "Big Slab of Lumber",
+        "ratio": "Low"
+      },
+      {
+        "name": "Oriental Mushroom",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Monster Egg",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Evil Soul Extract",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Oil",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Adamantium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Gold Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Platinum Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Opal",
+        "ratio": "Low"
+      },
+      {
+        "name": "Captured Lamp Ghost",
+        "ratio": "Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Central Asia",
+      "Chang An Northwest",
+      "Chang An Market Street",
+      "Chang An Southwest"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161949746.jpg",
+      "Atlantica_20260925_161951543.jpg",
+      "Atlantica_20260925_161952520.jpg"
+    ]
+  },
+  {
+    "name": "Demonic Prisoner",
+    "level": 167,
+    "attack_min": 132000,
+    "attack_max": 142000,
+    "experience": 580526,
+    "animal_type": "Evil Type",
+    "items": [
+      {
+        "name": "Corrupted Unicorn Tear",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Anarchy Stone",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Alcatraz Prison Key",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Alcatraz Prison Key",
+        "ratio": "Low"
+      },
+      {
+        "name": "Oriharukon",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Pegasus Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Enchanted Pegasus Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Evil Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "LEGEND Evil Ranged",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Judgment Equipment Box",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Alcatraz Basement 1",
+      "Vancouver Southwest"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161953473.jpg",
+      "Atlantica_20260925_161955482.jpg",
+      "Atlantica_20260925_161956614.jpg",
+      "Atlantica_20260925_161957638.jpg"
+    ]
+  },
+  {
+    "name": "Deplorable Patient",
+    "level": 130,
+    "attack_min": 7917,
+    "attack_max": 10178,
+    "experience": 74561,
+    "animal_type": "Evil Type",
+    "items": [
+      {
+        "name": "Adamantium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Titanium Ore",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Opal",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Platinum Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Monster Egg",
+        "ratio": "Low"
+      },
+      {
+        "name": "Evil Soul Extract",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Dragon God's Ire",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Dragon God's Wishstone",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Van Gogh's Soul Stone",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Atelier Of Solitude Key",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Arles Hospital",
+      "Paris Southeast",
+      "Atelier of Solitude",
+      "Paris Southeast"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_161959801.jpg",
+      "Atlantica_20260925_162001036.jpg",
+      "Atlantica_20260925_162002020.jpg"
+    ]
+  },
+  {
+    "name": "Depraved Band Master",
+    "level": 131,
+    "attack_min": 10200,
+    "attack_max": 12200,
+    "experience": 47000,
+    "animal_type": "Human Type",
+    "items": [
+      {
+        "name": "Monster Egg",
+        "ratio": "Low"
+      },
+      {
+        "name": "Evil Soul Extract",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Adamantium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Titanium Ore",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Opal",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Platinum Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Thin Rayon",
+        "ratio": "Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Central Asia",
+      "Chang An North"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_162003582.jpg",
+      "Atlantica_20260925_162004747.jpg"
+    ]
+  },
+  {
+    "name": "Depraved Bandsman",
+    "level": 130,
+    "attack_min": 9900,
+    "attack_max": 11900,
+    "experience": 45000,
+    "animal_type": "Human Type",
+    "items": [
+      {
+        "name": "Monster Egg",
+        "ratio": "Low"
+      },
+      {
+        "name": "Evil Soul Extract",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Adamantium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Titanium Ore",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Opal",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Platinum Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Thin Rayon",
+        "ratio": "Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Central Asia",
+      "Chang An North"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_162006582.jpg",
+      "Atlantica_20260925_162007582.jpg"
+    ]
+  },
+  {
+    "name": "Depraved Monk",
+    "level": 50,
+    "attack_min": 492,
+    "attack_max": 1026,
+    "experience": 1768,
+    "animal_type": "Spirit Type",
+    "items": [
+      {
+        "name": "Angkor Wat Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Asura's Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Insect Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Bran Castle Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Dark Knight's Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Copper Ore",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Silver Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Pearl",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Enhance Stone [III]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Babylon's Equipment Box",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Banished Shrine",
+      "Depraved Shrine"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_162009598.jpg",
+      "Atlantica_20260925_162015176.jpg"
+    ]
+  },
+  {
+    "name": "Depraved Ultimate Fighter",
+    "level": 119,
+    "attack_min": 8477,
+    "attack_max": 10171,
+    "experience": 28260,
+    "animal_type": "Human Type",
+    "items": [
+      {
+        "name": "Divine Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Oil",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Adamantium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Gold Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Platinum Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Opal",
+        "ratio": "Low"
+      },
+      {
+        "name": "Thin Rayon",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Sharpened Claw",
+        "ratio": "Low"
+      },
+      {
+        "name": "Thick Animal Bone",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Large Animal Bone",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Phoenix's Feather",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Vulcan's Hammer",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Oriental Mushroom",
+        "ratio": "Medium"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Seized Rundown Room",
+      "Chang An West",
+      "Pigman's Room",
+      "Chang An West",
+      "Evil Ringleader's Room",
+      "Chang An West"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_162017091.jpg",
+      "Atlantica_20260925_162017880.jpg",
+      "Atlantica_20260925_162018528.jpg",
+      "Atlantica_20260925_162019247.jpg"
+    ]
+  },
+  {
+    "name": "Desert Bandit Chief",
+    "level": 137,
+    "attack_min": 36721,
+    "attack_max": 50013,
+    "experience": 90000,
+    "animal_type": "Human Type",
+    "items": [
+      {
+        "name": "Monster Egg",
+        "ratio": "Low"
+      },
+      {
+        "name": "Evil Soul Extract",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Adamantium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Titanium Ore",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Opal",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Platinum Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Thin Rayon",
+        "ratio": "Low"
+      },
+      {
+        "name": "Dragon God's Ire",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Dragon God's Wishstone",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_162020778.jpg",
+      "Atlantica_20260925_162022137.jpg",
+      "Atlantica_20260925_162022817.jpg"
+    ]
+  },
+  {
+    "name": "Desert Fox",
+    "level": 67,
+    "attack_min": 330,
+    "attack_max": 650,
+    "experience": 4122,
+    "animal_type": "",
+    "items": [
+      {
+        "name": "Thick Animal Bone",
+        "ratio": "Low"
+      },
+      {
+        "name": "Large Animal Bone",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Enchant Stone [III]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Silver Thread",
+        "ratio": "High"
+      },
+      {
+        "name": "Commodity Box [II]",
+        "ratio": "Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Southwest Asia",
+      "Baghdad West"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_162025098.jpg"
+    ]
+  },
+  {
+    "name": "Desert Gatekeeper",
+    "level": 143,
+    "attack_min": 48195,
+    "attack_max": 56726,
+    "experience": 407550,
+    "animal_type": "Spirit Type",
+    "items": [
+      {
+        "name": "Sorcerer's Mask",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Root Of Life",
+        "ratio": "Low"
+      },
+      {
+        "name": "Titanium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Adamantium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Platinum Ingot",
+        "ratio": "Low"
+      },
+      {
+        "name": "Ruby",
+        "ratio": "Low"
+      },
+      {
+        "name": "Opal",
+        "ratio": "Low"
+      },
+      {
+        "name": "Blue Sapphire",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Vindictive Soul Imprint",
+        "ratio": "Low"
+      },
+      {
+        "name": "Evil Imprint",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Beating Sun [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Primal Monsoon [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Divine Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Phoenix's Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Dragon God's Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Evil Equipment Box",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Into the Spirit Realm",
+      "Kinshasa Northwest",
+      "Journey Home",
+      "Kinshasa Northwest",
+      "Signs of Antiquity",
+      "Kinshasa Northwest",
+      "The Spirit God",
+      "Kinshasa Northwest",
+      "Balance Restored",
+      "Kinshasa Northwest",
+      "Revenge of the Spirits",
+      "Kinshasa Northwest"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_162026981.jpg",
+      "Atlantica_20260925_162027833.jpg",
+      "Atlantica_20260925_162028731.jpg",
+      "Atlantica_20260925_162029520.jpg",
+      "Atlantica_20260925_162030168.jpg"
+    ]
+  },
+  {
+    "name": "Desert Sniper",
+    "level": 142,
+    "attack_min": 46689,
+    "attack_max": 55224,
+    "experience": 397600,
+    "animal_type": "Spirit Type",
+    "items": [
+      {
+        "name": "Sorcerer's Mask",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Root Of Life",
+        "ratio": "Low"
+      },
+      {
+        "name": "Titanium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Adamantium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Platinum Ingot",
+        "ratio": "Low"
+      },
+      {
+        "name": "Ruby",
+        "ratio": "Low"
+      },
+      {
+        "name": "Opal",
+        "ratio": "Low"
+      },
+      {
+        "name": "Blue Sapphire",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Vindictive Soul Imprint",
+        "ratio": "Low"
+      },
+      {
+        "name": "Evil Imprint",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Beating Sun [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Primal Monsoon [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Divine Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Phoenix's Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Dragon God's Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Evil Equipment Box",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Into the Spirit Realm",
+      "Kinshasa Northwest",
+      "Journey Home",
+      "Kinshasa Northwest",
+      "Signs of Antiquity",
+      "Kinshasa Northwest",
+      "The Spirit God",
+      "Kinshasa Northwest",
+      "Balance Restored",
+      "Kinshasa Northwest",
+      "Revenge of the Spirits",
+      "Kinshasa Northwest"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_162032036.jpg",
+      "Atlantica_20260925_162032747.jpg",
+      "Atlantica_20260925_162033583.jpg",
+      "Atlantica_20260925_162034458.jpg"
+    ]
+  },
+  {
+    "name": "Desert Soul Fighter",
+    "level": 135,
+    "attack_min": 32142,
+    "attack_max": 48235,
+    "experience": 80000,
+    "animal_type": "Human Type",
+    "items": [
+      {
+        "name": "Monster Egg",
+        "ratio": "Low"
+      },
+      {
+        "name": "Evil Soul Extract",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Adamantium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Titanium Ore",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Opal",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Platinum Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Thin Rayon",
+        "ratio": "Low"
+      },
+      {
+        "name": "Dragon God's Ire",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Central Asia",
+      "Chang An North"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_162035310.jpg",
+      "Atlantica_20260925_162036880.jpg"
+    ]
+  },
+  {
+    "name": "Deserted Straw",
+    "level": 129,
+    "attack_min": 11046,
+    "attack_max": 12326,
+    "experience": 72159,
+    "animal_type": "Plant Type",
+    "items": [
+      {
+        "name": "Adamantium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Titanium Ore",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Opal",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Platinum Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Monster Egg",
+        "ratio": "Low"
+      },
+      {
+        "name": "Evil Soul Extract",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Dragon God's Ire",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Dragon God's Wishstone",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Langlois Bridge",
+      "Paris Southeast",
+      "Isolated Bascule Bridge",
+      "Paris Southeast"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_162037739.jpg",
+      "Atlantica_20260925_162039224.jpg",
+      "Atlantica_20260925_162040223.jpg"
+    ]
+  },
+  {
+    "name": "Desolate Elephant Warrior",
+    "level": 173,
+    "attack_min": 213828,
+    "attack_max": 256732,
+    "experience": 641436,
+    "animal_type": "Human Type",
+    "items": [
+      {
+        "name": "Purified Enhance Stone",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Purified Enchant Stone",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Obsidian Shard",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Imitation Oriharukon",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Enriched Adamantium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Twilight Equipment Box",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Byzantium Palace",
+      "Istanbul West"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_162041935.jpg",
+      "Atlantica_20260925_162042778.jpg"
+    ]
+  },
+  {
+    "name": "Destroyer Arachnoid",
+    "level": 87,
+    "attack_min": 650,
+    "attack_max": 870,
+    "experience": 29139,
+    "animal_type": "Metal Type",
+    "items": [
+      {
+        "name": "Tanzanite",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Silver Ingot",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Gold Ingot",
+        "ratio": "High"
+      },
+      {
+        "name": "Pearl",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Opal",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Oil",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Ruby",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Summon Machine [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Osiris' Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Pyramid Equipment Box",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Hidden Machines Shrine",
+      "Lisbon Northwest",
+      "Ravaged Laboratory",
+      "Lisbon Northwest"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_162044660.jpg",
+      "Atlantica_20260925_162045778.jpg",
+      "Atlantica_20260925_162046505.jpg"
+    ]
+  },
+  {
+    "name": "Destroyer Sekhmet",
+    "level": 87,
+    "attack_min": 3040,
+    "attack_max": 3840,
+    "experience": 9713,
+    "animal_type": "Human Type",
+    "items": [
+      {
+        "name": "Energy of Atmosphere",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Energy of Wind",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Thick Animal Bone",
+        "ratio": "Low"
+      },
+      {
+        "name": "Large Animal Bone",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Tanzanite",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Silver Ingot",
+        "ratio": "Low"
+      },
+      {
+        "name": "Gold Ingot",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Pearl",
+        "ratio": "Low"
+      },
+      {
+        "name": "Opal",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Oil",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Ruby",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Pyramid Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Osiris' Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Frozen Soul",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Sealed Room",
+      "Cairo West"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_162048012.jpg",
+      "Atlantica_20260925_162048997.jpg",
+      "Atlantica_20260925_162049825.jpg",
+      "Atlantica_20260925_162050575.jpg"
+    ]
+  },
+  {
+    "name": "Destructive Knight Statue",
+    "level": 194,
+    "attack_min": 88126,
+    "attack_max": 126442,
+    "experience": 1536440,
+    "animal_type": "Metal Type",
+    "items": [
+      {
+        "name": "Phoenix's Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Dragon God's Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Evil Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Pegasus Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Dark Pegasus Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Judgment Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Twilight Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Shimmering Opal",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Shimmering Sapphire",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Enriched Adamantium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Enhanced Titanium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Titanium Ingot",
+        "ratio": "Very High"
+      },
+      {
+        "name": "Shard Of Beginning",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Darkness Origin",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Sage Sword Excalibur [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: King's Command [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Guardian Sheath [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Star Stone: Red Ox [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Star Stone: Red Ox [II]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Star Stone: Red Fox [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Star Stone: Red Fox [II]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Barrier Fragment Of The Lake",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [],
+    "source_screenshots": [
+      "Atlantica_20260925_162052286.jpg",
+      "Atlantica_20260925_162053349.jpg",
+      "Atlantica_20260925_162054302.jpg",
+      "Atlantica_20260925_162055138.jpg",
+      "Atlantica_20260925_162056020.jpg",
+      "Atlantica_20260925_162056880.jpg",
+      "Atlantica_20260925_162057786.jpg"
+    ]
+  },
+  {
+    "name": "Devil Monk",
+    "level": 29,
+    "attack_min": 284,
+    "attack_max": 570,
+    "experience": 690,
+    "animal_type": "Spirit Type",
+    "items": [
+      {
+        "name": "Mana Potion [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Healing Potion [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Enchant Stone",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Copper Ore",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Iron Sand",
+        "ratio": "Low"
+      },
+      {
+        "name": "Coral",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Silver Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Pearl",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Thread",
+        "ratio": "Low"
+      },
+      {
+        "name": "Commodity Box [I]",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Angkor Wat Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Asura's Equipment Box",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Angkor Wat 1F",
+      "Phnom Penh East",
+      "Naga Queen's Palace",
+      "Phnom Penh East"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_162100387.jpg",
+      "Atlantica_20260925_162101224.jpg",
+      "Atlantica_20260925_162102910.jpg"
+    ]
+  },
+  {
+    "name": "Devil Tree",
+    "level": 11,
+    "attack_min": 62,
+    "attack_max": 101,
+    "experience": 123,
+    "animal_type": "Plant Type",
+    "items": [
+      {
+        "name": "Healing Potion [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Mana Potion [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Enchant Stone [I]",
+        "ratio": "Low"
+      },
+      {
+        "name": "Maple",
+        "ratio": "High"
+      },
+      {
+        "name": "Commodity Box [I]",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Spirit Equipment Box",
+        "ratio": "Medium"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Forest of Spirits (Hanya",
+      "Pyongyang East",
+      "Forest of Spirits (Harbir",
+      "Harbin Northwest",
+      "Forest of Spirits (Sappo",
+      "Sapporo Southeast",
+      "Forest of Spirits (Pusan",
+      "Pusan West"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_162105208.jpg",
+      "Atlantica_20260925_162105973.jpg"
+    ]
+  },
+  {
+    "name": "Devilish Cao Cao",
+    "level": 156,
+    "attack_min": 342343,
+    "attack_max": 369493,
+    "experience": 836593,
+    "animal_type": "Human Type",
+    "items": [
+      {
+        "name": "Dragon God's Wishstone",
+        "ratio": "Low"
+      },
+      {
+        "name": "Vindictive Soul Imprint",
+        "ratio": "Very High"
+      },
+      {
+        "name": "Evil Imprint",
+        "ratio": "Low"
+      },
+      {
+        "name": "Dragon God's Equipment Box",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Officer Tent (Skirmish)",
+      "Chang An Southeast"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_162107489.jpg"
+    ]
+  },
+  {
+    "name": "Devilish General",
+    "level": 150,
+    "attack_min": 35451,
+    "attack_max": 42645,
+    "experience": 468813,
+    "animal_type": "Human Type",
+    "items": [
+      {
+        "name": "Blue Sapphire",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Adamantium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Ruby",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Titanium Ore",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Opal",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Platinum Ingot",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Dragon God's Wishstone",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Vindictive Soul Imprint",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Dragon God's Ire",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Evil Imprint",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Officer Tent Pass",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Green Dragon Glaive [I]",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Chang An Outskirts (Skirmish)",
+      "Chang An Southeast",
+      "Officer Tent (Skirmish)",
+      "Chang An Southeast"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_162109614.jpg",
+      "Atlantica_20260925_162110567.jpg",
+      "Atlantica_20260925_162112818.jpg"
+    ]
+  },
+  {
+    "name": "Devilish Viking",
+    "level": 99,
+    "attack_min": 10768,
+    "attack_max": 12854,
+    "experience": 52910,
+    "animal_type": "Human Type",
+    "items": [
+      {
+        "name": "Tanzanite",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Ruby",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Platinum Ingot",
+        "ratio": "Low"
+      },
+      {
+        "name": "Gold Thread",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Opal",
+        "ratio": "Low"
+      },
+      {
+        "name": "Oil",
+        "ratio": "Low"
+      },
+      {
+        "name": "Osiris' Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Pyramid Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Shogun's Equipment Box",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Warrior's Honor",
+      "Athens East"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_162114410.jpg",
+      "Atlantica_20260925_162115411.jpg",
+      "Atlantica_20260925_162116982.jpg"
+    ]
+  },
+  {
+    "name": "Diabolic Butler",
+    "level": 132,
+    "attack_min": 11532,
+    "attack_max": 15500,
+    "experience": 82643,
+    "animal_type": "Devil Type",
+    "items": [
+      {
+        "name": "Divine Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Phoenix's Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Dragon God's Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Evil Imprint",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Dragon God's Wishstone",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Large Diamond",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Ruby",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Adamantium Ingot",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Evil Equipment Box",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Diabolic Main Hall",
+      "Chang An Northeast"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_162118707.jpg",
+      "Atlantica_20260925_162120599.jpg"
+    ]
+  },
+  {
+    "name": "Diabolic Guardian",
+    "level": 126,
+    "attack_min": 5970,
+    "attack_max": 7990,
+    "experience": 38200,
+    "animal_type": "Human Type",
+    "items": [
+      {
+        "name": "Oriental Mushroom",
+        "ratio": "Low"
+      },
+      {
+        "name": "Monster Egg",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Evil Soul Extract",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Dragon God's Wishstone",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Divine Equipment Box",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Saloon: 1F",
+      "Chang An Northeast",
+      "Saloon: 2F",
+      "Chang An Northeast",
+      "Saloon Annex",
+      "Chang An Northeast",
+      "Diabolic King's Hideout",
+      "Chang An Northeast"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_162122786.jpg"
+    ]
+  },
+  {
+    "name": "Diabolic Guardmaster",
+    "level": 129,
+    "attack_min": 25277,
+    "attack_max": 28447,
+    "experience": 262400,
+    "animal_type": "Human Type",
+    "items": [
+      {
+        "name": "Monster Egg",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Evil Soul Extract",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Dragon God's Wishstone",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Divine Equipment Box",
+        "ratio": "Very High"
+      },
+      {
+        "name": "Phoenix's Equipment Box",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Diabolic Base II",
+      "Chang An Northeast"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_162124778.jpg"
+    ]
+  },
+  {
+    "name": "Diabolic High Priest",
+    "level": 130,
+    "attack_min": 25445,
+    "attack_max": 28359,
+    "experience": 264800,
+    "animal_type": "Human Type",
+    "items": [
+      {
+        "name": "Monster Egg",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Evil Soul Extract",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Dragon God's Wishstone",
+        "ratio": "Low"
+      },
+      {
+        "name": "Divine Equipment Box",
+        "ratio": "Very High"
+      },
+      {
+        "name": "Phoenix's Equipment Box",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Diabolic Headquarters",
+      "Chang An Northeast"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_162127286.jpg"
+    ]
+  },
+  {
+    "name": "Diabolic Instructor",
+    "level": 126,
+    "attack_min": 6147,
+    "attack_max": 8339,
+    "experience": 55200,
+    "animal_type": "Human Type",
+    "items": [
+      {
+        "name": "Oriental Mushroom",
+        "ratio": "Low"
+      },
+      {
+        "name": "Monster Egg",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Evil Soul Extract",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Dragon God's Wishstone",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Divine Equipment Box",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [],
+    "source_screenshots": [
+      "Atlantica_20260925_162128731.jpg"
+    ]
+  },
+  {
+    "name": "Diabolic King",
+    "level": 134,
+    "attack_min": 30152,
+    "attack_max": 34020,
+    "experience": 300000,
+    "animal_type": "Human Type",
+    "items": [
+      {
+        "name": "Dragon God's Wishstone",
+        "ratio": "Low"
+      },
+      {
+        "name": "Divine Equipment Box",
+        "ratio": "Very High"
+      },
+      {
+        "name": "Phoenix's Equipment Box",
+        "ratio": "Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Diabolic King's Hideout",
+      "Chang An Northeast"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_162130598.jpg"
+    ]
+  },
+  {
+    "name": "Diabolic King's Departed Soul",
+    "level": 134,
+    "attack_min": 34020,
+    "attack_max": 44317,
+    "experience": 372000,
+    "animal_type": "Human Type",
+    "items": [
+      {
+        "name": "Dragon God's Wishstone",
+        "ratio": "Low"
+      },
+      {
+        "name": "Phoenix's Equipment Box",
+        "ratio": "Low"
+      },
+      {
+        "name": "Divine Equipment Box",
+        "ratio": "Very High"
+      }
+    ],
+    "locations": [],
+    "source_screenshots": [
+      "Atlantica_20260925_162132668.jpg"
+    ]
+  },
+  {
+    "name": "Diabolic Servant",
+    "level": 131,
+    "attack_min": 10532,
+    "attack_max": 13900,
+    "experience": 78562,
+    "animal_type": "Devil Type",
+    "items": [
+      {
+        "name": "Divine Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Phoenix's Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Dragon God's Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Evil Imprint",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Dragon God's Wishstone",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Large Diamond",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Ruby",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Adamantium Ingot",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Evil Equipment Box",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Diabolic Main Hall",
+      "Chang An Northeast"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_162134567.jpg",
+      "Atlantica_20260925_162135918.jpg"
+    ]
+  },
+  {
+    "name": "Diabolic Swordmaster",
+    "level": 128,
+    "attack_min": 24467,
+    "attack_max": 27619,
+    "experience": 260000,
+    "animal_type": "Human Type",
+    "items": [
+      {
+        "name": "Monster Egg",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Evil Soul Extract",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Dragon God's Wishstone",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Phoenix's Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Divine Equipment Box",
+        "ratio": "Very High"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Diabolic Base I",
+      "Chang An Northeast"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_162137895.jpg"
+    ]
+  },
+  {
+    "name": "Diabolic Valet",
+    "level": 133,
+    "attack_min": 12032,
+    "attack_max": 16900,
+    "experience": 86243,
+    "animal_type": "Devil Type",
+    "items": [
+      {
+        "name": "Divine Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Phoenix's Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Dragon God's Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Evil Imprint",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Dragon God's Wishstone",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Large Diamond",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Ruby",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Adamantium Ingot",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Evil Equipment Box",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Diabolic Main Hall",
+      "Chang An Northeast"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_162139817.jpg",
+      "Atlantica_20260925_162141543.jpg"
+    ]
+  },
+  {
+    "name": "Diomedes' Warhorse",
+    "level": 145,
+    "attack_min": 32309,
+    "attack_max": 58923,
+    "experience": 618188,
+    "animal_type": "",
+    "items": [
+      {
+        "name": "Dragon God's Hat",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Dragon God's Chain Helm",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Dragon God's Helmet",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Evil Imprint",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Vindictive Soul Imprint",
+        "ratio": "Very High"
+      },
+      {
+        "name": "Phoenix's Equipment Box",
+        "ratio": "Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Diomedes' Stable"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_162143153.jpg",
+      "Atlantica_20260925_162144395.jpg"
+    ]
+  },
+  {
+    "name": "Disappeared Prom Bodyguards",
+    "level": 195,
+    "attack_min": 288750,
+    "attack_max": 302500,
+    "experience": 545789,
+    "animal_type": "Evil Type",
+    "items": [],
+    "locations": [],
+    "source_screenshots": [
+      "Atlantica_20260925_162147716.jpg"
+    ]
+  },
+  {
+    "name": "Disappeared Prom Organizer",
+    "level": 199,
+    "attack_min": 300300,
+    "attack_max": 314600,
+    "experience": 545789,
+    "animal_type": "Human Type",
+    "items": [],
+    "locations": [],
+    "source_screenshots": [
+      "Atlantica_20260925_162150200.jpg"
+    ]
+  },
+  {
+    "name": "Disgruntled Minotaur",
+    "level": 160,
+    "attack_min": 419970,
+    "attack_max": 469970,
+    "experience": 594929,
+    "animal_type": "Flame Type",
+    "items": [],
+    "locations": [
+      "Neighborhood"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_162152160.jpg"
+    ]
+  },
+  {
+    "name": "Disguised Bandit",
+    "level": 110,
+    "attack_min": 10967,
+    "attack_max": 12432,
+    "experience": 10000,
+    "animal_type": "Human Type",
+    "items": [
+      {
+        "name": "Silver Thread",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Gold Thread",
+        "ratio": "Medium"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Northeast Asia",
+      "Pusan West"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_162153887.jpg"
+    ]
+  },
+  {
+    "name": "Disguised Thief",
+    "level": 103,
+    "attack_min": 3133,
+    "attack_max": 4412,
+    "experience": 16585,
+    "animal_type": "Human Type",
+    "items": [
+      {
+        "name": "Thick Animal Bone",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Large Animal Bone",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Big Slab of Lumber",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Gold Thread",
+        "ratio": "Medium"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Southern Europe",
+      "Barcelona East"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_162155622.jpg"
+    ]
+  },
+  {
+    "name": "Disguised Tlaltecuhtli",
+    "level": 119,
+    "attack_min": 7105,
+    "attack_max": 9228,
+    "experience": 28260,
+    "animal_type": "Spirit Type",
+    "items": [
+      {
+        "name": "Freezing Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Divine Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Tanzanite",
+        "ratio": "Low"
+      },
+      {
+        "name": "Ruby",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Blue Sapphire",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Gold Ingot",
+        "ratio": "Low"
+      },
+      {
+        "name": "Adamantium",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Oil",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Opal",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Platinum Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "False God's Key",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Depraved Seed",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Vulcan's Hammer",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Room of Resurrection",
+      "New York West",
+      "Tlaltecuhtli King's Throne",
+      "New York West"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_162157052.jpg",
+      "Atlantica_20260925_162159246.jpg",
+      "Atlantica_20260925_162200231.jpg",
+      "Atlantica_20260925_162200958.jpg"
+    ]
+  },
+  {
+    "name": "Distorted Ancient Beast",
+    "level": 190,
+    "attack_min": 19728701,
+    "attack_max": 20366943,
+    "experience": 1651278,
+    "animal_type": "Human Type",
+    "items": [],
+    "locations": [],
+    "source_screenshots": [
+      "Atlantica_20260925_162204083.jpg"
+    ]
+  },
+  {
+    "name": "Distorted Ancient Treasure Chest",
+    "level": 190,
+    "attack_min": 0,
+    "attack_max": 0,
+    "experience": 1,
+    "animal_type": "Evil Type",
+    "items": [],
+    "locations": [],
+    "source_screenshots": [
+      "Atlantica_20260925_162206216.jpg"
+    ]
+  },
+  {
+    "name": "Distorted Berserker",
+    "level": 190,
+    "attack_min": 17155393,
+    "attack_max": 17710385,
+    "experience": 1435894,
+    "animal_type": "Human Type",
+    "items": [],
+    "locations": [
+      "Neighborhood",
+      "Dragon's Gate",
+      "Harbin West"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_162213247.jpg"
+    ]
+  },
+  {
+    "name": "Distorted Dimension",
+    "level": 200,
+    "attack_min": 12117846,
+    "attack_max": 12508041,
+    "experience": 1001894,
+    "animal_type": "Human Type",
+    "items": [],
+    "locations": [],
+    "source_screenshots": [
+      "Atlantica_20260925_162219489.jpg"
+    ]
+  },
+  {
+    "name": "Distorted Dimension",
+    "level": 200,
+    "attack_min": 8338694,
+    "attack_max": 8868694,
+    "experience": 1001894,
+    "animal_type": "Human Type",
+    "items": [
+      {
+        "name": "Anarchy Stone",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Oriharukon",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Darkness Origin",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Phoenix Destructive stone",
+        "ratio": "Low"
+      },
+      {
+        "name": "Love Firecracker (No Trade)",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Joy Firecracker (No Trade)",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Fantasy Firecracker (No Trade)",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Purified Enhance Stone",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Purified Enchant Stone",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Obsidian Shard",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Phoenix's Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Judgment Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Twilight Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Abyssal Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Weapon Rend [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Athena's Protection [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Shield Bash [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Forgotten Scion's Artifact",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Frozen Cold Crystal",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Trojan Horse[I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Hero Of Troy[I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Athena's Armor[I]",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Frozen abyss",
+      "Antark outpost East"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_162221286.jpg",
+      "Atlantica_20260925_162222504.jpg",
+      "Atlantica_20260925_162223270.jpg",
+      "Atlantica_20260925_162223989.jpg",
+      "Atlantica_20260925_162224683.jpg",
+      "Atlantica_20260925_162225450.jpg",
+      "Atlantica_20260925_162226231.jpg"
+    ]
+  },
+  {
+    "name": "Distorted Dimension Marksman",
+    "level": 200,
+    "attack_min": 8338694,
+    "attack_max": 8868694,
+    "experience": 1001894,
+    "animal_type": "Human Type",
+    "items": [
+      {
+        "name": "Phoenix Destructive stone",
+        "ratio": "Low"
+      },
+      {
+        "name": "Love Firecracker (No Trade)",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Joy Firecracker (No Trade)",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Fantasy Firecracker (No Trade)",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Purified Enhance Stone",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Purified Enchant Stone",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Obsidian Shard",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Phoenix's Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Judgment Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Twilight Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Abyssal Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Weapon Rend [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Athena's Protection [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Shield Bash [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Forgotten Scion's Artifact",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Frozen Cold Crystal",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Trojan Horse[I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Hero Of Troy[I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Athena's Armor[I]",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Frozen abyss",
+      "Antark outpost East"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_162228653.jpg",
+      "Atlantica_20260925_162229434.jpg",
+      "Atlantica_20260925_162230269.jpg",
+      "Atlantica_20260925_162231082.jpg",
+      "Atlantica_20260925_162231896.jpg",
+      "Atlantica_20260925_162232755.jpg"
+    ]
+  },
+  {
+    "name": "Distorted Dimension Priam",
+    "level": 200,
+    "attack_min": 8338694,
+    "attack_max": 8868694,
+    "experience": 1001894,
+    "animal_type": "Human Type",
+    "items": [],
+    "locations": [],
+    "source_screenshots": [
+      "Atlantica_20260925_162233451.jpg",
+      "Atlantica_20260925_162235410.jpg"
+    ]
+  },
+  {
+    "name": "Distorted Dimension Spearman",
+    "level": 200,
+    "attack_min": 8338694,
+    "attack_max": 8868694,
+    "experience": 1001894,
+    "animal_type": "Evil Type",
+    "items": [
+      {
+        "name": "Anarchy Stone",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Oriharukon",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Darkness Origin",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Phoenix Destructive stone",
+        "ratio": "Low"
+      },
+      {
+        "name": "Love Firecracker (No Trade)",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Joy Firecracker (No Trade)",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Fantasy Firecracker (No Trade)",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Purified Enhance Stone",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Purified Enchant Stone",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Obsidian Shard",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Phoenix's Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Judgment Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Twilight Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Abyssal Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Weapon Rend [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Athena's Protection [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Shield Bash [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Forgotten Scion's Artifact",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Frozen Cold Crystal",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Trojan Horse[I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Hero Of Troy[I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Athena's Armor[I]",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Frozen abyss",
+      "Antark outpost East"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_162236966.jpg",
+      "Atlantica_20260925_162237685.jpg",
+      "Atlantica_20260925_162238427.jpg",
+      "Atlantica_20260925_162239240.jpg",
+      "Atlantica_20260925_162240013.jpg",
+      "Atlantica_20260925_162240731.jpg",
+      "Atlantica_20260925_162241583.jpg"
+    ]
+  },
+  {
+    "name": "Distorted Dimension Viking",
+    "level": 200,
+    "attack_min": 8338694,
+    "attack_max": 8868694,
+    "experience": 1001894,
+    "animal_type": "Human Type",
+    "items": [
+      {
+        "name": "Anarchy Stone",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Oriharukon",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Darkness Origin",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Phoenix Destructive stone",
+        "ratio": "Low"
+      },
+      {
+        "name": "Love Firecracker (No Trade)",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Joy Firecracker (No Trade)",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Fantasy Firecracker (No Trade)",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Purified Enhance Stone",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Purified Enchant Stone",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Obsidian Shard",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Phoenix's Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Judgment Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Twilight Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Abyssal Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Weapon Rend [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Athena's Protection [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Shield Bash [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Forgotten Scion's Artifact",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Frozen Cold Crystal",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Trojan Horse[I]",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Frozen abyss",
+      "Antark outpost East"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_162244700.jpg",
+      "Atlantica_20260925_162245466.jpg",
+      "Atlantica_20260925_162246317.jpg",
+      "Atlantica_20260925_162247200.jpg",
+      "Atlantica_20260925_162247997.jpg",
+      "Atlantica_20260925_162248684.jpg"
+    ]
+  },
+  {
+    "name": "Distorted Dimension Watcher",
+    "level": 200,
+    "attack_min": 24146213,
+    "attack_max": 26629366,
+    "experience": 1001894,
+    "animal_type": "Evil Type",
+    "items": [],
+    "locations": [],
+    "source_screenshots": [
+      "Atlantica_20260925_162249544.jpg"
+    ]
+  },
+  {
+    "name": "Distorted Fighter",
+    "level": 190,
+    "attack_min": 17155393,
+    "attack_max": 17710385,
+    "experience": 1435894,
+    "animal_type": "Human Type",
+    "items": [],
+    "locations": [
+      "Neighborhood",
+      "Dragon's Gate",
+      "Harbin West"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_162251473.jpg",
+      "Atlantica_20260925_162253137.jpg"
+    ]
+  },
+  {
+    "name": "Distorted Goddess",
+    "level": 91,
+    "attack_min": 3800,
+    "attack_max": 4800,
+    "experience": 11080,
+    "animal_type": "Metal Type",
+    "items": [
+      {
+        "name": "Book of Knowledge",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book of Wisdom",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book of Anguish",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Platinum Ingot",
+        "ratio": "Low"
+      },
+      {
+        "name": "Adamantium",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Gold Ingot",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Tanzanite",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Oil",
+        "ratio": "Low"
+      },
+      {
+        "name": "Opal",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Summon Machine [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Pyramid Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Osiris' Equipment Box",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Hidden Shrines' Control I",
+      "Lisbon Northwest"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_162255177.jpg",
+      "Atlantica_20260925_162255966.jpg",
+      "Atlantica_20260925_162257560.jpg"
+    ]
+  },
+  {
+    "name": "Distorted Hell Beast",
+    "level": 190,
+    "attack_min": 19728701,
+    "attack_max": 20366943,
+    "experience": 1651278,
+    "animal_type": "Human Type",
+    "items": [],
+    "locations": [],
+    "source_screenshots": [
+      "Atlantica_20260925_162309083.jpg"
+    ]
+  },
+  {
+    "name": "Distorted Hero",
+    "level": 190,
+    "attack_min": 17155393,
+    "attack_max": 17710385,
+    "experience": 1435894,
+    "animal_type": "Human Type",
+    "items": [],
+    "locations": [
+      "Neighborhood",
+      "Dragon's Gate",
+      "Harbin West"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_162310724.jpg"
+    ]
+  },
+  {
+    "name": "Distorted Machine",
+    "level": 87,
+    "attack_min": 1350,
+    "attack_max": 1550,
+    "experience": 29139,
+    "animal_type": "Metal Type",
+    "items": [
+      {
+        "name": "Tanzanite",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Silver Ingot",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Gold Ingot",
+        "ratio": "High"
+      },
+      {
+        "name": "Pearl",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Opal",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Oil",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Ruby",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Summon Machine [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Dragon Crystal",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Pyramid Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Osiris' Equipment Box",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Hidden Machines Shrine",
+      "Lisbon Northwest",
+      "Ravaged Laboratory",
+      "Lisbon Northwest",
+      "Hidden Shrines' Control I",
+      "Lisbon Northwest"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_162312606.jpg",
+      "Atlantica_20260925_162313575.jpg",
+      "Atlantica_20260925_162314341.jpg"
+    ]
+  },
+  {
+    "name": "Distorted Soldier",
+    "level": 190,
+    "attack_min": 17155393,
+    "attack_max": 17710385,
+    "experience": 1435894,
+    "animal_type": "Human Type",
+    "items": [],
+    "locations": [
+      "Neighborhood",
+      "Dragon's Gate",
+      "Harbin West"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_162321746.jpg"
+    ]
+  },
+  {
+    "name": "Distorted Table",
+    "level": 128,
+    "attack_min": 9546,
+    "attack_max": 11947,
+    "experience": 69845,
+    "animal_type": "Evil Type",
+    "items": [
+      {
+        "name": "Adamantium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Titanium Ore",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Opal",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Platinum Ingot",
+        "ratio": "Low"
+      },
+      {
+        "name": "Monster Egg",
+        "ratio": "Low"
+      },
+      {
+        "name": "Evil Soul Extract",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Dragon God's Ire",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Dragon God's Wishstone",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Van Gogh's Soul Stone",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Cafe Alley Key",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Cafe Terrace at Night",
+      "Paris Southeast",
+      "Cafe Alley",
+      "Paris Southeast"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_162324599.jpg",
+      "Atlantica_20260925_162326771.jpg"
+    ]
+  },
+  {
+    "name": "Disturbed Mummy",
+    "level": 126,
+    "attack_min": 390,
+    "attack_max": 667,
+    "experience": 38200,
+    "animal_type": "Evil Type",
+    "items": [
+      {
+        "name": "Oriental Mushroom",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Monster Egg",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Evil Soul Extract",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Tanzanite",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Ruby",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Blue Sapphire",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Gold Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Adamantium",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Oil",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Opal",
+        "ratio": "Low"
+      },
+      {
+        "name": "Platinum Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Dragon God's Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Evil Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Phoenix Crystal",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Pyramid Site",
+      "Cairo Northwest"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_162330255.jpg",
+      "Atlantica_20260925_162331301.jpg",
+      "Atlantica_20260925_162332153.jpg",
+      "Atlantica_20260925_162332950.jpg"
+    ]
+  },
+  {
+    "name": "Dominated Beast",
+    "level": 128,
+    "attack_min": 83529,
+    "attack_max": 94221,
+    "experience": 488102,
+    "animal_type": "",
+    "items": [
+      {
+        "name": "Dragon God's Wishstone",
+        "ratio": "Low"
+      },
+      {
+        "name": "Divine Equipment Box",
+        "ratio": "Low"
+      },
+      {
+        "name": "Freezing Equipment Box",
+        "ratio": "High"
+      },
+      {
+        "name": "Book: Shield Bash [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Phoenix's Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Evil Imprint",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Dragon God's Ire",
+        "ratio": "High"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Troy's Last Battle",
+      "Athens East",
+      "Hidden Power",
+      "Athens East"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_162334489.jpg",
+      "Atlantica_20260925_162335200.jpg"
+    ]
+  },
+  {
+    "name": "Dominated Bushbeast",
+    "level": 105,
+    "attack_min": 3000,
+    "attack_max": 4000,
+    "experience": 22000,
+    "animal_type": "Flame Type",
+    "items": [
+      {
+        "name": "Freezing Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Gold Thread",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Tanzanite",
+        "ratio": "Low"
+      },
+      {
+        "name": "Ruby",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Blue Sapphire",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Gold Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Adamantium",
+        "ratio": "Low"
+      },
+      {
+        "name": "Oil",
+        "ratio": "Low"
+      },
+      {
+        "name": "Opal",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Platinum Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Conqueror's Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Divine Thunder [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Heaven's Fury [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Lightning Lash [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Storm Master [I]",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Dawn of Battle (Lv, 10(",
+      "New York Northwest"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_162337091.jpg",
+      "Atlantica_20260925_162338067.jpg",
+      "Atlantica_20260925_162338957.jpg",
+      "Atlantica_20260925_162339731.jpg"
+    ]
+  },
+  {
+    "name": "Dominated Woodwraith",
+    "level": 106,
+    "attack_min": 3000,
+    "attack_max": 4000,
+    "experience": 22000,
+    "animal_type": "",
+    "items": [
+      {
+        "name": "Freezing Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Silver Thread",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Gold Thread",
+        "ratio": "Low"
+      },
+      {
+        "name": "Tanzanite",
+        "ratio": "Low"
+      },
+      {
+        "name": "Ruby",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Blue Sapphire",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Gold Ingot",
+        "ratio": "Low"
+      },
+      {
+        "name": "Adamantium",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Oil",
+        "ratio": "Low"
+      },
+      {
+        "name": "Opal",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Platinum Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Conqueror's Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Divine Thunder [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Heaven's Fury [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Lightning Lash [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Storm Master [I]",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Dawn of Battle (Lv, 10(",
+      "New York Northwest"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_162341520.jpg",
+      "Atlantica_20260925_162342442.jpg",
+      "Atlantica_20260925_162343395.jpg",
+      "Atlantica_20260925_162344411.jpg"
+    ]
+  },
+  {
+    "name": "Doubt",
+    "level": 125,
+    "attack_min": 19517,
+    "attack_max": 23832,
+    "experience": 10000,
+    "animal_type": "",
+    "items": [],
+    "locations": [],
+    "source_screenshots": [
+      "Atlantica_20260925_162348505.jpg"
+    ]
+  },
+  {
+    "name": "Dr. Gon",
+    "level": 125,
+    "attack_min": 33692,
+    "attack_max": 41438,
+    "experience": 55000,
+    "animal_type": "Spirit Type",
+    "items": [
+      {
+        "name": "Divine Equipment Box",
+        "ratio": "Very High"
+      },
+      {
+        "name": "Phoenix's Equipment Box",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [],
+    "source_screenshots": [
+      "Atlantica_20260925_162350817.jpg"
+    ]
+  },
+  {
+    "name": "Dracula",
+    "level": 60,
+    "attack_min": 1049,
+    "attack_max": 1586,
+    "experience": 2994,
+    "animal_type": "Evil Type",
+    "items": [
+      {
+        "name": "Silver Thread",
+        "ratio": "Very High"
+      },
+      {
+        "name": "Silver Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Gold Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Pearl",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Tanzanite",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Dark Knight's Equipment Box",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Bran Castle Living Room",
+      "Bucharest Northwest"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_162352403.jpg",
+      "Atlantica_20260925_162353950.jpg"
+    ]
+  },
+  {
+    "name": "Dragon Prince",
+    "level": 112,
+    "attack_min": 11201,
+    "attack_max": 23230,
+    "experience": 19710,
+    "animal_type": "Spirit Type",
+    "items": [
+      {
+        "name": "Thin Rayon",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Central Asia",
+      "Chang An Southwest"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_162359825.jpg"
+    ]
+  },
+  {
+    "name": "Dragon of the Vanished",
+    "level": 160,
+    "attack_min": 242550,
+    "attack_max": 254100,
+    "experience": 545789,
+    "animal_type": "Flame Type",
+    "items": [],
+    "locations": [],
+    "source_screenshots": [
+      "Atlantica_20260925_162401684.jpg"
+    ]
+  },
+  {
+    "name": "Dragon of the Vanished",
+    "level": 195,
+    "attack_min": 288750,
+    "attack_max": 302500,
+    "experience": 545789,
+    "animal_type": "Human Type",
+    "items": [],
+    "locations": [],
+    "source_screenshots": [
+      "Atlantica_20260925_162412856.jpg"
+    ]
+  },
+  {
+    "name": "Dragon of the Vanished",
+    "level": 170,
+    "attack_min": 254100,
+    "attack_max": 266200,
+    "experience": 545789,
+    "animal_type": "Flame Type",
+    "items": [],
+    "locations": [],
+    "source_screenshots": [
+      "Atlantica_20260925_162415340.jpg"
+    ]
+  },
+  {
+    "name": "Dragon of the Vanished",
+    "level": 190,
+    "attack_min": 277200,
+    "attack_max": 290400,
+    "experience": 545789,
+    "animal_type": "Flame Type",
+    "items": [],
+    "locations": [],
+    "source_screenshots": [
+      "Atlantica_20260925_162416872.jpg"
+    ]
+  },
+  {
+    "name": "Dragon of the Vanished",
+    "level": 199,
+    "attack_min": 300300,
+    "attack_max": 314600,
+    "experience": 545789,
+    "animal_type": "Human Type",
+    "items": [],
+    "locations": [],
+    "source_screenshots": [
+      "Atlantica_20260925_162418661.jpg"
+    ]
+  },
+  {
+    "name": "Dragon of the Vanished",
+    "level": 180,
+    "attack_min": 265650,
+    "attack_max": 278300,
+    "experience": 545789,
+    "animal_type": "Flame Type",
+    "items": [],
+    "locations": [
+      "Neighborhood"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_162419879.jpg"
+    ]
+  },
+  {
+    "name": "Dread Fang",
+    "level": 12,
+    "attack_min": 140,
+    "attack_max": 181,
+    "experience": 80,
+    "animal_type": "",
+    "items": [
+      {
+        "name": "Spirit Equipment Box",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Healing Potion [I]",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Mana Potion [I]",
+        "ratio": "Low"
+      },
+      {
+        "name": "Life Potion [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Enchant Stone [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Commodity Box [I]",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Atlantis Outskirts",
+      "Dreaming Path Outpost"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_162432591.jpg",
+      "Atlantica_20260925_162433958.jpg"
+    ]
+  },
+  {
+    "name": "Dream Thief",
+    "level": 5,
+    "attack_min": 63,
+    "attack_max": 90,
+    "experience": 33,
+    "animal_type": "Spirit Type",
+    "items": [],
+    "locations": [
+      "Neighborhood",
+      "Atlantis Outskirts",
+      "Dreaming Path Outpost"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_162437294.jpg",
+      "Atlantica_20260925_162438435.jpg"
+    ]
+  },
+  {
+    "name": "Dreaming Agasura",
+    "level": 180,
+    "attack_min": 1000000,
+    "attack_max": 1300000,
+    "experience": 10000000,
+    "animal_type": "Evil Type",
+    "items": [],
+    "locations": [
+      "Neighborhood",
+      "Underground Temple of"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_162457450.jpg"
+    ]
+  },
+  {
+    "name": "Drowsy Battle Bull",
+    "level": 165,
+    "attack_min": 120000,
+    "attack_max": 150000,
+    "experience": 648421,
+    "animal_type": "",
+    "items": [
+      {
+        "name": "Sorcerer's Mask",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Root Of Life",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Titanium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Adamantium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Ruby",
+        "ratio": "Low"
+      },
+      {
+        "name": "Opal",
+        "ratio": "Low"
+      },
+      {
+        "name": "Platinum Ingot",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Blue Sapphire",
+        "ratio": "Low"
+      },
+      {
+        "name": "Vindictive Soul Imprint",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Depraved Seed",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Evil Imprint",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Oriharukon",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "LEGEND Evil Magic",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Evil Dragon God's Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "LEGEND Evil Ranged",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Enchanted Pegasus Equipment Box",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Seized Rundown Room",
+      "Chang An West"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_162500169.jpg",
+      "Atlantica_20260925_162501060.jpg",
+      "Atlantica_20260925_162501856.jpg",
+      "Atlantica_20260925_162502778.jpg",
+      "Atlantica_20260925_162503574.jpg"
+    ]
+  },
+  {
+    "name": "Drunk Armadillo",
+    "level": 110,
+    "attack_min": 5903,
+    "attack_max": 7152,
+    "experience": 18816,
+    "animal_type": "",
+    "items": [],
+    "locations": [
+      "Neighborhood",
+      "North America",
+      "New York West"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_162505536.jpg"
+    ]
+  },
+  {
+    "name": "Drunken Urus",
+    "level": 194,
+    "attack_min": 154796,
+    "attack_max": 206523,
+    "experience": 2688770,
+    "animal_type": "",
+    "items": [
+      {
+        "name": "[Event]Christmas Tree",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "[Event] Completed Word [Atlantica]",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_162507496.jpg"
+    ]
+  },
+  {
+    "name": "Dry Haunted Husk",
+    "level": 128,
+    "attack_min": 28397,
+    "attack_max": 41868,
+    "experience": 100805,
+    "animal_type": "Human Type",
+    "items": [
+      {
+        "name": "Adamantium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Oriental Mushroom",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Gold Ingot",
+        "ratio": "Low"
+      },
+      {
+        "name": "Thin Rayon",
+        "ratio": "Low"
+      },
+      {
+        "name": "Opal",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Platinum Ingot",
+        "ratio": "Medium"
+      },
+      {
+        "name": "Phoenix's Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Divine Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Freezing Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Conqueror's Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Evil Imprint",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Reclaiming Alishan",
+      "Taipei Southwest"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_162511239.jpg",
+      "Atlantica_20260925_162512333.jpg",
+      "Atlantica_20260925_162513169.jpg"
+    ]
+  },
+  {
+    "name": "Dugongoliath",
+    "level": 157,
+    "attack_min": 182770,
+    "attack_max": 338212,
+    "experience": 509379,
+    "animal_type": "Spirit Type",
+    "items": [
+      {
+        "name": "Adamantium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Titanium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Root Of Life",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Ruby",
+        "ratio": "Low"
+      },
+      {
+        "name": "Blue Sapphire",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Colorful Fabric",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Evil Imprint",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Sorcerer's Mask",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Depraved Seed",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Evil Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Dragon God's Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Phoenix's Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Divine Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Deep Sea Pearl Oyster",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Fragrant Spice",
+        "ratio": "Low"
+      },
+      {
+        "name": "Passage Map",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Aquatic Canyon",
+      "Sydney Northeast"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_162515489.jpg",
+      "Atlantica_20260925_162516387.jpg",
+      "Atlantica_20260925_162517270.jpg",
+      "Atlantica_20260925_162518223.jpg",
+      "Atlantica_20260925_162519098.jpg"
+    ]
+  },
+  {
+    "name": "Duran the Scamp",
+    "level": 125,
+    "attack_min": 19899,
+    "attack_max": 23432,
+    "experience": 31893,
+    "animal_type": "Human Type",
+    "items": [
+      {
+        "name": "Thin Rayon",
+        "ratio": "Low"
+      },
+      {
+        "name": "Tanzanite",
+        "ratio": "Low"
+      },
+      {
+        "name": "Ruby",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Blue Sapphire",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Gold Ingot",
+        "ratio": "Low"
+      },
+      {
+        "name": "Adamantium",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Oil",
+        "ratio": "Low"
+      },
+      {
+        "name": "Opal",
+        "ratio": "Low"
+      },
+      {
+        "name": "Platinum Ingot",
+        "ratio": "Very Low"
+      }
+    ],
+    "locations": [],
+    "source_screenshots": [
+      "Atlantica_20260925_162522481.jpg",
+      "Atlantica_20260925_162524067.jpg"
+    ]
+  },
+  {
+    "name": "Dusk Dancer",
+    "level": 126,
+    "attack_min": 14029,
+    "attack_max": 16852,
+    "experience": 127408,
+    "animal_type": "Human Type",
+    "items": [
+      {
+        "name": "Volcano Valley Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Conqueror's Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Freezing Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Divine Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Oil",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Adamantium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Gold Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Platinum Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Opal",
+        "ratio": "Low"
+      },
+      {
+        "name": "Broken Crystal Shard",
+        "ratio": "Low"
+      },
+      {
+        "name": "Brainwashed Dusk Dancer",
+        "ratio": "Low"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Night Palace"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_162525863.jpg",
+      "Atlantica_20260925_162526567.jpg",
+      "Atlantica_20260925_162527286.jpg"
+    ]
+  },
+  {
+    "name": "Dutchman Boatswain",
+    "level": 140,
+    "attack_min": 27072,
+    "attack_max": 37044,
+    "experience": 29474,
+    "animal_type": "Human Type",
+    "items": [
+      {
+        "name": "Ruby",
+        "ratio": "Low"
+      },
+      {
+        "name": "Blue Sapphire",
+        "ratio": "Low"
+      },
+      {
+        "name": "Titanium Ingot",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Normal Dynamite",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Book: Ocean Blessing [I]",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Divine Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Phoenix's Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Dragon God's Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Evil Equipment Box",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Deep Sea Pearl",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "Emerald Fragment",
+        "ratio": "Very Low"
+      },
+      {
+        "name": "[Event] Valuables Of The Demon Be",
+        "ratio": "Very High"
+      }
+    ],
+    "locations": [
+      "Neighborhood",
+      "Holy Crystal Cave"
+    ],
+    "source_screenshots": [
+      "Atlantica_20260925_162528606.jpg",
+      "Atlantica_20260925_162529489.jpg",
+      "Atlantica_20260925_162530919.jpg"
+    ]
   }
 ]
