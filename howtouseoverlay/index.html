@@ -1,0 +1,579 @@
+<meta charset="utf-8">
+<title>Panduan Giveaway Overlay</title>
+<style>
+[hidden]{display:none!important;}
+  :root {
+    color-scheme: light;
+    --bg: #faf7f1;
+    --surface: #ffffff;
+    --surface-muted: #f4efe3;
+    --border: #e7ddc9;
+    --text: #24211a;
+    --text-dim: #6e6656;
+    --accent: #b8790a;
+    --accent-ink: #2a1c04;
+    --accent-soft: #f6e6bf;
+    --purple: #6b3fa0;
+    --purple-soft: #ece2f7;
+    --danger: #b3402f;
+    --danger-soft: #f8e3de;
+    --radius: 14px;
+    --step-num-bg: var(--accent);
+    --step-num-ink: #2a1c04;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      color-scheme: dark;
+      --bg: #16171d;
+      --surface: #1e202a;
+      --surface-muted: #262835;
+      --border: rgba(255, 255, 255, 0.09);
+      --text: #f2f0ea;
+      --text-dim: #a4a1b0;
+      --accent: #ffd447;
+      --accent-ink: #241a04;
+      --accent-soft: rgba(255, 212, 71, 0.14);
+      --purple: #b28aef;
+      --purple-soft: rgba(178, 138, 239, 0.14);
+      --danger: #ff8a7a;
+      --danger-soft: rgba(255, 122, 100, 0.14);
+    }
+  }
+
+  :root[data-theme="dark"] {
+    color-scheme: dark;
+    --bg: #16171d;
+    --surface: #1e202a;
+    --surface-muted: #262835;
+    --border: rgba(255, 255, 255, 0.09);
+    --text: #f2f0ea;
+    --text-dim: #a4a1b0;
+    --accent: #ffd447;
+    --accent-ink: #241a04;
+    --accent-soft: rgba(255, 212, 71, 0.14);
+    --purple: #b28aef;
+    --purple-soft: rgba(178, 138, 239, 0.14);
+    --danger: #ff8a7a;
+    --danger-soft: rgba(255, 122, 100, 0.14);
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+    line-height: 1.55;
+  }
+
+  .wrap {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 40px 16px 80px;
+  }
+
+  header.hero {
+    margin-bottom: 32px;
+  }
+
+  .eyebrow {
+    display: inline-block;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--accent-ink);
+    background: var(--accent-soft);
+    padding: 5px 12px;
+    border-radius: 999px;
+    margin-bottom: 14px;
+  }
+
+  h1 {
+    font-family: 'Sora', 'Inter', system-ui, sans-serif;
+    font-size: clamp(28px, 5vw, 38px);
+    font-weight: 700;
+    margin: 0 0 10px;
+    text-wrap: balance;
+  }
+
+  .lede {
+    font-size: 16px;
+    color: var(--text-dim);
+    margin: 0;
+    max-width: 56ch;
+  }
+
+  h2 {
+    font-family: 'Sora', 'Inter', system-ui, sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    margin: 0 0 4px;
+  }
+
+  .section {
+    margin-top: 36px;
+  }
+
+  .section-desc {
+    color: var(--text-dim);
+    font-size: 14px;
+    margin: 0 0 16px;
+  }
+
+  .steps {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .step {
+    display: flex;
+    gap: 14px;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 16px 18px;
+  }
+
+  .step-num {
+    flex: 0 0 auto;
+    width: 26px;
+    height: 26px;
+    border-radius: 50%;
+    background: var(--step-num-bg);
+    color: var(--step-num-ink);
+    font-weight: 700;
+    font-size: 13px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .step-body p {
+    margin: 0;
+    font-size: 14.5px;
+  }
+
+  .step-body p + p {
+    margin-top: 6px;
+    color: var(--text-dim);
+  }
+
+  .step-body code, .lede code, .note code {
+    background: var(--surface-muted);
+    border-radius: 5px;
+    padding: 1px 6px;
+    font-size: 0.92em;
+  }
+
+  /* ---- Model tabs ---------------------------------------------------- */
+
+  .tabs {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 16px;
+  }
+
+  .tab-btn {
+    flex: 1;
+    border: 1px solid var(--border);
+    background: var(--surface);
+    color: var(--text-dim);
+    font-family: inherit;
+    font-size: 14px;
+    font-weight: 700;
+    padding: 12px 10px;
+    border-radius: var(--radius);
+    cursor: pointer;
+    transition: border-color 0.15s ease, color 0.15s ease, background 0.15s ease;
+  }
+
+  .tab-btn[aria-selected="true"] {
+    color: var(--accent-ink);
+    background: var(--accent-soft);
+    border-color: var(--accent);
+  }
+
+  .tab-btn[data-model="chat"][aria-selected="true"] {
+    color: var(--purple);
+    background: var(--purple-soft);
+    border-color: var(--purple);
+  }
+
+  .tab-panel {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 18px;
+  }
+
+  .tab-panel[hidden] {
+    display: none;
+  }
+
+  .url-row {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    background: var(--surface-muted);
+    border-radius: 10px;
+    padding: 10px 12px;
+  }
+
+  .url-row + .url-row {
+    margin-top: 8px;
+  }
+
+  .url-label {
+    flex: 0 0 auto;
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--text-dim);
+    width: 62px;
+  }
+
+  .url-text {
+    flex: 1;
+    min-width: 0;
+    font-family: 'SFMono-Regular', Consolas, monospace;
+    font-size: 13px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .copy-btn {
+    flex: 0 0 auto;
+    border: 1px solid var(--border);
+    background: var(--surface);
+    color: var(--text);
+    font-family: inherit;
+    font-size: 12px;
+    font-weight: 700;
+    padding: 6px 12px;
+    border-radius: 8px;
+    cursor: pointer;
+  }
+
+  .copy-btn:active {
+    transform: translateY(1px);
+  }
+
+  .copy-btn.copied {
+    background: var(--accent);
+    color: var(--accent-ink);
+    border-color: var(--accent);
+  }
+
+  .howto {
+    margin: 16px 0 0;
+    padding-left: 20px;
+    font-size: 14px;
+  }
+
+  .howto li + li {
+    margin-top: 8px;
+  }
+
+  .howto b {
+    font-weight: 700;
+  }
+
+  /* ---- Tips / troubleshooting ---------------------------------------- */
+
+  .tip-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .tip {
+    display: flex;
+    gap: 12px;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 14px 16px;
+    font-size: 14px;
+  }
+
+  .tip .mark {
+    flex: 0 0 auto;
+    font-weight: 700;
+    color: var(--accent-ink);
+    background: var(--accent-soft);
+    border-radius: 8px;
+    width: 26px;
+    height: 26px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 13px;
+  }
+
+  .trouble {
+    border-left: 3px solid var(--danger);
+  }
+
+  .trouble .mark {
+    color: var(--danger);
+    background: var(--danger-soft);
+  }
+
+  footer {
+    margin-top: 40px;
+    padding-top: 20px;
+    border-top: 1px solid var(--border);
+    font-size: 12.5px;
+    color: var(--text-dim);
+  }
+
+  @media (max-width: 480px) {
+    .url-row {
+      flex-wrap: wrap;
+    }
+    .url-text {
+      order: 3;
+      width: 100%;
+      white-space: normal;
+      word-break: break-all;
+    }
+  }
+</style>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Sora:wght@600;700&display=swap" rel="stylesheet">
+
+<div class="wrap">
+  <header class="hero">
+    <span class="eyebrow">Quick reference</span>
+    <h1>Panduan Giveaway Overlay</h1>
+    <p class="lede">Cara singkat menyalakan &amp; memakai overlay giveaway di OBS — dari nyalain server sampai tekan SPIN. Server jalan lokal di PC kamu sendiri, tidak butuh internet.</p>
+  </header>
+
+  <section class="section">
+    <h2>Sebelum live (sekali saja)</h2>
+    <p class="section-desc">Cukup dilakukan sekali waktu pertama setup.</p>
+    <div class="steps">
+      <div class="step">
+        <div class="step-num">1</div>
+        <div class="step-body">
+          <p>Install <b>Node.js</b> dari nodejs.org kalau belum ada. Cek dengan buka Command Prompt lalu ketik <code>node --version</code>.</p>
+        </div>
+      </div>
+      <div class="step">
+        <div class="step-num">2</div>
+        <div class="step-body">
+          <p>Double-click <code>start-server.bat</code> di folder project sekali. Dependency ke-install otomatis, tunggu sampai muncul pesan server berjalan.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <h2>Setiap mau live</h2>
+    <p class="section-desc">Urutan yang diulang tiap sesi live.</p>
+    <div class="steps">
+      <div class="step">
+        <div class="step-num">1</div>
+        <div class="step-body">
+          <p>Double-click <code>start-server.bat</code>. Biarkan jendela terminalnya tetap terbuka (boleh minimize) selama live.</p>
+        </div>
+      </div>
+      <div class="step">
+        <div class="step-num">2</div>
+        <div class="step-body">
+          <p>Pilih model di bawah, lalu tambahkan URL <b>Overlay</b> (dan <b>Winner</b> kalau mau) sebagai Browser Source baru di OBS.</p>
+          <p>Background transparan otomatis. Atur ukuran source minimal lebar 1000px.</p>
+        </div>
+      </div>
+      <div class="step">
+        <div class="step-num">3</div>
+        <div class="step-body">
+          <p>Buka URL <b>Control Panel</b> di tab browser biasa (Chrome/Edge) — bebas dipindah ke monitor manapun. Bisa juga ditempel di OBS lewat Docks → Custom Browser Docks.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <h2>Pilih model</h2>
+    <p class="section-desc">Dua model bisa dipakai bersamaan (scene berbeda) — datanya terpisah sepenuhnya.</p>
+
+    <div class="tabs" role="tablist">
+      <button class="tab-btn" role="tab" data-model="giveaway" aria-selected="true">Giveaway Spinner</button>
+      <button class="tab-btn" role="tab" data-model="chat" aria-selected="false">Chat Spinner</button>
+    </div>
+
+    <div class="tab-panel" data-panel="giveaway">
+      <div class="url-row">
+        <span class="url-label">Overlay</span>
+        <span class="url-text">http://localhost:3000/giveawayspinner/overlay</span>
+        <button class="copy-btn" data-copy="http://localhost:3000/giveawayspinner/overlay">Salin</button>
+      </div>
+      <div class="url-row">
+        <span class="url-label">Winner</span>
+        <span class="url-text">http://localhost:3000/giveawayspinner/winner</span>
+        <button class="copy-btn" data-copy="http://localhost:3000/giveawayspinner/winner">Salin</button>
+      </div>
+      <div class="url-row">
+        <span class="url-label">Control</span>
+        <span class="url-text">http://localhost:3000/giveawayspinner/control</span>
+        <button class="copy-btn" data-copy="http://localhost:3000/giveawayspinner/control">Salin</button>
+      </div>
+
+      <ol class="howto">
+        <li>Di Control Panel, isi form <b>Tambah Item</b>: nama, qty, format qty, bobot peluang (opsional), gambar (auto crop 540×540px).</li>
+        <li>Butuh banyak item cepat? Pakai <b>Import Cepat</b> — satu baris <code>Nama;Qty;Format</code>.</li>
+        <li>Tekan <b>SPIN</b> — strip gambar bergerak dari kanan ke kiri, melambat, berhenti di 1 pemenang (7 detik), lalu reveal tampil 5 detik.</li>
+      </ol>
+    </div>
+
+    <div class="tab-panel" data-panel="chat" hidden>
+      <div class="url-row">
+        <span class="url-label">Overlay</span>
+        <span class="url-text">http://localhost:3000/chat-spinner/overlay</span>
+        <button class="copy-btn" data-copy="http://localhost:3000/chat-spinner/overlay">Salin</button>
+      </div>
+      <div class="url-row">
+        <span class="url-label">Winner</span>
+        <span class="url-text">http://localhost:3000/chat-spinner/winner</span>
+        <button class="copy-btn" data-copy="http://localhost:3000/chat-spinner/winner">Salin</button>
+      </div>
+      <div class="url-row">
+        <span class="url-label">Control</span>
+        <span class="url-text">http://localhost:3000/chat-spinner/control</span>
+        <button class="copy-btn" data-copy="http://localhost:3000/chat-spinner/control">Salin</button>
+      </div>
+
+      <ol class="howto">
+        <li>Tambah item seperti biasa (nama, qty, format, bobot, gambar).</li>
+        <li>Di bagian <b>Peserta</b>, tambahkan nama-nama yang ikut diundi (satu-satu atau Import Cepat, satu nama per baris). Semua peserta peluangnya sama rata.</li>
+        <li>Tekan <b>SPIN</b> — 1 item &amp; 1 peserta terpilih bersamaan, gambar+nama item dan nama peserta berganti-ganti cepat lalu melambat dan mendarat bersamaan (7 detik), reveal tampil 5 detik.</li>
+      </ol>
+    </div>
+  </section>
+
+  <section class="section">
+    <h2>Tips cepat</h2>
+    <div class="tip-grid">
+      <div class="tip">
+        <span class="mark">%</span>
+        <span><b>Bobot</b> cuma menentukan peluang menang (bobot 2× = 2× lebih sering menang) — tidak memengaruhi kecepatan spin atau seberapa sering item itu kelihatan pas lagi berputar.</span>
+      </div>
+      <div class="tip">
+        <span class="mark">↻</span>
+        <span>Aktifkan <b>"Hapus setelah menang"</b> di Pengaturan kalau stok hadiah terbatas, supaya item yang sudah menang tidak bisa menang lagi.</span>
+      </div>
+      <div class="tip">
+        <span class="mark">♪</span>
+        <span>Mau ada suara? Taruh <code>spin.mp3</code> &amp; <code>win.mp3</code> di folder <code>assets/sfx/</code> masing-masing model. Tanpa file itu, overlay tetap jalan normal (silent).</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <h2>Kalau ada masalah</h2>
+    <div class="tip-grid">
+      <div class="tip trouble">
+        <span class="mark">!</span>
+        <span>Muncul <b>"Tidak terhubung ke server"</b> → pastikan jendela <code>start-server.bat</code> masih terbuka dan tidak error. Refresh Browser Source di OBS setelah server jalan lagi.</span>
+      </div>
+      <div class="tip trouble">
+        <span class="mark">!</span>
+        <span>Port <code>3000</code> bentrok aplikasi lain → jalankan lewat Command Prompt: <code>set PORT=4000 && node server.js</code>, lalu ganti semua URL di atas dari <code>3000</code> ke <code>4000</code>.</span>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    Data (daftar item, peserta, riwayat) tersimpan lokal di folder <code>data/</code>, gambar di <code>uploads/</code> — semuanya di komputer kamu sendiri, tidak terkirim ke internet.
+  </footer>
+</div>
+
+<script>
+(function () {
+  'use strict';
+
+  var STORAGE_KEY = 'giveaway-guide-tab';
+
+  function initTabs() {
+    var buttons = Array.prototype.slice.call(document.querySelectorAll('.tab-btn'));
+    var panels = {};
+    document.querySelectorAll('.tab-panel').forEach(function (p) {
+      panels[p.getAttribute('data-panel')] = p;
+    });
+
+    function select(model) {
+      buttons.forEach(function (b) {
+        b.setAttribute('aria-selected', b.getAttribute('data-model') === model ? 'true' : 'false');
+      });
+      Object.keys(panels).forEach(function (key) {
+        panels[key].hidden = key !== model;
+      });
+      try {
+        localStorage.setItem(STORAGE_KEY, model);
+      } catch (err) {}
+    }
+
+    buttons.forEach(function (b) {
+      b.addEventListener('click', function () {
+        select(b.getAttribute('data-model'));
+      });
+    });
+
+    var saved = null;
+    try {
+      saved = localStorage.getItem(STORAGE_KEY);
+    } catch (err) {}
+    if (saved && panels[saved]) select(saved);
+  }
+
+  function initCopyButtons() {
+    document.querySelectorAll('.copy-btn').forEach(function (btn) {
+      btn.addEventListener('click', function () {
+        var text = btn.getAttribute('data-copy');
+        function done() {
+          var original = btn.textContent;
+          btn.textContent = 'Tersalin!';
+          btn.classList.add('copied');
+          setTimeout(function () {
+            btn.textContent = original;
+            btn.classList.remove('copied');
+          }, 1400);
+        }
+        if (navigator.clipboard && navigator.clipboard.writeText) {
+          navigator.clipboard.writeText(text).then(done, function () {
+            fallbackCopy(text, done);
+          });
+        } else {
+          fallbackCopy(text, done);
+        }
+      });
+    });
+  }
+
+  function fallbackCopy(text, done) {
+    try {
+      var ta = document.createElement('textarea');
+      ta.value = text;
+      ta.style.position = 'fixed';
+      ta.style.opacity = '0';
+      document.body.appendChild(ta);
+      ta.select();
+      document.execCommand('copy');
+      document.body.removeChild(ta);
+      done();
+    } catch (err) {}
+  }
+
+  initTabs();
+  initCopyButtons();
+})();
+</script>
